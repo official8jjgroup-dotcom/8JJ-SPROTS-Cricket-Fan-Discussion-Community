@@ -1,0 +1,11 @@
+title: "8JJ Sports Cricket Fan Discussion Community & Live Scores and News"
+description: "Official Cricket Fan Discussion Community & Live Scores and News from 8JJSports.com"
+theme: minima
+show_excerpts: false
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Disable the top navigation bar
+header_pages: []
