@@ -8,9 +8,9 @@ layout: default
 Stay updated with the latest cricket match results, and insights from around the world.
 
 ### 📰 Latest Articles
-- [man-city-3-0-liverpool-doku-shines-in-guardiolas-1000th.md](./Man City 3-0 Liverpool: Doku Shines in Guardiola’s 1,000th Game)
-- [marco-penge-dp-world-tour-comeback-eyes-race-to-dubai-glory.md](./Marco Penge: DP World Tour Comeback Eyes Race to Dubai Glory)
-- [tommy-fleetwood-abu-dhabi-championship.md](./Tommy Fleetwood – Abu Dhabi Championship Briefing)
+- [Man City 3-0 Liverpool: Doku Shines in Guardiola’s 1,000th Game](./man-city-3-0-liverpool-doku-shines-in-guardiolas-1000th.md)
+- [Marco Penge: DP World Tour Comeback Eyes Race to Dubai Glory](./marco-penge-dp-world-tour-comeback-eyes-race-to-dubai-glory.md)
+- [Tommy Fleetwood – Abu Dhabi Championship Briefing](./tommy-fleetwood-abu-dhabi-championship.md)
 
 ---
 
