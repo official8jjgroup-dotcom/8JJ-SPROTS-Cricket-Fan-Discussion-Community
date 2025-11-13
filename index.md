@@ -29,6 +29,7 @@ Stay updated with the latest cricket match results, and insights from around the
 - [Sri Lanka Cricketers’ Pakistan Safety Fears Increase](./sri-lanka-cricketers-pakistan-safety-fears.md)
 - [Axar Patel Confident: Preparation & Focus Ahead of South Africa Test](./axar-patel-confident-preparation-focus-ahead-of-south-africa-test.md)
 - [Ranji Trophy Rethink After Triple Hundred and Eight Sixes](./ranji-trophy-rethink-after-triple-hundred-and-eight-six.md)
+- [Irfan Pathan & Pitch Conundrum for Shubman Gambhir](./irfan-pathan-pitch-conundrum-for-shubman-gambhir.md)
 
 
 
