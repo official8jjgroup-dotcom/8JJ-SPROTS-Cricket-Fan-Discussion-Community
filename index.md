@@ -13,6 +13,17 @@ Stay updated with the latest cricket match results, and insights from around the
 - [Tommy Fleetwood – Abu Dhabi Championship Briefing](./tommy-fleetwood-abu-dhabi-championship.md)
 - [Florian Wirtz’s Liverpool Form Defended by Germany Boss](./florian-wirtz-liverpool-form-defended-by-germany-boss.md)
 - [Gautam Gambhir on India’s T20 World Cup Preparation](./gautam‐gambhir‐india-t20-world-cup-preparation.md)
+- [Zimbabwe T20I Tri-Series Squad: Newman Nyamhuri Included](./zimbabwe-t20i-tri-series-squad-newman-nyamhuri.md)
+- [Suwanji Madanayake Shines in Masters Cricket Tournament](./suwanji-madanayake-masters-cricket-tournament.md)
+- [Sourav Ganguly: BCCI Message to Mohammed Shami ‘Stuns’ Former Captain](./sourav-ganguly-mohammed-shami-bcci-message-stuns.md)
+- [Shaheen Afridi Sends Message Ahead of Pakistan–Sri Lanka Series](./shaheen-afridi-pakistan-sri-lanka-series-message.md)
+- [Rajasthan Royals–Ravindra Jadeja Trade Talks Stall](./rajasthan-royals-ravindra-jadeja-trade-talks-stall.md)
+- [Shubman Gill’s T20I Spot ‘Under Threat’, Says Ashwin](./shubman-gill-t20i-spot-under-threat-says-ashwin.md)
+- [Delhi Ranji Trophy Crisis: Selector Leaves Mid-Season](./delhi-ranji-trophy-crisis-selector-leaves-mid.md)
+- [Eden Gardens Pink-Ball Test: Kohli’s 136 & India’s Dominance](./eden-gardens-pink-ball-test-kohlis-136-and-indias.md)
+- [Ben Stokes on England’s Ashes Preparations](./ben-stokes-ashes-preparations-england-captain.md)
+- [Tamil Thalaivas Sack Coach Sanjeev Baliyan After PKL 12](./tamil-thalaivas-sanjeev-baliyan-sacked-after-pkl-12.md)
+
 
 ---
 
