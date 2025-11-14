@@ -30,6 +30,10 @@ Stay updated with the latest cricket match results, and insights from around the
 - [Axar Patel Confident: Preparation & Focus Ahead of South Africa Test](./axar-patel-confident-preparation-focus-ahead-of-south-africa-test.md)
 - [Ranji Trophy Rethink After Triple Hundred and Eight Sixes](./ranji-trophy-rethink-after-triple-hundred-and-eight-six.md)
 - [Irfan Pathan & Pitch Conundrum for Shubman Gambhir](./irfan-pathan-pitch-conundrum-for-shubman-gambhir.md)
+- [India vs South Africa 1st Test – Day 1 Live Score](./india-vs-south-africa-1st-test-day-1-live-score.md)
+- [Axar Patel Challenges Captaincy Bias](./axar-patel-challenges-captaincy-bias.md)
+- [Ruturaj Gaikwad Century Powers India A to 4-Wicket Win](./ruturaj-gaikwad-century-powers-india-a-to-4-wicket.md)
+
 
 
 
