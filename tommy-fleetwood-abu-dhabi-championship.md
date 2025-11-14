@@ -19,4 +19,4 @@ You can read the **full original article on 8JJ.com** here:
 
 ## Related Reading  
 - [Lyn Parry Golf Record – Three Holes-in-One in a Month](https://official8jjgroup-dotcom.github.io/8JJ-Sports/lyn-parry-golf-record-three-holes-in-one-in-a-month/)  
-- Visit [https://8jjsports.com/](https://8jjsports.com/) for more sports stories and updates.
+- Visit [8jjsports.com](https://8jjsports.com/) for more sports stories and updates.
