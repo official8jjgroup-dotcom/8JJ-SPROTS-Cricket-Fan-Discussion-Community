@@ -17,5 +17,5 @@ You can read the **full original article on 8JJSports.com** here:
 
 ## Related Reading
 - Visit **8JJSports.com** for more sports stories and updates.  
-👉 [https://8jjsports.com/](https://8jjsports.com/)
+👉 [8jjsports.com](https://8jjsports.com/)
 
