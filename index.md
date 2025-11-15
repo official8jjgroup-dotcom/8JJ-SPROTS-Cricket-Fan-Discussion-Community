@@ -34,6 +34,11 @@ Stay updated with the latest cricket match results, and insights from around the
 - [Axar Patel Challenges Captaincy Bias](./axar-patel-challenges-captaincy-bias.md)
 - [Ruturaj Gaikwad Century Powers India A to 4-Wicket Win](./ruturaj-gaikwad-century-powers-india-a-to-4-wicket.md)
 - [Top 5 Highlights: Vaibhav Suryavanshi in Asia Cup Win](./top-5-highlights-vaibhav-suryavanshi-in-asia-cup-win.md)
+- [Rishabh Pant Sets Record as Gill Suffers Injury](./rishabh-pant-sets-record-as-gill-suffers-injury.md)
+- [Babar Azam Ends Century, Mimics Kohli’s Iconic Celebration](./babar-azam-ends-century-mimics-kohlis-iconic.md)
+- [Rishabh Pant Breaks Virender Sehwag’s Record](./rishabh-pant-breaks-virender-sehwags-record.md)
+- [Ravindra Jadeja Took Pay Cut to Join RR – Stunning IPL Move](./ravindra-jadeja-took-pay-cut-to-join-rr-stunning-ipl.md)
+
 
 
 
