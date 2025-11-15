@@ -33,7 +33,7 @@ Stay updated with the latest cricket match results, and insights from around the
 - [India vs South Africa 1st Test – Day 1 Live Score](./india-vs-south-africa-1st-test-day-1-live-score.md)
 - [Axar Patel Challenges Captaincy Bias](./axar-patel-challenges-captaincy-bias.md)
 - [Ruturaj Gaikwad Century Powers India A to 4-Wicket Win](./ruturaj-gaikwad-century-powers-india-a-to-4-wicket.md)
-
+- [Top 5 Highlights: Vaibhav Suryavanshi in Asia Cup Win](./top-5-highlights-vaibhav-suryavanshi-in-asia-cup-win.md)
 
 
 
