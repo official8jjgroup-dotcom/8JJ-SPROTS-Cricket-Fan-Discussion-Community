@@ -1,7 +1,7 @@
 ---
 title: "Axar Patel Confident: Preparation & Focus Ahead of South Africa Test"
 description: "Axar Patel expresses confidence in his preparation and mindset ahead of the India–South Africa Test series."
-date: 2025-11-13
+date: 2025-11-14
 author: "8JJ Sports"
 layout: post
 ---
