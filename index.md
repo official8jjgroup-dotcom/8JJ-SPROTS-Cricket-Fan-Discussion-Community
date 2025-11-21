@@ -9,6 +9,11 @@ Stay updated with the latest cricket match results, and insights from around the
 
 ### 📰 Latest Articles
 
+
+- [The Ashes: A Storied Rivalry That Shaped Cricket History](./the-ashes-a-storied-rivalry-that-shaped-cricket-history.md)
+- [Penalising Umpires: Two Wrong Decisions Every 80 Overs?](./penalising-umpires-two-wrong-decisions-every-80-overs.md)
+- [Ashes 2025/26: Australia vs England – 1st Test Preview](./ashes-2025-aus-vs-eng-1st-test-preview.md)
+- [Shanaka to Lead Sri Lanka in T20I Tri-Series](./sri-lanka-shanaka-t20i-triseries.md)
 - [Multan Sultans Owner Threatens Legal Action Over PSL Renewal](./multan-sultans-psl-legal.md)
 - [India U19 World Cup 2026: USA Clash Highlights](./india-u19-world-cup-2026-usa.md)
 - [Saudi Cricket Stars Enter ILT20: Season 4 Preview](./saudi-cricket-ilt20-season-4.md)
