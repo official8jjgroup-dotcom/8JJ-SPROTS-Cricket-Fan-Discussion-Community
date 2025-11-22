@@ -10,6 +10,10 @@ Stay updated with the latest cricket match results, and insights from around the
 ### 📰 Latest Articles
 
 
+- [Diksha Dagar Wins Deaflympics Golf Gold](./diksha-dagar-wins-deaflympics-golf-gold.md)
+- [Ryan Williams Cleared for India After FIFA Approval](./ryan-williams-cleared-for-india-after-fifa-approval.md)
+- [Ravindra Jadeja Returns: Anil Kumble Reacts to RR Trade](./ravindra-jadeja-returns-anil-kumble-reacts-to-rr-trade.md)
+- [Aakash Chopra Troll Story With Moeen Ali](./aakash-chopra-troll-story-with-moeen-ali.md)
 - [The Ashes: A Storied Rivalry That Shaped Cricket History](./the-ashes-a-storied-rivalry-that-shaped-cricket-history.md)
 - [Penalising Umpires: Two Wrong Decisions Every 80 Overs?](./penalising-umpires-two-wrong-decisions-every-80-overs.md)
 - [Ashes 2025/26: Australia vs England – 1st Test Preview](./ashes-2025-aus-vs-eng-1st-test-preview.md)
