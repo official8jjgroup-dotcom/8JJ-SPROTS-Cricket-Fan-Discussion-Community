@@ -10,6 +10,11 @@ Stay updated with the latest cricket match results, and insights from around the
 ### 📰 Latest Articles
 
 
+- [Indian Football 2025: Governance Woes and On-Field Struggles](./indian-football-2025-governance-woes.md)
+- [India vs South Africa 2nd Test Day 1 Live Updates: Playing XI & Toss Details](./india-vs-south-africa-2nd-test-day-1-live-updates.md)
+- [BCCI Backs Gautam Gambhir After India’s Test Loss Controversy](./bcci-backs-gautam-gambhir-india-test-loss.md)
+- [Vaibhav Suryavanshi Snub Sparks Outrage After India A Defeat](./vaibhav-suryavanshi-snub-india-a-defeat.md)
+- [India A Collapse as Bangladesh A Win Thriller in Super Over](./india-a-collapse-bangladesh-a-win-super-over.md)
 - [Diksha Dagar Wins Deaflympics Golf Gold](./diksha-dagar-wins-deaflympics-golf-gold.md)
 - [Ryan Williams Cleared for India After FIFA Approval](./ryan-williams-cleared-for-india-after-fifa-approval.md)
 - [Ravindra Jadeja Returns: Anil Kumble Reacts to RR Trade](./ravindra-jadeja-returns-anil-kumble-reacts-to-rr-trade.md)
