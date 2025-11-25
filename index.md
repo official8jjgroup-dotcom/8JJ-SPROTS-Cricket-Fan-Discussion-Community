@@ -10,6 +10,10 @@ Stay updated with the latest cricket match results, and insights from around the
 ### 📰 Latest Articles
 
 
+- [R Ashwin Slams England's Reckless Batting After Ashes 2025 Opener](./r-ashwin-slams-englands-reckless-batting-after-ashes-2025-opener.md)
+- [KL Rahul Named India ODI Captain Over Rishabh Pant for South Africa Series](./kl-rahul-named-india-odi-captain-over-rishabh-pant-for-south-africa-series.md)
+- [India vs South Africa: Kumble Critiques Pant's Captaincy on Day 2](./india-vs-south-africa-kumble-critiques-pants-captaincy-on-day-2.md)
+- [Ryan Williams Switches to India: 32-Year-Old Football Star's Bold Move](./ryan-williams-switches-to-india-32-year-old-football-stars-bold-move.md)
 - [Indian Football 2025: Governance Woes and On-Field Struggles](./indian-football-2025-governance-woes.md)
 - [India vs South Africa 2nd Test Day 1 Live Updates: Playing XI & Toss Details](./india-vs-south-africa-2nd-test-day-1-live-updates.md)
 - [BCCI Backs Gautam Gambhir After India’s Test Loss Controversy](./bcci-backs-gautam-gambhir-india-test-loss.md)
