@@ -61,6 +61,10 @@ Stay updated with the latest cricket match results, and insights from around the
 - [Babar Azam Ends Century, Mimics Kohli’s Iconic Celebration](./babar-azam-ends-century-mimics-kohlis-iconic.md)
 - [Rishabh Pant Breaks Virender Sehwag’s Record](./rishabh-pant-breaks-virender-sehwags-record.md)
 - [Ravindra Jadeja Took Pay Cut to Join RR – Stunning IPL Move](./ravindra-jadeja-took-pay-cut-to-join-rr-stunning-ipl.md)
+- [BCCI Calls Sudden Meeting With Gambhir, Agarkar Ahead of 2nd ODI](./bcci-calls-sudden-meeting-with-gambhir-agarkar-ahead-of-2nd-odi.md)
+- [Rohit Sharma After Animated ODI Win Chat](./rohit-sharma-after-animated-odi-win-chat.md)
+- [Virat Kohli’s Future After Coach’s Bold Reply](./virat-kohlis-future-after-coachs-bold-reply.md)
+
 
 
 
