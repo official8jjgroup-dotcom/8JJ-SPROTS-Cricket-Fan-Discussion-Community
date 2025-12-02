@@ -64,6 +64,11 @@ Stay updated with the latest cricket match results, and insights from around the
 - [BCCI Calls Sudden Meeting With Gambhir, Agarkar Ahead of 2nd ODI](./bcci-calls-sudden-meeting-with-gambhir-agarkar-ahead-of-2nd-odi.md)
 - [Rohit Sharma After Animated ODI Win Chat](./rohit-sharma-after-animated-odi-win-chat.md)
 - [Virat Kohli’s Future After Coach’s Bold Reply](./virat-kohlis-future-after-coachs-bold-reply.md)
+- [Dubai Capitals Face Desert Vipers in ILT20 2025 Opener](./dubai-capitals-vs-desert-vipers-ilt20-2025-opener.md)
+- [Virat Kohli: Dale Steyn Praises His 38-Year-Old ODI Brilliance](./virat-kohli-dale-steyn-38-year-odi-brilliance.md)
+- [Virat Kohli’s Cricket Preparation at 37](./virat-kohli-cricket-preparation-37.md)
+- [Rohit Sharma Fitness: 5 Highlights From Ranchi ODI](./rohit-sharma-fitness-5-highlights-ranchi-odi.md)
+- [Shubman Gill Fitness Test Updates Ahead of T20I](./shubman-gill-fitness-test-t20i.md)
 
 
 
