@@ -69,6 +69,10 @@ Stay updated with the latest cricket match results, and insights from around the
 - [Virat Kohli’s Cricket Preparation at 37](./virat-kohli-cricket-preparation-37.md)
 - [Rohit Sharma Fitness: 5 Highlights From Ranchi ODI](./rohit-sharma-fitness-5-highlights-ranchi-odi.md)
 - [Shubman Gill Fitness Test Updates Ahead of T20I](./shubman-gill-fitness-test-t20i.md)
+- [Jacques Kallis Says SA20 Has Transformed South African Cricket Like IPL Did For India](./jacques-kallis-sa20-transforms-south-african-cricket-like-ipl.md)
+- [Shubman Gill As Selection Committee Meets In Raipur](./shubman-gill-selection-committee-meets-in-raipur.md)
+- [Virat Kohli Stuns With Massive Sixes Ahead of IND vs SA 2nd ODI](./virat-kohli-massive-sixes-ahead-of-ind-vs-sa-2nd-odi.md)
+- [India Rebuild Debate As Moeen Ali Dismisses Gautam Gambhir’s Claim](./india-rebuild-debate-moeen-ali-dismisses-gautam-gambhir-claim.md)
 
 
 
