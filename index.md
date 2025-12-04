@@ -10,6 +10,9 @@ Stay updated with the latest cricket match results, and insights from around the
 ### 📰 Latest Articles
 
 
+- [Tilak Verma’s Jaw-Dropping Catch Steals the Show in 2nd ODI](./tilak-verma-jaw-dropping-catch-steals-the-show-2nd-odi.md)
+- [Virat Kohli Shatters Sachin Tendulkar’s Record as Century Scoring Spree Continues](./virat-kohli-shatters-sachin-tendulkar-record-century-spree.md)
+- [Mohit Sharma Announces Retirement From All Cricket Formats](./mohit-sharma-announces-retirement-all-cricket-formats.md)
 - [R Ashwin Slams England's Reckless Batting After Ashes 2025 Opener](./r-ashwin-slams-englands-reckless-batting-after-ashes-2025-opener.md)
 - [KL Rahul Named India ODI Captain Over Rishabh Pant for South Africa Series](./kl-rahul-named-india-odi-captain-over-rishabh-pant-for-south-africa-series.md)
 - [India vs South Africa: Kumble Critiques Pant's Captaincy on Day 2](./india-vs-south-africa-kumble-critiques-pants-captaincy-on-day-2.md)
