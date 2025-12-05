@@ -9,7 +9,10 @@ Stay updated with the latest cricket match results, and insights from around the
 
 ### 📰 Latest Articles
 
-
+- [R Ashwin Urges Role Clarity for Washington Sundar](/.ashwin-urges-role-clarity-for-washington-sundar.md)
+- [Manchester United Drop Points in 1-1 West Ham Draw](/.manchester-united-drop-points-in-1-1-west-ham-draw.md)
+- [Joe Root Saves Hayden From Nude Dare](/.joe-root-saves-hayden-from-nude-dare.md)
+- [Rohit Sharma’s 2027 World Cup Wish Revealed](/.rohit-sharma-2027-world-cup-wish-revealed.md)
 - [Tilak Verma’s Jaw-Dropping Catch Steals the Show in 2nd ODI](./tilak-verma-jaw-dropping-catch-steals-the-show-2nd-odi.md)
 - [Virat Kohli Shatters Sachin Tendulkar’s Record as Century Scoring Spree Continues](./virat-kohli-shatters-sachin-tendulkar-record-century-spree.md)
 - [Mohit Sharma Announces Retirement From All Cricket Formats](./mohit-sharma-announces-retirement-all-cricket-formats.md)
