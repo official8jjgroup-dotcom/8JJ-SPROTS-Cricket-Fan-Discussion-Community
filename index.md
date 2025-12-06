@@ -9,6 +9,11 @@ Stay updated with the latest cricket match results, and insights from around the
 
 ### 📰 Latest Articles
 
+- [Ruturaj Gaikwad Deserves Longer Run, Says R Ashwin](/.ruturaj-gaikwad-deserves-longer-run-says-r-ashwin.md)
+- [KKR CEO Reveals Shah Rukh Khan’s Role in Andre Russell’s IPL Retirement](/.kkr-ceo-reveals-shah-rukh-khans-role-in-andre-russells-ipl-retirement.md)
+- [Vaibhav Suryavanshi India’s Most-Searched Cricketer 2025](/.vaibhav-suryavanshi-indias-most-searched-cricketer-2025.md)
+- [Australia vs England 2nd Ashes Test Live Score](/.australia-vs-england-2nd-ashes-test-live-score.md)
+- [Simon Harmer Dominated ICC Player Awards](/.simon-harmer-dominated-icc-player-awards.md)
 - [R Ashwin Urges Role Clarity for Washington Sundar](/.ashwin-urges-role-clarity-for-washington-sundar.md)
 - [Manchester United Drop Points in 1-1 West Ham Draw](/.manchester-united-drop-points-in-1-1-west-ham-draw.md)
 - [Joe Root Saves Hayden From Nude Dare](/.joe-root-saves-hayden-from-nude-dare.md)
