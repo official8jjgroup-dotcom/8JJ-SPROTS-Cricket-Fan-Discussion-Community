@@ -9,6 +9,11 @@ Stay updated with the latest cricket match results, and insights from around the
 
 ### 📰 Latest Articles
 
+- [Shardul Thakur’s Mumbai Indians Reunion Matters](/.shardul-thakurs-mumbai-indians-reunion-matters.md)
+- [Abhishek Sharma Must Use to Counter South Africa](/.abhishek-sharma-must-use-to-counter-south-africa.md)
+- [Mohammed Shami Dominates as Sai Sudharsan Smashes a Stunning Ton in SMAT](/.mohammed-shami-shines-as-sai-sudharsan-hits-in-smat.md)
+- [David Miller Back and Fit: Ready for India T20I Clash](/.david-miller-back-and-fit-ready-for-india-t20i.md)
+- [IPL 2026 Auction: De Kock Returns, 1,005 Players Dropped](/.ipl-2026-auction-de-kock-returns-players-dropped.md)
 - [BCCI Should Give Space To Virat Kohli, Rohit Sharma: Sanjay Bangar](/.BCCI-Virat-Rohit-Space-Sanjay-Bangar.md)
 - [Gautam Gambhir Backs Harshit Rana as Top Bowling All-Rounder](/.Gautam-Gambhir-Backs-Harshit-Rana.md)
 - [Ravi Shastri Defends Gautam Gambhir After India’s South Africa Whitewash](/.Ravi-Shastri-Defends-Gautam-Gambhir.md)
