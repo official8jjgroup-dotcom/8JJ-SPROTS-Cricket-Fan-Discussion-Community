@@ -1,9 +1,11 @@
 ---
+
 title: "India Rebuild Debate As Moeen Ali Dismisses Gautam Gambhir’s Claim"
-description: ""Moeen Ali publicly disagrees with India head coach Gautam Gambhir’s claim of a transition phase, sparking debates on whether India truly needs a rebuild after the 0–2 home Test series loss to South Africa."
+description: "Moeen Ali publicly disagrees with India head coach Gautam Gambhir’s claim of a transition phase, sparking debates on whether India truly needs a rebuild after the 0–2 home Test series loss to South Africa."
 date: 2025-12-03
 author: "8JJ Sports"
 layout: post
+
 ---
 
 # India Rebuild Debate Gains Momentum After 0–2 Home Whitewash
