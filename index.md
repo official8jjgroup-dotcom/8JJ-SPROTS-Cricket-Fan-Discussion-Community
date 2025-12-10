@@ -9,6 +9,9 @@ Stay updated with the latest cricket match results, and insights from around the
 
 ### 📰 Latest Articles
 
+- [Pat Cummins Returns: Australia Squad Announced for 3rd Ashes Test](/.pat-cummins-returns-australia-squad-3rd-ashes-test.md)
+- [Hardik Pandya Stars as India Crush SA in 1st T20I by 101 Runs](/.hardik-pandya-stars-india-crush-sa-1st-t20i-101-runs.md)
+- [IPL 2026 Auction: Complete Player List & Base Prices](/.ipl-2026-auction-complete-player-list-base-prices.md)
 - [Shardul Thakur’s Mumbai Indians Reunion Matters](/.shardul-thakurs-mumbai-indians-reunion-matters.md)
 - [Abhishek Sharma Must Use to Counter South Africa](/.abhishek-sharma-must-use-to-counter-south-africa.md)
 - [Mohammed Shami Dominates as Sai Sudharsan Smashes a Stunning Ton in SMAT](/.mohammed-shami-shines-as-sai-sudharsan-hits-in-smat.md)
