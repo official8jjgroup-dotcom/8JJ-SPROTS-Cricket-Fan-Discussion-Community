@@ -9,6 +9,8 @@ Stay updated with the latest cricket match results, and insights from around the
 
 ### 📰 Latest Articles
 
+- [Smriti Mandhana: Mindset After Wedding Heartbreak](/.smriti-mandhana-mindset-after-wedding-heartbreak.md)
+- [Yashasvi Jaiswal Names Shubman Gill Most Hard-Working Player](/.yashasvi-jaiswal-names-shubman-gill-hardworking.md)
 - [Pat Cummins Returns: Australia Squad Announced for 3rd Ashes Test](/.pat-cummins-returns-australia-squad-3rd-ashes-test.md)
 - [Hardik Pandya Stars as India Crush SA in 1st T20I by 101 Runs](/.hardik-pandya-stars-india-crush-sa-1st-t20i-101-runs.md)
 - [IPL 2026 Auction: Complete Player List & Base Prices](/.ipl-2026-auction-complete-player-list-base-prices.md)
