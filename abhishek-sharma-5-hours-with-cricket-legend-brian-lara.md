@@ -23,7 +23,7 @@ This guidance comes at a pivotal moment in Sharma’s career, having scored **75
 ---
 
 You can read the **full original article on 8jj.com** here:  
-👉 [Abhishek Sharma: 5 Hours With Cricket Legend Brian Lara]()
+👉 [Abhishek Sharma: 5 Hours With Cricket Legend Brian Lara](https://8jjsports.com/abhishek-sharma-5-hours-cricket-legend-brian-lara/)
 
 ---
 
