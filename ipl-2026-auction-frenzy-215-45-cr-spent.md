@@ -13,7 +13,7 @@ The IPL 2026 Auction witnessed record-breaking bids, with franchises collectivel
 ---
 
 You can read the **full original article on 8jj.com** here:  
-👉 [IPL 2026 Auction Frenzy: ₹215.45 Cr Spent on 77 Star Players](https://8jj.com/ipl-2026-auction-frenzy-215-45-cr-spent-on-77-star-players/)
+👉 [IPL 2026 Auction Frenzy: ₹215.45 Cr Spent on 77 Star Players](https://8jjsports.com/ipl-2026-auction-analysis-215-45-cr-spent/)
 
 ---
 
