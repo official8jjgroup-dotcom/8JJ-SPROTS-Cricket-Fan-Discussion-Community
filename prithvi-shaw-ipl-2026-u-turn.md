@@ -13,7 +13,7 @@ Prithvi Shaw experienced a rollercoaster during the IPL 2026 auction, initially 
 ---
 
 You can read the **full original article on 8jj.com** here:  
-👉 [Prithvi Shaw IPL 2026 Explosive U-Turn: 5 Dramatic Moments After Delhi Capitals Pick](https://8jj.com/prithvi-shaw-ipl-2026-explosive-u-turn-5-dramatic-moments-after-delhi-capitals-pick/)
+👉 [Prithvi Shaw IPL 2026 Explosive U-Turn: 5 Dramatic Moments After Delhi Capitals Pick](https://8jjsports.com/prithvi-shaw-ipl-2026-explosive-u-turn-5-moments/)
 
 ---
 
