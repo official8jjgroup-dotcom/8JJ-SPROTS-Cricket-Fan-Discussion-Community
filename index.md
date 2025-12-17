@@ -102,6 +102,11 @@ Stay updated with the latest cricket match results, and insights from around the
 - [Shubman Gill As Selection Committee Meets In Raipur](./shubman-gill-selection-committee-meets-in-raipur.md)
 - [Virat Kohli Stuns With Massive Sixes Ahead of IND vs SA 2nd ODI](./virat-kohli-massive-sixes-ahead-of-ind-vs-sa-2nd-odi.md)
 - [India Rebuild Debate As Moeen Ali Dismisses Gautam Gambhir’s Claim](./india-rebuild-debate-moeen-ali-dismisses-gautam-gambhir-claim.md)
+- [Ashes Test Shake‑Up: Khawaja In for Smith at Adelaide](./ashes-test-shock-khawaja-replaces-smith-adelaide.md)
+- [IPL 2026 Auction: Massive Spending and Strategic Moves](./ipl-2026-auction-frenzy-215-45-cr-spent.md)
+- [Prithvi Shaw’s Dramatic IPL 2026 Comeback](./prithvi-shaw-ipl-2026-u-turn.md)
+- [Anrich Nortje IPL Boost: Lucknow Deal Sparks Revival](./anrich-nortje-ipl-boost-lucknow-deal-revival.md)
+- [Hobart Hurricanes Secure Dramatic Four-Wicket Win in BBL 2025 Opener](./hobart-hurricanes-4-wicket-win-bbl-2025.md)
 
 
 
