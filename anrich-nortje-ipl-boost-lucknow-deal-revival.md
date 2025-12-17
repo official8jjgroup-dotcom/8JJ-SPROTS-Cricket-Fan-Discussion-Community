@@ -13,7 +13,7 @@ Anrich Nortje’s IPL 2026 journey takes a pivotal turn as Lucknow Super Giants 
 ---
 
 You can read the **full original article on 8jj.com** here:  
-👉 [Anrich Nortje IPL Boost: 5 Key Reasons Lucknow Deal Sparks Revival](https://8jj.com/anrich-nortje-ipl-boost-5-key-reasons-lucknow-deal-sparks-revival/)
+👉 [Anrich Nortje IPL Boost: 5 Key Reasons Lucknow Deal Sparks Revival](https://8jjsports.com/anrich-nortje-ipl-boost-lsg-deal-sparks-revival/)
 
 ---
 
