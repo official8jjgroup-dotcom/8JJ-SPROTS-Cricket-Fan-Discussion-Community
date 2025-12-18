@@ -107,7 +107,9 @@ Stay updated with the latest cricket match results, and insights from around the
 - [Prithvi Shaw’s Dramatic IPL 2026 Comeback](./prithvi-shaw-ipl-2026-u-turn.md)
 - [Anrich Nortje IPL Boost: Lucknow Deal Sparks Revival](./anrich-nortje-ipl-boost-lucknow-deal-revival.md)
 - [Hobart Hurricanes Secure Dramatic Four-Wicket Win in BBL 2025 Opener](./hobart-hurricanes-4-wicket-win-bbl-2025.md)
-
+- [BCCI Scheduling Blunder Leads to Lucknow T20I Washout](./bcci-scheduling-failure-lucknow-t20i.md)
+- [ICC Intervenes After Alex Carey Snicko Controversy in Ashes Test](./icc-action-alex-carey-snicko-controversy.md)
+- [Man City Reach League Cup Semi-Finals After 2–0 Win Over Brentford](./man-city-league-cup-semi-finals.md)
 
 
 
