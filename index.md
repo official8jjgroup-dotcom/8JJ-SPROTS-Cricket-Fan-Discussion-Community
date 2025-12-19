@@ -110,6 +110,10 @@ Stay updated with the latest cricket match results, and insights from around the
 - [BCCI Scheduling Blunder Leads to Lucknow T20I Washout](./bcci-scheduling-failure-lucknow-t20i.md)
 - [ICC Intervenes After Alex Carey Snicko Controversy in Ashes Test](./icc-action-alex-carey-snicko-controversy.md)
 - [Man City Reach League Cup Semi-Finals After 2–0 Win Over Brentford](./man-city-league-cup-semi-finals.md)
+- [Napoli Secure Statement Win in Italian Super Cup Semi-Final](./napoli-win-italian-super-cup-semi-final.md)
+- [Josh Inglis’ IPL 2026 U-Turn After ₹8.6 Crore Auction Shock](./josh-inglis-ipl-2026-auction-u-turn.md)
+- [Lionel Messi Wears Indian Cricket Jersey in Viral Adidas Shoot](./lionel-messi-indian-cricket-jersey-kuldeep-yadav.md)
+
 
 
 
