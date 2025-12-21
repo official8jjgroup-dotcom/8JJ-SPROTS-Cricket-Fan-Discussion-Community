@@ -13,7 +13,7 @@ The upcoming Women’s T20I series between India and Sri Lanka highlights contra
 ---
 
 You can read the **full original article on 8jjsports.com** here:  
-👉 [5 Key Talking Points Ahead of India vs Sri Lanka Women T20I Series](https://8jj.com/india-vs-sri-lanka-women-t20i-talking-points/)
+👉 [5 Key Talking Points Ahead of India vs Sri Lanka Women T20I Series](https://8jjsports.com/5-crucial-talking-points-women-t20i-showdown/)
 
 ---
 
