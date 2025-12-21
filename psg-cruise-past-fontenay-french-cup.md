@@ -13,7 +13,7 @@ Paris Saint-Germain delivered a professional 4–0 French Cup win over Fontenay,
 ---
 
 You can read the **full original article on 8jjsports.com** here:  
-👉 [5 Key Moments as PSG Cruise Past Fontenay in French Cup](https://8jj.com/psg-cruise-past-fontenay-french-cup/)
+👉 [5 Key Moments as PSG Cruise Past Fontenay in French Cup](https://8jjsports.com/5-dominant-moments-psg-cruise-past-fontenay/)
 
 ---
 
