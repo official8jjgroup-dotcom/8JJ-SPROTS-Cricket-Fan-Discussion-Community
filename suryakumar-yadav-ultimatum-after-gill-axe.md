@@ -13,7 +13,7 @@ India’s T20 World Cup 2026 squad announcement has exposed a stricter selection
 ---
 
 You can read the **full original article on 8jjsports.com** here:  
-👉 [5 Major Facts Behind Suryakumar Yadav Ultimatum After Gill Axe](https://8jj.com/suryakumar-yadav-ultimatum-after-gill-axe/)
+👉 [5 Major Facts Behind Suryakumar Yadav Ultimatum After Gill Axe](https://8jjsports.com/5-brutal-facts-suryakumar-ultimatum-gill-axe/)
 
 ---
 
