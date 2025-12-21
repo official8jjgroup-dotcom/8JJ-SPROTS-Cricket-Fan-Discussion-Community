@@ -113,6 +113,10 @@ Stay updated with the latest cricket match results, and insights from around the
 - [Napoli Secure Statement Win in Italian Super Cup Semi-Final](./napoli-win-italian-super-cup-semi-final.md)
 - [Josh Inglis’ IPL 2026 U-Turn After ₹8.6 Crore Auction Shock](./josh-inglis-ipl-2026-auction-u-turn.md)
 - [Lionel Messi Wears Indian Cricket Jersey in Viral Adidas Shoot](./lionel-messi-indian-cricket-jersey-kuldeep-yadav.md)
+- [Suryakumar Yadav Faces Ultimatum After Shubman Gill Omission](./suryakumar-yadav-ultimatum-after-gill-axe.md)
+- [PSG Dominate Fontenay With Commanding French Cup Victory](./psg-cruise-past-fontenay-french-cup.md)
+- [Key Talking Points Ahead of India vs Sri Lanka Women T20I Series](./india-vs-sri-lanka-women-t20i-talking-points.md)
+
 
 
 
