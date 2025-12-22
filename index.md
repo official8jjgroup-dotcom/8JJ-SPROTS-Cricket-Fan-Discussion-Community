@@ -9,6 +9,9 @@ Stay updated with the latest cricket match results, and insights from around the
 
 ### 📰 Latest Articles
 
+- [Aston Villa Victory Sparks Major Momentum in Premier League Title Race](./aston-villa-victory-sparks-major-momentum-in-premier-league-title-race.md)
+- [Pakistan’s Dominant Performance Shines in U19 Asia Cup Final Against India](./pakistan-dominant-performance-shines-in-u19-asia-cup-final-against-india.md)
+- [How Ishan Kishan’s Return Transformed the T20 World Cup Squad](./ishan-kishans-return-transformed-the-t20-world-cup-squad.md)
 - [Suryakumar Yadav Faces Pressure Amid Poor T20I Form](./suryakumar-yadav-faces-pressure-amid-poor-t20i-form.md)
 - [4 Assam Cricketers Suspended Over Corruption Allegations](./4-assam-cricketers-suspended-over-corruption-allegations.md)
 - [Abhishek Sharma: 5 Hours With Cricket Legend Brian Lara](./abhishek-sharma-5-hours-with-cricket-legend-brian-lara.md)
