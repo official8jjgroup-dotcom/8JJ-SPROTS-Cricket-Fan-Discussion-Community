@@ -9,6 +9,8 @@ Stay updated with the latest cricket match results, and insights from around the
 
 ### 📰 Latest Articles
 
+- [Brendon McCullum Resolute to Stay as England Coach Despite Ashes Humiliation](./brendon-mccullum-resolute-to-stay-as-england-coach-despite-ashes-humiliation.md)
+- [From Borgaon to IPL Stardom: Mangesh Yadav's Journey to RCB for Rs 5.2 Crore](./from-borgaon-to-ipl-stardom-mangesh-yadavs-journey-to-rcb-for-rs-5-2-crore.md)
 - [Aston Villa Victory Sparks Major Momentum in Premier League Title Race](./aston-villa-victory-sparks-major-momentum-in-premier-league-title-race.md)
 - [Pakistan’s Dominant Performance Shines in U19 Asia Cup Final Against India](./pakistan-dominant-performance-shines-in-u19-asia-cup-final-against-india.md)
 - [How Ishan Kishan’s Return Transformed the T20 World Cup Squad](./ishan-kishans-return-transformed-the-t20-world-cup-squad.md)
