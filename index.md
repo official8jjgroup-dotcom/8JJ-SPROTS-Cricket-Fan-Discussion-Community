@@ -9,6 +9,10 @@ Stay updated with the latest cricket match results, and insights from around the
 
 ### 📰 Latest Articles
 
+- [Rohit Kohli Amazing 100 Light Up Vijay Hazare Trophy](./rohit-kohli-amazing-100-light-up-vijay-hazare-trophy.md)
+- [Rashid Khan Shows Remarkable Resilience: Explains Bulletproof Car Use in Afghanistan](./rashid-khan-shows-remarkable-resilience-explains-bulletproof-car-use-in-afghanistan.md)
+- [Guardiola Shapes Haaland’s Rise at City: Amazing Positive Impact](./guardiola-shapes-haalands-rise-at-city-amazing-positive-impact.md)
+- [Positive Boost: Real Madrid Secure Last-Gasp Win to Stay Top](./positive-boost-real-madrid-secure-last-gasp-win-to-stay-top.md)
 - [Brendon McCullum Resolute to Stay as England Coach Despite Ashes Humiliation](./brendon-mccullum-resolute-to-stay-as-england-coach-despite-ashes-humiliation.md)
 - [From Borgaon to IPL Stardom: Mangesh Yadav's Journey to RCB for Rs 5.2 Crore](./from-borgaon-to-ipl-stardom-mangesh-yadavs-journey-to-rcb-for-rs-5-2-crore.md)
 - [Aston Villa Victory Sparks Major Momentum in Premier League Title Race](./aston-villa-victory-sparks-major-momentum-in-premier-league-title-race.md)
