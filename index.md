@@ -125,6 +125,10 @@ Stay updated with the latest cricket match results, and insights from around the
 - [Suryakumar Yadav Faces Ultimatum After Shubman Gill Omission](./suryakumar-yadav-ultimatum-after-gill-axe.md)
 - [PSG Dominate Fontenay With Commanding French Cup Victory](./psg-cruise-past-fontenay-french-cup.md)
 - [Key Talking Points Ahead of India vs Sri Lanka Women T20I Series](./india-vs-sri-lanka-women-t20i-talking-points.md)
+- [Gautam Gambhir Faces Mounting BCCI Pressure in 2025](./gautam-gambhir-bcci-signals-2025.md)
+- [AFCON 2025: Nigeria Qualify Early as Senegal Stay in Control](./afcon-2025-nigeria-senegal-early-qualification.md)
+- [Joe Root Reaches 22,000 Runs During Ashes 2025](./joe-root-22000-runs-ashes-2025.md)
+
 
 
 
