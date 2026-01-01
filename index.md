@@ -9,6 +9,9 @@ Stay updated with the latest cricket match results, and insights from around the
 
 ### 📰 Latest Articles
 
+- [Glenn Phillips’ Stunning Left-Hand Switch Stuns Super Smash Fans](./glenn-phillips-left-hand-switch-super-smash.md)
+- [Indian Cricket Team 2026 Schedule: Ultimate Fixtures Revealed](./indian-cricket-team-2026-schedule-fixtures.md)
+- [Virat Kohli New Year: Amazing Record Chase Sparks Huge Buzz](./virat-kohli-new-year-record-chase.md)
 - [Rohit Kohli Amazing 100 Light Up Vijay Hazare Trophy](./rohit-kohli-amazing-100-light-up-vijay-hazare-trophy.md)
 - [Rashid Khan Shows Remarkable Resilience: Explains Bulletproof Car Use in Afghanistan](./rashid-khan-shows-remarkable-resilience-explains-bulletproof-car-use-in-afghanistan.md)
 - [Guardiola Shapes Haaland’s Rise at City: Amazing Positive Impact](./guardiola-shapes-haalands-rise-at-city-amazing-positive-impact.md)
