@@ -9,6 +9,9 @@ Stay updated with the latest cricket match results, and insights from around the
 
 ### 📰 Latest Articles
 
+- [Jason Gillespie Lifts Lid on Pakistan Cricket Board Controversy](./jason-gillespie-lifts-lid-on-pakistan-cricket-board-controversy.md)
+- [Brendon McCullum Under Pressure as ECB Chief Evaluates Ashes Debacle](./brendon-mccullum-under-pressure-as-ecb-chief-evaluates-ashes-debacle.md)
+- [Usman Khawaja Blasts Racial Bias After Ashes Criticism in Emotional Retirement Speech](./usman-khawaja-blasts-racial-bias-after-ashes-criticism-in-emotional-retirement-speech.md)
 - [Glenn Phillips’ Stunning Left-Hand Switch Stuns Super Smash Fans](./glenn-phillips-left-hand-switch-super-smash.md)
 - [Indian Cricket Team 2026 Schedule: Ultimate Fixtures Revealed](./indian-cricket-team-2026-schedule-fixtures.md)
 - [Virat Kohli New Year: Amazing Record Chase Sparks Huge Buzz](./virat-kohli-new-year-record-chase.md)
