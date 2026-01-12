@@ -9,6 +9,10 @@ Stay updated with the latest cricket match results, and insights from around the
 
 ### 📰 Latest Articles
 
+- [Rishabh Pant Replaces KL Rahul in India’s Predicted XI vs New Zealand](./rishabh-pant-replaces-kl-rahul-in-indias-predicted-xi-vs-new-zealand.md)
+- [Virat Kohli Meets His Childhood Look-Alike Ahead of Thrilling India vs NZ ODI](./virat-kohli-meets-his-childhood-look-alike-ahead-of-thrilling-india-vs-nz-odi.md)
+- [Shubman Gill Responds to ODI 'Easiest Format' Claim](./shubman-gill-responds-to-odi-easiest-format-claim.md)
+- [Dewald Brevis Focused Ahead of T20 World Cup 2026](./dewald-brevis-focused-ahead-of-t20-world-cup-2026.md)
 - [Jason Gillespie Lifts Lid on Pakistan Cricket Board Controversy](./jason-gillespie-lifts-lid-on-pakistan-cricket-board-controversy.md)
 - [Brendon McCullum Under Pressure as ECB Chief Evaluates Ashes Debacle](./brendon-mccullum-under-pressure-as-ecb-chief-evaluates-ashes-debacle.md)
 - [Usman Khawaja Blasts Racial Bias After Ashes Criticism in Emotional Retirement Speech](./usman-khawaja-blasts-racial-bias-after-ashes-criticism-in-emotional-retirement-speech.md)
