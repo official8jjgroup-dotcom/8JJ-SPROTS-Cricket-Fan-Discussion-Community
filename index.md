@@ -9,6 +9,11 @@ Stay updated with the latest cricket match results, and insights from around the
 
 ### 📰 Latest Articles
 
+- [R Ashwin Slams Team India: 5 Reasons Arshdeep Singh Benchings Spark Outrage](./ashwin-slams-team-india-5-reasons-arshdeep-singh-benchings-spark-outrage.md)
+- [Big Bash League Introduces Designated Player Rule for 2026-27 Season](./big-bash-league-introduces-designated-player-rule-for-2026-27-season.md)
+- [SA20 Playoffs: Capitals’ Historic Comeback Shakes Standings](./sa20-playoffs-capitals-historic-comeback-shakes-standings.md)
+- [Courtney Walsh Joins Zimbabwe as Bowling Consultant Ahead of T20 World Cup 2026](./courtney-walsh-joins-zimbabwe-as-bowling-consultant-ahead-of-t20-world-cup-2026.md)
+- [Mandhana WPL Heroics Guide RCB To 4th Straight Win](./mandhana-wpl-heroics-guide-rcb-to-4th-straight-win.md)
 - [Bangladesh Cricket Board Reschedules BPL 2026 Amid Player Boycott: 5 Key Updates](./bangladesh-cricket-board-reschedules-bpl-2026-amid-player-boycott-5-key-updates.md)
 - [R Ashwin Slams Team India: 5 Reasons Arshdeep Singh Benchings Spark Outrage](./r-ashwin-slams-team-india-5-reasons-arshdeep-singh-benchings-spark-outrage.md)
 - [Vaibhav Suryavanshi Debate: 6 Big Concerns Raised Over U19 World Cup Call](./vaibhav-suryavanshi-debate-6-big-concerns-raised-over-u19-world-cup-call.md)
