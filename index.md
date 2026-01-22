@@ -9,6 +9,11 @@ Stay updated with the latest cricket match results, and insights from around the
 
 ### 📰 Latest Articles
 
+- [Babar Azam & Steve Smith: 1 Major BBL Feud Settled](./babar-azam-steve-smith-major-bbl-feud-settled.md)
+- [Jannik Sinner Dominates to Reach Australian Open Second Round](./jannik-sinner-dominates-to-reach-australian-open-second-round.md)
+- [Aryna Sabalenka Dominates at Australian Open with 6-3 6-1 Win](./aryna-sabalenka-dominates-australian-open-6-3-6-1.md)
+- [Senegal Wins 1-0 in Heroic AFCON Final Against Morocco](./senegal-1-0-afcon-final-win-against-morocco.md)
+- [Sanjay Manjrekar Defends Gambhir After India Lose ODI Series](./manjrekar-defends-gambhir-after-india-odi-series-loss.md)
 - [R Ashwin Slams Team India: 5 Reasons Arshdeep Singh Benchings Spark Outrage](./ashwin-slams-team-india-5-reasons-arshdeep-singh-benchings-spark-outrage.md)
 - [Big Bash League Introduces Designated Player Rule for 2026-27 Season](./big-bash-league-introduces-designated-player-rule-for-2026-27-season.md)
 - [SA20 Playoffs: Capitals’ Historic Comeback Shakes Standings](./sa20-playoffs-capitals-historic-comeback-shakes-standings.md)
