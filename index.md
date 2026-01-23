@@ -9,6 +9,11 @@ Stay updated with the latest cricket match results, and insights from around the
 
 ### 📰 Latest Articles
 
+- [Real Madrid Injury Crisis Threatens Title Push Ahead of Crucial Fixtures](./real-madrid-injury-crisis-title-push.md)
+- [Manchester United’s Defensive Crisis Deepens Ahead of Crucial Premier League Clash](./manchester-united-defensive-crisis-deepens.md)
+- [Abhishek Sharma Draws High Praise From Kris Srikkanth After Match-Winning T20 Knock](./abhishek-sharma-earns-high-praise.md)
+- [Bangladesh  Financial Loss Amid T20 World Cup 2026 Standoff](./bangladesh-financial-loss-t20-2026.md)
+- [Paarl Royals Knock Out Joburg Super Kings in Dominant SA20 Eliminator Win](./paarl-royals-sa20-win.md)
 - [Babar Azam & Steve Smith: 1 Major BBL Feud Settled](./babar-azam-steve-smith-major-bbl-feud-settled.md)
 - [Jannik Sinner Dominates to Reach Australian Open Second Round](./jannik-sinner-dominates-to-reach-australian-open-second-round.md)
 - [Aryna Sabalenka Dominates at Australian Open with 6-3 6-1 Win](./aryna-sabalenka-dominates-australian-open-6-3-6-1.md)
