@@ -9,6 +9,11 @@ Stay updated with the latest cricket match results, and insights from around the
 
 ### 📰 Latest Articles
 
+- [R Ashwin Predicts MS Dhoni’s IPL 2026 Batting Role](./r-ashwin-forecasts-ms-dhoni-role-in-ipl-2026.md)
+- [PSL 2026 Auction Set for February 11](./psl-2026-auction-set-for-february-11.md)
+- [Jason Gillespie Deletes Tweet Over T20 World Cup Row](./jason-gillespie-deletes-tweet-over-t20-world-cup-row.md)
+- [Bangladesh Replaced by Scotland in T20 World Cup 2026 After Security Standoff](./bangladesh-replaced-by-scotland-in-t20-world-cup-2026-after-security-standoff.md)
+- [Jasprit Bumrah Stuns With 3 Wickets in Third T20I Heroics](./jasprit-bumrah-heroics-3-wickets-third-t20i.md)
 - [India vs New Zealand Insights Ahead of Guwahati T20](./india-vs-new-zealand-insights-guwahati-t20.md)
 - [Joe Root Stars As England Beat Sri Lanka In 2nd ODI](./joe-root-stars-england-beat-sri-lanka-2nd-odi.md)
 - [ICC T20 World Cup Replaces Bangladesh with Scotland](./icc-t20-world-cup-replaces-bangladesh-scotland.md)
