@@ -1,7 +1,7 @@
 ---
 title: "NBA 2026 Playoff Shake-Up Changes Championship Race"
 description: "The 2026 NBA playoff race takes an unexpected turn as key results reshape the championship picture."
-date: 2025-12-20
+date: 2026-03-13
 author: "8JJ Sports"
 layout: post
 ---
