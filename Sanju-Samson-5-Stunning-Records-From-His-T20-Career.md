@@ -1,7 +1,7 @@
 ---
 title: "Sanju Samson: 5 Stunning Records From His T20 Career"
 description: "A look at five incredible records achieved by Sanju Samson during his impressive T20 career."
-date: 2026-03-13
+date: 2026-03-12
 author: "8JJ Sports"
 layout: post
 ---
