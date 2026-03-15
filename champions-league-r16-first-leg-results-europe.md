@@ -1,7 +1,7 @@
 ---
 title: "Champions League R16 First Leg Results Rock Europe"
 description: "Dramatic results in the Champions League Round of 16 first-leg matches have shaken European football and set up thrilling second-leg encounters."
-date: 2025-12-20
+date: 2026-03-13
 author: "8JJ Sports"
 layout: post
 ---
