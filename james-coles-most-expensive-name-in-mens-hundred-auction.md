@@ -1,7 +1,7 @@
 ---
 title: "James Coles Most Expensive Name In Men’s Hundred Auction"
 description: "James Coles emerged as the most expensive buy in the 2026 Men’s Hundred auction, commanding a top £390,000 bid from London Spirit."
-date: 2026-03-13
+date: 2026-03-14
 author: "8JJ Sports"
 layout: post
 ---
