@@ -1,7 +1,7 @@
 ---
 title: "Aston Villa Europa League 2026: Edge Lille To Take First‑Leg Advantage"
 description: "Aston Villa secured a narrow 1‑0 victory over Lille in their Europa League last‑16 first‑leg clash, with Ollie Watkins scoring the decisive goal away in France."
-date: 2026‑03‑14
+date: 2026-03-14
 author: "8JJ Sports"
 layout: post
 ---
