@@ -10,7 +10,7 @@ layout: post
 
 The UEFA Champions League delivered a dramatic night of football as two major European clubs suffered unexpected elimination, sending shockwaves across the competition.
 
-One of the biggest surprises came when Bodø/Glimt defeated Inter to secure a memorable progression to the next round. The Norwegian side produced a disciplined performance and capitalized on defensive lapses to complete a remarkable upset on aggregate. :contentReference[oaicite:1]{index=1}
+One of the biggest surprises came when Bodø/Glimt defeated Inter to secure a memorable progression to the next round. The Norwegian side produced a disciplined performance and capitalized on defensive lapses to complete a remarkable upset on aggregate.
 
 Meanwhile, other knockout fixtures delivered high-intensity football and crucial tactical battles that reshaped the path to the later stages of the tournament. The results highlighted the unpredictable nature of the Champions League, where even established giants can fall to determined challengers.
 

@@ -8,7 +8,7 @@ layout: post
 
 # James Coles Most Expensive Name In Men’s Hundred Auction
 
-James Coles became the standout name of the 2026 Men’s Hundred auction after London Spirit secured him with the highest bid of the day, reportedly around £390,000, making him the most expensive player in the competition so far. :contentReference[oaicite:0]{index=0}
+James Coles became the standout name of the 2026 Men’s Hundred auction after London Spirit secured him with the highest bid of the day, reportedly around £390,000, making him the most expensive player in the competition so far.
 
 ---
 You can read the **full original article on 8jj.com** here:  

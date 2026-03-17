@@ -8,7 +8,7 @@ layout: post
 
 # Aston Villa Europa League 2026: Edge Lille To Take First‑Leg Advantage
 
-Aston Villa claimed a crucial 1‑0 away win against Lille in the UEFA Europa League 2026 last‑16 first‑leg match, thanks to a second‑half goal from Ollie Watkins that gave them a slender advantage going into the return leg. :contentReference[oaicite:0]{index=0}
+Aston Villa claimed a crucial 1‑0 away win against Lille in the UEFA Europa League 2026 last‑16 first‑leg match, thanks to a second‑half goal from Ollie Watkins that gave them a slender advantage going into the return leg.
 
 ---
 You can read the **full original article on 8jj.com** here:  

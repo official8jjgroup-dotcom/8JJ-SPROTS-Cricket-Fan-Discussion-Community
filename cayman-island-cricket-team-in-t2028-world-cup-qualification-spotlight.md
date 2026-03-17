@@ -8,7 +8,7 @@ layout: post
 
 # Cayman Island Cricket Team In 2028 T20 World Cup Qualification Spotlight
 
-The Cayman Islands national cricket team is gaining attention in 2026 after hosting and competing strongly in the ICC Men’s T20 World Cup Americas Sub‑regional Qualifier B, a key stage in the pathway toward qualification for the 2028 ICC Men’s T20 World Cup. The tournament, held at Jimmy Powell Oval in George Town, featured teams such as Argentina, Mexico, and Suriname, with Cayman aiming to advance to the regional final stage. :contentReference[oaicite:0]{index=0}
+The Cayman Islands national cricket team is gaining attention in 2026 after hosting and competing strongly in the ICC Men’s T20 World Cup Americas Sub‑regional Qualifier B, a key stage in the pathway toward qualification for the 2028 ICC Men’s T20 World Cup. The tournament, held at Jimmy Powell Oval in George Town, featured teams such as Argentina, Mexico, and Suriname, with Cayman aiming to advance to the regional final stage.
 
 ---
 You can read the **full original article on 8jj.com** here:  

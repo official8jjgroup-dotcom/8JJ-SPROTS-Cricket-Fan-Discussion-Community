@@ -8,8 +8,9 @@ layout: post
 
 # Tommy Fleetwood – Abu Dhabi Championship Briefing
 
-English golf star **Tommy Fleetwood** has made a strong start at the Abu Dhabi HSBC Championship, posting an impressive opening round and maintaining his position near the top of the leaderboard. After a bogey-free 8-under 64 in the first round, he followed up with a 66 the next day to share the lead. :contentReference[oaicite:1]{index=1}  
-Fleetwood’s comfort in his pairing with Shane Lowry and other Ryder Cup teammates has been a talking point. :contentReference[oaicite:3]{index=3}  
+English golf star **Tommy Fleetwood** has made a strong start at the Abu Dhabi HSBC Championship, posting an impressive opening round and maintaining his position near the top of the leaderboard. After a bogey-free 8-under 64 in the first round, he followed up with a 66 the next day to share the lead.
+
+Fleetwood’s comfort in his pairing with Shane Lowry and other Ryder Cup teammates has been a talking point. 
 With the tournament heading into its final rounds at Yas Links, Fleetwood is tracking well for another deep run in this Rolex Series event.  
 
 You can read the **full original article on 8JJ.com** here:  

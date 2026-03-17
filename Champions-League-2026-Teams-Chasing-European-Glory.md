@@ -14,7 +14,7 @@ Widely considered the most prestigious club competition in world football, the C
 
 Several powerhouse clubs will once again be among the favorites to lift the trophy. Traditional giants such as **Real Madrid, Bayern Munich, Manchester City, and Barcelona** continue to dominate European competition thanks to their depth, experience, and world-class players.
 
-Recent Champions League matches have already demonstrated how unpredictable the competition can be. Unexpected results and shocking eliminations have shown that even the strongest teams cannot take qualification for granted. :contentReference[oaicite:1]{index=1}
+Recent Champions League matches have already demonstrated how unpredictable the competition can be. Unexpected results and shocking eliminations have shown that even the strongest teams cannot take qualification for granted.
 
 Emerging clubs are also eager to challenge the established hierarchy. Tactical innovation, young talent, and squad depth are becoming increasingly important as teams navigate the demanding tournament schedule.
 

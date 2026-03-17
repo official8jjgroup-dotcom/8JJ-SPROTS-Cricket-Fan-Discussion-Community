@@ -8,8 +8,8 @@ layout: post
 
 # Marco Penge: DP World Tour Comeback Eyes Race to Dubai Glory
 
-Marco Penge has turned around his career with multiple DP World Tour wins this season and is now within striking distance of topping the Race to Dubai rankings. The Englishman had earlier been suspended for breaching tour integrity rules but has since returned stronger, determined to challenge the great Rory McIlroy. :contentReference[oaicite:8]{index=8}  
-He recently commented: “Of course, there’s a chance that I can win the whole Race to Dubai.” :contentReference[oaicite:9]{index=9}  
+Marco Penge has turned around his career with multiple DP World Tour wins this season and is now within striking distance of topping the Race to Dubai rankings. The Englishman had earlier been suspended for breaching tour integrity rules but has since returned stronger, determined to challenge the great Rory McIlroy.
+He recently commented: “Of course, there’s a chance that I can win the whole Race to Dubai.”  
 Penge’s return to form underlines his motivation and resilience — key qualities that could define a breakthrough season.
 
 You can read the **full original article on 8JJ.com** here:  

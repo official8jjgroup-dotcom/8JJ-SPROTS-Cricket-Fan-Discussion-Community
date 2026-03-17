@@ -10,9 +10,9 @@ layout: post
 
 **Gautam Gambhir** praised **Team India** following their commanding victory in the **ICC Men’s T20 World Cup 2026**, emphasizing the importance of team success over individual milestones.
 
-India secured the title with a dominant win against **New Zealand** in the final at the Narendra Modi Stadium in Ahmedabad. The team posted a massive total before bowling out their opponents to seal a comprehensive 96-run victory and successfully defend their T20 World Cup crown. :contentReference[oaicite:0]{index=0}
+India secured the title with a dominant win against **New Zealand** in the final at the Narendra Modi Stadium in Ahmedabad. The team posted a massive total before bowling out their opponents to seal a comprehensive 96-run victory and successfully defend their T20 World Cup crown.
 
-Speaking after the triumph, Gambhir highlighted the philosophy that has shaped the team’s recent approach to white-ball cricket. According to the India head coach, the squad focuses on collective achievements rather than personal records, a mindset he believes has strengthened the team’s performances on the global stage. :contentReference[oaicite:1]{index=1}
+Speaking after the triumph, Gambhir highlighted the philosophy that has shaped the team’s recent approach to white-ball cricket. According to the India head coach, the squad focuses on collective achievements rather than personal records, a mindset he believes has strengthened the team’s performances on the global stage.
 
 The victory marked a significant moment for Indian cricket, reinforcing the team’s dominance in the shortest format and showcasing the depth of talent within the squad.
 

@@ -10,7 +10,7 @@ layout: post
 
 Tottenham goalkeeper Antonin Kinsky experienced a difficult night in the Champions League after a series of costly mistakes early in the match left his team struggling. The young goalkeeper’s errors quickly shifted the momentum of the game and placed Tottenham under immediate pressure.
 
-Kinsky conceded multiple goals within the opening minutes after slipping during a clearance and later misplacing a pass that allowed Atlético Madrid attackers to capitalize. The situation escalated rapidly, forcing Tottenham’s manager to substitute the goalkeeper early in the match. :contentReference[oaicite:0]{index=0}
+Kinsky conceded multiple goals within the opening minutes after slipping during a clearance and later misplacing a pass that allowed Atlético Madrid attackers to capitalize. The situation escalated rapidly, forcing Tottenham’s manager to substitute the goalkeeper early in the match.
 
 Despite the tough moment, analysts noted that such experiences are part of a goalkeeper’s development, especially on the big stage of European competition.
 

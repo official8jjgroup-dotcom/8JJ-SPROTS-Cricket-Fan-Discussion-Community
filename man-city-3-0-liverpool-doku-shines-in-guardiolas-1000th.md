@@ -8,8 +8,8 @@ layout: post
 
 # Man City 3-0 Liverpool: Doku Shines in Guardiola’s 1,000th Game
 
-Manchester City marked manager Pep Guardiola’s 1,000th match with an emphatic 3–0 victory over Liverpool at the Etihad Stadium. Goals from Erling Haaland, Nico González and a brilliant strike by Jérémy Doku sealed the result, as City dominated throughout. :contentReference[oaicite:4]{index=4}  
-Doku was particularly impressive, driving the attack with direct runs and finishing with the third goal that put the game beyond doubt. Guardiola described the performance as a “gift” from his players. :contentReference[oaicite:5]{index=5}
+Manchester City marked manager Pep Guardiola’s 1,000th match with an emphatic 3–0 victory over Liverpool at the Etihad Stadium. Goals from Erling Haaland, Nico González and a brilliant strike by Jérémy Doku sealed the result, as City dominated throughout. 
+Doku was particularly impressive, driving the attack with direct runs and finishing with the third goal that put the game beyond doubt. Guardiola described the performance as a “gift” from his players. 
 
 You can read the **full original article on 8JJ.com** here:  
 👉 [Man City 3-0 Liverpool: Doku Shines in Guardiola’s 1,000th Game](https://8jjsports.com/man-city-3-0-liverpool-doku-shines-in-guardiolas/)

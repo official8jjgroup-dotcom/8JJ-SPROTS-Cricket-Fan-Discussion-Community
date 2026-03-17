@@ -8,7 +8,7 @@ layout: post
 
 # India Cricket Team Awarded $14.24M After T20 World Cup Victory
 
-The Indian men’s cricket team received a bonus payout of INR 1.31 billion (approximately $14.24 million) from the Board of Control for Cricket in India following their dominant 96‑run victory over New Zealand in the ICC Men’s T20 World Cup 2026 final. The additional bonus — roughly six times the official tournament prize money — was announced in recognition of India’s historic third T20 World Cup title on home soil. :contentReference[oaicite:0]{index=0}
+The Indian men’s cricket team received a bonus payout of INR 1.31 billion (approximately $14.24 million) from the Board of Control for Cricket in India following their dominant 96‑run victory over New Zealand in the ICC Men’s T20 World Cup 2026 final. The additional bonus — roughly six times the official tournament prize money — was announced in recognition of India’s historic third T20 World Cup title on home soil.
 
 ---
 You can read the **full original article on 8jj.com** here:  

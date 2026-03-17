@@ -14,7 +14,7 @@ Often referred to as the **“fifth Grand Slam,”** the tournament regularly fe
 
 Several marquee matchups could define the tournament. Rising stars and established champions will clash in high-pressure matches as they compete for crucial ranking points and momentum early in the season.
 
-Recent performances have already set the stage for exciting encounters. For example, players such as **Naomi Osaka** continue to make headlines with strong performances at the tournament, building anticipation for potential showdowns against top-ranked opponents. :contentReference[oaicite:0]{index=0}
+Recent performances have already set the stage for exciting encounters. For example, players such as **Naomi Osaka** continue to make headlines with strong performances at the tournament, building anticipation for potential showdowns against top-ranked opponents.
 
 Indian Wells is known for its unique playing conditions, passionate crowds, and dramatic matches that often produce unforgettable moments. The slow hard courts and desert climate test both the physical and tactical abilities of players.
 
