@@ -1,8 +1,8 @@
 ---
-title: "How Ishan Kishan’s Return Transformed the T20 World Cup Squad"
-description: "Ishan Kishan's return to India's T20 World Cup squad marks a compelling redemption story, emphasizing discipline, consistent performance, and a commitment to merit."
+title: How Ishan Kishan’s Return Transformed the T20 World Cup Squad
+description: Ishan Kishan's return to India's T20 World Cup squad marks a compelling redemption story, emphasizing discipline, consistent performance, and a commitment to merit.
 date: 2025-12-22
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

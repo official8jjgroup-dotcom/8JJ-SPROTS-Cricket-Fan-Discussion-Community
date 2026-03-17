@@ -1,8 +1,8 @@
 ---
-title: "Ruturaj Gaikwad Century Powers India A to 4-Wicket Win"
-description: "Ruturaj Gaikwad’s ton leads India A to a thrilling 4-wicket victory in the recent match."
+title: Ruturaj Gaikwad Century Powers India A to 4-Wicket Win
+description: Ruturaj Gaikwad’s ton leads India A to a thrilling 4-wicket victory in the recent match.
 date: 2025-11-14
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

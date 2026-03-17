@@ -1,8 +1,8 @@
 ---
-title: "Gautam Gambhir Slams IPL Owner’s Call for Split Coaching: “No Right to Interfere”"
-description: "Gautam Gambhir says IPL owners have ‘no right to interfere’ after proposal for separate Test and limited-overs coaches"
+title: Gautam Gambhir Slams IPL Owner’s Call for Split Coaching: “No Right to Interfere”
+description: Gautam Gambhir says IPL owners have ‘no right to interfere’ after proposal for separate Test and limited-overs coaches
 date: 2025-12-08
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

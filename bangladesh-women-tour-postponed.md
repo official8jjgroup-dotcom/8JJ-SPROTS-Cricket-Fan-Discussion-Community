@@ -1,9 +1,9 @@
 ---
-title: "Bangladesh Women Tour Postponed: 3 Key Details"
-description: "The Bangladesh Women cricket tour of India has been postponed indefinitely as BCCI gives players rest post their maiden World Cup win, affecting the ICC Women's ODI Championship schedule."
+title: Bangladesh Women Tour Postponed: 3 Key Details
+description: The Bangladesh Women cricket tour of India has been postponed indefinitely as BCCI gives players rest post their maiden World Cup win, affecting the ICC Women's ODI Championship schedule.
 date: 2025-11-20
-category: "Women’s"
-tags: ["Bangladesh Women", "India Women", "Bangladesh tour India", "ICC Women's ODI", "Cricket Postponement", "Women's Cricket Updates"]
+category: Women’s
+tags: [Bangladesh Women, India Women, Bangladesh tour India, ICC Women's ODI, Cricket Postponement, Women's Cricket Updates]
 layout: post
 ---
 
@@ -18,7 +18,7 @@ The **Bangladesh Women cricket tour of India** has been postponed indefinitely, 
 The series was expected to feature **three ODIs and three T20Is** against India starting mid-December. However, the **Board of Control for Cricket in India (BCCI)** informed the BCB that they are unable to host the series. Indian players will receive an extended break following their maiden World Cup victory.  
 
 **BCB Women’s Wing Chairman Abdur Razzak** emphasized:  
-*"Yes, they have informed us that the series is not happening as per discussion, but that does not mean it is abandoned. We can say the tour has been postponed and it will be rescheduled."*
+*Yes, they have informed us that the series is not happening as per discussion, but that does not mean it is abandoned. We can say the tour has been postponed and it will be rescheduled.*
 
 ---
 

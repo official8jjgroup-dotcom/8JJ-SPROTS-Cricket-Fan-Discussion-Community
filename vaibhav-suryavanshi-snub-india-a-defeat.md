@@ -1,9 +1,9 @@
 ---
-title: "Vaibhav Suryavanshi Snub Sparks Outrage After India A Defeat"
-description: "India A’s Super Over loss sparks outrage as fans question Vaibhav Suryavanshi’s shocking omission after a tied Asia Cup Rising Stars semi-final."
+title: Vaibhav Suryavanshi Snub Sparks Outrage After India A Defeat
+description: India A’s Super Over loss sparks outrage as fans question Vaibhav Suryavanshi’s shocking omission after a tied Asia Cup Rising Stars semi-final.
 date: 2025-11-24
-category: "Cricket International"
-tags: ["India A vs Bangladesh A", "Asia Cup Rising Stars", "Super Over controversy", "Vaibhav Suryavanshi", "India A cricket"]
+category: Cricket International
+tags: [India A vs Bangladesh A, Asia Cup Rising Stars, Super Over controversy, Vaibhav Suryavanshi, India A cricket]
 layout: post
 ---
 

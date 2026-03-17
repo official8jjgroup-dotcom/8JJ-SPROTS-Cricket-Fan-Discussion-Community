@@ -1,8 +1,8 @@
 ---
-title: "Shubman Gill Responds to ODI 'Easiest Format' Claim"
-description: "Shubman Gill dismisses claims that ODI cricket is the easiest format, stressing the skill and resilience required to succeed at the international level."
+title: Shubman Gill Responds to ODI 'Easiest Format' Claim
+description: Shubman Gill dismisses claims that ODI cricket is the easiest format, stressing the skill and resilience required to succeed at the international level.
 date: 2026-01-12
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

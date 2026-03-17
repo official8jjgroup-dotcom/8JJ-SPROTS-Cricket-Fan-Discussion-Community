@@ -1,8 +1,8 @@
 ---
-title: "Paarl Royals Knock Out Joburg Super Kings in Dominant SA20 Eliminator Win"
-description: "Paarl Royals Knock Out Joburg Super Kings with a commanding all-round performance to secure a 36-run victory in the SA20 Eliminator, keeping their title hopes alive."
+title: Paarl Royals Knock Out Joburg Super Kings in Dominant SA20 Eliminator Win
+description: Paarl Royals Knock Out Joburg Super Kings with a commanding all-round performance to secure a 36-run victory in the SA20 Eliminator, keeping their title hopes alive.
 date: 2026-01-23
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

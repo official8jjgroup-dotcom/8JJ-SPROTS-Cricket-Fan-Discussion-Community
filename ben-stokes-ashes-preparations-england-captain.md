@@ -1,8 +1,8 @@
 ---
-title: "Ben Stokes on England’s Ashes Preparations"
-description: "England captain Ben Stokes discusses team readiness and mindset going into the Ashes."
+title: Ben Stokes on England’s Ashes Preparations
+description: England captain Ben Stokes discusses team readiness and mindset going into the Ashes.
 date: 2025-11-13
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "Rishabh Pant Sets Record as Gill Suffers Injury"
-description: "Rishabh Pant achieved a significant record while teammate Shubman Gill suffered an injury setback."
+title: Rishabh Pant Sets Record as Gill Suffers Injury
+description: Rishabh Pant achieved a significant record while teammate Shubman Gill suffered an injury setback.
 date: 2025-11-15
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

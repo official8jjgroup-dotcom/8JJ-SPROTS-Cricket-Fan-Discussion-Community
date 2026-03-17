@@ -1,9 +1,9 @@
 ---
-title: "Lionel Messi Wears Indian Cricket Jersey in Viral Adidas Shoot"
-description: "Lionel Messi created a global buzz after wearing an Indian cricket jersey alongside Kuldeep Yadav."
+title: Lionel Messi Wears Indian Cricket Jersey in Viral Adidas Shoot
+description: Lionel Messi created a global buzz after wearing an Indian cricket jersey alongside Kuldeep Yadav.
 date: 2025-12-19
-author: "8JJ Sports"
-layout: "post"
+author: 8JJ Sports
+layout: post
 ---
 
 # Lionel Messi Sparks Global Buzz With Indian Cricket Jersey Moment

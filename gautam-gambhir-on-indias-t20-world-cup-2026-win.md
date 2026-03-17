@@ -1,8 +1,8 @@
 ---
-title: "Gautam Gambhir on India’s T20 World Cup 2026 Win"
-description: "India head coach Gautam Gambhir reflects on Team India’s dominant ICC Men’s T20 World Cup 2026 victory and the philosophy behind their success."
+title: Gautam Gambhir on India’s T20 World Cup 2026 Win
+description: India head coach Gautam Gambhir reflects on Team India’s dominant ICC Men’s T20 World Cup 2026 victory and the philosophy behind their success.
 date: 2026-03-09
-author: "8JJ Cricket"
+author: 8JJ Cricket
 layout: post
 ---
 

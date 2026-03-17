@@ -1,9 +1,9 @@
 ---
-title: "Shanaka to Lead Sri Lanka in T20I Tri-Series"
-description: "Dasun Shanaka will captain Sri Lanka in the T20I tri-series in Pakistan after Charith Asalanka and Asitha Fernando withdrew due to illness."
+title: Shanaka to Lead Sri Lanka in T20I Tri-Series
+description: Dasun Shanaka will captain Sri Lanka in the T20I tri-series in Pakistan after Charith Asalanka and Asitha Fernando withdrew due to illness.
 date: 2025-11-20
-category: "T20I"
-tags: ["Sri Lanka", "Dasun Shanaka", "T20I Tri-Series", "Charith Asalanka", "Pavan Rathnayake", "Vijayakanth Viyaskanth"]
+category: T20I
+tags: [Sri Lanka, Dasun Shanaka, T20I Tri-Series, Charith Asalanka, Pavan Rathnayake, Vijayakanth Viyaskanth]
 layout: post
 ---
 

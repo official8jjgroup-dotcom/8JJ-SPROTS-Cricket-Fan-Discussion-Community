@@ -1,8 +1,8 @@
 ---
-title: "Sabalenka at Indian Wells: 7 Thrilling Moments in the Final"
-description: "Aryna Sabalenka delivered an unforgettable performance in the Indian Wells final, packed with intensity, drama, and defining moments."
+title: Sabalenka at Indian Wells: 7 Thrilling Moments in the Final
+description: Aryna Sabalenka delivered an unforgettable performance in the Indian Wells final, packed with intensity, drama, and defining moments.
 date: 2026-03-17
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

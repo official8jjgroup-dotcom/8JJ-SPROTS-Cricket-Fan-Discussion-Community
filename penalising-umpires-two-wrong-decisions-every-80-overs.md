@@ -1,9 +1,9 @@
 ---
-title: "Penalising Umpires: Two Wrong Decisions Every 80 Overs?"
-description: "Exploring the proposal to penalise cricket umpires for repeated wrong decisions, its implications, challenges, and the evolving landscape of umpire accountability."
+title: Penalising Umpires: Two Wrong Decisions Every 80 Overs?
+description: Exploring the proposal to penalise cricket umpires for repeated wrong decisions, its implications, challenges, and the evolving landscape of umpire accountability.
 date: 2025-11-20
-category: "Cricket International"
-tags: ["Cricket Umpires", "Umpire Penalties", "ICC", "Decision Review System", "Umpire Accountability"]
+category: Cricket International
+tags: [Cricket Umpires, Umpire Penalties, ICC, Decision Review System, Umpire Accountability]
 layout: post
 ---
 

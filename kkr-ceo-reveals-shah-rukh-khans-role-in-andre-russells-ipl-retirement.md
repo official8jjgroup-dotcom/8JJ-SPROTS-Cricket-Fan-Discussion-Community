@@ -1,8 +1,8 @@
 ---
-title: "KKR CEO Reveals Shah Rukh Khan’s Role in Andre Russell’s IPL Retirement"
-description: "KKR CEO Venky Mysore discloses that Shah Rukh Khan suggested releasing Andre Russell, who retires from the IPL and joins the franchise as Power Coach."
+title: KKR CEO Reveals Shah Rukh Khan’s Role in Andre Russell’s IPL Retirement
+description: KKR CEO Venky Mysore discloses that Shah Rukh Khan suggested releasing Andre Russell, who retires from the IPL and joins the franchise as Power Coach.
 date: 2025-12-06
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

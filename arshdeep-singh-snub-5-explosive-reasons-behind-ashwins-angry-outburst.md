@@ -1,8 +1,8 @@
 ---
-title: "Arshdeep Singh Snub: 5 Explosive Reasons Behind Ashwin’s Angry Outburst"
-description: "Arshdeep Singh became the center of a heated selection debate after being benched for the first two ODIs against New Zealand, a decision that triggered a fiery reaction from former India all-rounder Ravichandran Ashwin. The episode has raised serious questions about team management, player confidence, and selection consistency in India’s white-ball setup."
+title: Arshdeep Singh Snub: 5 Explosive Reasons Behind Ashwin’s Angry Outburst
+description: Arshdeep Singh became the center of a heated selection debate after being benched for the first two ODIs against New Zealand, a decision that triggered a fiery reaction from former India all-rounder Ravichandran Ashwin. The episode has raised serious questions about team management, player confidence, and selection consistency in India’s white-ball setup.
 date: 2026-01-16
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

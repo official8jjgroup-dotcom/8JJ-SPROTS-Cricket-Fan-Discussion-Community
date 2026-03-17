@@ -1,8 +1,8 @@
 ---
-title: "Indian Wells 2026: Rivalries That Could Steal the Spotlight"
-description: "Indian Wells 2026 promises thrilling tennis battles as top stars prepare for intense rivalries at one of the sport’s biggest tournaments."
+title: Indian Wells 2026: Rivalries That Could Steal the Spotlight
+description: Indian Wells 2026 promises thrilling tennis battles as top stars prepare for intense rivalries at one of the sport’s biggest tournaments.
 date: 2025-12-19
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

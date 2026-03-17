@@ -1,9 +1,9 @@
 ---
-title: "Saudi Cricket Stars Enter ILT20: Season 4 Preview"
-description: "Saudi Cricket makes history as six players join ILT20 Season 4, enhancing talent development and international exposure while aligning with national sports objectives."
+title: Saudi Cricket Stars Enter ILT20: Season 4 Preview
+description: Saudi Cricket makes history as six players join ILT20 Season 4, enhancing talent development and international exposure while aligning with national sports objectives.
 date: 2025-11-20
-category: "Cricket International"
-tags: ["Saudi Cricket", "ILT20 Season 4", "Saudi Players", "DP World ILT20", "Saudi Arabia Cricket Federation", "Cricket Middle East"]
+category: Cricket International
+tags: [Saudi Cricket, ILT20 Season 4, Saudi Players, DP World ILT20, Saudi Arabia Cricket Federation, Cricket Middle East]
 layout: post
 ---
 
@@ -39,7 +39,7 @@ This unprecedented representation allows Saudi players to compete alongside inte
 #### Insights from Cricket Legends
 
 Former international cricketer **Waqar Younis** praised the initiative:  
-*"It's inspiring to see Saudi Arabia join hands with the ILT20. Playing alongside international stars and learning from top-level coaches will be an invaluable experience for them."*  
+*It's inspiring to see Saudi Arabia join hands with the ILT20. Playing alongside international stars and learning from top-level coaches will be an invaluable experience for them.*  
 
 **Simon Doull** echoed similar enthusiasm, highlighting the value of nurturing regional talent.
 

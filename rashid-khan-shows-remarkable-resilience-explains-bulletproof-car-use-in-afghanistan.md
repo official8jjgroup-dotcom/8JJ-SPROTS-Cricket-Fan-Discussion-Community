@@ -1,8 +1,8 @@
 ---
-title: "Rashid Khan Shows Remarkable Resilience: Explains Bulletproof Car Use in Afghanistan"
-description: "Afghan cricket star Rashid Khan opens up about the security challenges he faces, including using a bulletproof car, highlighting the risks of fame in conflict zones."
+title: Rashid Khan Shows Remarkable Resilience: Explains Bulletproof Car Use in Afghanistan
+description: Afghan cricket star Rashid Khan opens up about the security challenges he faces, including using a bulletproof car, highlighting the risks of fame in conflict zones.
 date: 2025-12-26
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

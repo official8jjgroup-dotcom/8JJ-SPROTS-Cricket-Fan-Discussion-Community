@@ -1,8 +1,8 @@
 ---
-title: "4 Assam Cricketers Suspended Over Corruption Allegations"
-description: "The suspension comes amid accusations that the players attempted to influence and instigate teammates, raising serious concerns about the integrity of the sport."
+title: 4 Assam Cricketers Suspended Over Corruption Allegations
+description: The suspension comes amid accusations that the players attempted to influence and instigate teammates, raising serious concerns about the integrity of the sport.
 date: 2025-12-13
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

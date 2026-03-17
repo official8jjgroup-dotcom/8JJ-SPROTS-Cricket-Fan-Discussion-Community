@@ -1,8 +1,8 @@
 ---
-title: "Players Championship 2026: Final Round Drama Erupts"
-description: "The Players Championship 2026 delivered intense final-round drama as top golfers battled for one of the PGA Tour’s most prestigious titles."
+title: Players Championship 2026: Final Round Drama Erupts
+description: The Players Championship 2026 delivered intense final-round drama as top golfers battled for one of the PGA Tour’s most prestigious titles.
 date: 2026-03-15
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

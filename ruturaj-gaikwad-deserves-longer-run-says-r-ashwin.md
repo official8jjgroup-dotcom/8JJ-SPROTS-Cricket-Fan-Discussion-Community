@@ -1,8 +1,8 @@
 ---
-title: "Ruturaj Gaikwad Deserves Longer Run, Says R Ashwin"
-description: "R Ashwin praises Ruturaj Gaikwad’s brilliant 105 vs South Africa and urges India to give him a longer run in ODIs."
+title: Ruturaj Gaikwad Deserves Longer Run, Says R Ashwin
+description: R Ashwin praises Ruturaj Gaikwad’s brilliant 105 vs South Africa and urges India to give him a longer run in ODIs.
 date: 2025-12-06
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

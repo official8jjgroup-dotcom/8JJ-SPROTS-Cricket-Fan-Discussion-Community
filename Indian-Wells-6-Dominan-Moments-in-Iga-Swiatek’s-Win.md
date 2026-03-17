@@ -1,8 +1,8 @@
 ---
-title: "Indian Wells: 6 Dominant Moments in Iga Swiatek’s Win"
-description: "Six dominant moments that defined Iga Swiatek’s powerful performance at Indian Wells."
+title: Indian Wells: 6 Dominant Moments in Iga Swiatek’s Win
+description: Six dominant moments that defined Iga Swiatek’s powerful performance at Indian Wells.
 date: 2026-03-12
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

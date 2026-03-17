@@ -1,8 +1,8 @@
 ---
-title: "Tilak Verma’s Jaw-Dropping Catch Steals the Show in 2nd ODI"
-description: "Tilak Verma stunned everyone with a spectacular full-stretch catch in India’s 2nd ODI against South Africa."
+title: Tilak Verma’s Jaw-Dropping Catch Steals the Show in 2nd ODI
+description: Tilak Verma stunned everyone with a spectacular full-stretch catch in India’s 2nd ODI against South Africa.
 date: 2025-12-04
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

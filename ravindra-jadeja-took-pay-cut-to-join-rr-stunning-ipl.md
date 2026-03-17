@@ -1,8 +1,8 @@
 ---
-title: "Ravindra Jadeja Took Pay Cut to Join RR – Stunning IPL Move"
-description: "All-rounder Ravindra Jadeja reportedly took a pay cut to facilitate his move to Rajasthan Royals in a surprising IPL trade."
+title: Ravindra Jadeja Took Pay Cut to Join RR – Stunning IPL Move
+description: All-rounder Ravindra Jadeja reportedly took a pay cut to facilitate his move to Rajasthan Royals in a surprising IPL trade.
 date: 2025-11-15
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

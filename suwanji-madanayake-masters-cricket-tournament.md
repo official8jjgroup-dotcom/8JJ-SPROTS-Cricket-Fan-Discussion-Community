@@ -1,8 +1,8 @@
 ---
-title: "Suwanji Madanayake Shines in Masters Cricket Tournament"
-description: "Veteran Sri Lankan cricketer Suwanji Madanayake delivers standout performances in the Masters Cricket Tournament."
+title: Suwanji Madanayake Shines in Masters Cricket Tournament
+description: Veteran Sri Lankan cricketer Suwanji Madanayake delivers standout performances in the Masters Cricket Tournament.
 date: 2025-11-13
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

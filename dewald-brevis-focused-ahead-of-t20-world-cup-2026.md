@@ -1,8 +1,8 @@
 ---
-title: "Dewald Brevis Focused Ahead of T20 World Cup 2026"
-description: "Dewald Brevis remains focused ahead of the ICC Men’s T20 World Cup 2026, determined to block out distractions and perform at the highest level."
+title: Dewald Brevis Focused Ahead of T20 World Cup 2026
+description: Dewald Brevis remains focused ahead of the ICC Men’s T20 World Cup 2026, determined to block out distractions and perform at the highest level.
 date: 2026-01-12
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

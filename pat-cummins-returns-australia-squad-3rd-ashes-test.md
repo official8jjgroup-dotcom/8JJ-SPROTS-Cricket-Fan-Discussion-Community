@@ -1,8 +1,8 @@
 ---
-title: "Pat Cummins Returns: Australia Squad Announced for 3rd Ashes Test"
-description: "Pat Cummins returns to the Australian squad for the third Ashes Test against England in Adelaide, adding strength to the hosts' lineup."
+title: Pat Cummins Returns: Australia Squad Announced for 3rd Ashes Test
+description: Pat Cummins returns to the Australian squad for the third Ashes Test against England in Adelaide, adding strength to the hosts' lineup.
 date: 2025-12-10
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

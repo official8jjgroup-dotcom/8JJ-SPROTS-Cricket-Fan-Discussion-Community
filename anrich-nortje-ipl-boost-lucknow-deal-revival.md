@@ -1,9 +1,9 @@
 ---
-title: "Anrich Nortje IPL Boost: Lucknow Deal Sparks Revival"
-description: "Anrich Nortje joins Lucknow Super Giants, setting the stage for a career resurgence in IPL 2026."
+title: Anrich Nortje IPL Boost: Lucknow Deal Sparks Revival
+description: Anrich Nortje joins Lucknow Super Giants, setting the stage for a career resurgence in IPL 2026.
 date: 2025-12-17
-author: "8JJ Sports"
-layout: "post"
+author: 8JJ Sports
+layout: post
 ---
 
 # Anrich Nortje's IPL Revival: Lucknow Super Giants Signing

@@ -1,8 +1,8 @@
 ---
-title: "New Zealand and South Africa Begin T20I Series on Home Soil"
-description: "New Zealand and South Africa have kicked off a five-match T20I series featuring expanded squads and fresh talent as both nations begin a new chapter in their cricket rivalry."
+title: New Zealand and South Africa Begin T20I Series on Home Soil
+description: New Zealand and South Africa have kicked off a five-match T20I series featuring expanded squads and fresh talent as both nations begin a new chapter in their cricket rivalry.
 date: 2026-03-15
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

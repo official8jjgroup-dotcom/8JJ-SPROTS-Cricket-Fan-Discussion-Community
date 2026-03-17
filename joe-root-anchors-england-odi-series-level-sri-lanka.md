@@ -1,8 +1,8 @@
 ---
-title: "Joe Root Anchors England to ODI Series Level in Sri Lanka"
-description: "Joe Root’s composed 75 guides England to a five-wicket win over Sri Lanka, leveling the three-match ODI series."
+title: Joe Root Anchors England to ODI Series Level in Sri Lanka
+description: Joe Root’s composed 75 guides England to a five-wicket win over Sri Lanka, leveling the three-match ODI series.
 date: 2026-01-25
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

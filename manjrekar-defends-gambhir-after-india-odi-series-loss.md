@@ -1,8 +1,8 @@
 ---
-title: "Sanjay Manjrekar Defends Gambhir After India Lose ODI Series"
-description: "Sanjay Manjrekar backs India head coach Gautam Gambhir and captain Shubman Gill, calling the recent ODI series defeat to New Zealand a learning opportunity rather than a crisis."
+title: Sanjay Manjrekar Defends Gambhir After India Lose ODI Series
+description: Sanjay Manjrekar backs India head coach Gautam Gambhir and captain Shubman Gill, calling the recent ODI series defeat to New Zealand a learning opportunity rather than a crisis.
 date: 2026-01-22
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

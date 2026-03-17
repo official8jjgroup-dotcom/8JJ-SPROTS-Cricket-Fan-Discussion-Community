@@ -1,8 +1,8 @@
 ---
-title: "The Hundred Women Auction: Five Young Domestic Players to Watch"
-description: "Five promising young domestic players could attract strong interest as teams prepare for the upcoming Women’s Hundred auction."
+title: The Hundred Women Auction: Five Young Domestic Players to Watch
+description: Five promising young domestic players could attract strong interest as teams prepare for the upcoming Women’s Hundred auction.
 date: 2026-03-08
-author: "8JJ Cricket"
+author: 8JJ Cricket
 layout: post
 ---
 

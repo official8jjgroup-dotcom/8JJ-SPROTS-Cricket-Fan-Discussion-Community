@@ -1,8 +1,8 @@
 ---
-title: "Virat Kohli Breaks Ricky Ponting’s ODI Record"
-description: "Virat Kohli surpasses Ricky Ponting’s ODI record with a landmark unbeaten 65, becoming the player with most 50+ scores against South Africa."
+title: Virat Kohli Breaks Ricky Ponting’s ODI Record
+description: Virat Kohli surpasses Ricky Ponting’s ODI record with a landmark unbeaten 65, becoming the player with most 50+ scores against South Africa.
 date: 2025-12-08
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

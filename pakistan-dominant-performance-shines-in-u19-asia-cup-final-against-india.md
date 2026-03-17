@@ -1,8 +1,8 @@
 ---
-title: "Pakistan’s Dominant Performance Shines in U19 Asia Cup Final Against India"
-description: "Pakistan delivered a commanding win in the 2025 U19 Asia Cup final, overpowering India with a complete team performance that showcased their youth system's strength."
+title: Pakistan’s Dominant Performance Shines in U19 Asia Cup Final Against India
+description: Pakistan delivered a commanding win in the 2025 U19 Asia Cup final, overpowering India with a complete team performance that showcased their youth system's strength.
 date: 2025-12-22
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

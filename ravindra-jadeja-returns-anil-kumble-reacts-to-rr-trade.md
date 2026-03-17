@@ -1,9 +1,9 @@
 ---
-title: "Ravindra Jadeja Returns: Anil Kumble Reacts to RR Trade"
-description: "Ravindra Jadeja returns to Rajasthan Royals ahead of IPL 2026 mini-auction, sparking reactions from Anil Kumble and reshaping team strategy and leadership options."
+title: Ravindra Jadeja Returns: Anil Kumble Reacts to RR Trade
+description: Ravindra Jadeja returns to Rajasthan Royals ahead of IPL 2026 mini-auction, sparking reactions from Anil Kumble and reshaping team strategy and leadership options.
 date: 2025-11-21
-category: "Indian Premier League"
-tags: ["Ravindra Jadeja", "Anil Kumble", "Rajasthan Royals", "Chennai Super Kings", "IPL 2026", "Sanju Samson"]
+category: Indian Premier League
+tags: [Ravindra Jadeja, Anil Kumble, Rajasthan Royals, Chennai Super Kings, IPL 2026, Sanju Samson]
 layout: post
 ---
 

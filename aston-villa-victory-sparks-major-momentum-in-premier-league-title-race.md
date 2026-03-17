@@ -1,8 +1,8 @@
 ---
-title: "Aston Villa Victory Sparks Major Momentum in Premier League Title Race"
-description: "Aston Villa’s impressive win over Manchester United signals their strong title credentials, with Morgan Rogers shining in a performance that highlights their title ambitions."
+title: Aston Villa Victory Sparks Major Momentum in Premier League Title Race
+description: Aston Villa’s impressive win over Manchester United signals their strong title credentials, with Morgan Rogers shining in a performance that highlights their title ambitions.
 date: 2025-12-22
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

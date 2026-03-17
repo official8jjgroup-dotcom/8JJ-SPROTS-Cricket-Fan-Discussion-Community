@@ -1,8 +1,8 @@
 ---
-title: "Virat Kohli Meets His Childhood Look-Alike Ahead of Thrilling India vs NZ ODI: 5 Incredible Moments!"
-description: "Virat Kohli shares a heartwarming moment with his childhood look-alike ahead of the first ODI against New Zealand, delighting fans on social media."
+title: Virat Kohli Meets His Childhood Look-Alike Ahead of Thrilling India vs NZ ODI: 5 Incredible Moments!
+description: Virat Kohli shares a heartwarming moment with his childhood look-alike ahead of the first ODI against New Zealand, delighting fans on social media.
 date: 2026-01-12
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "Mohit Sharma Announces Retirement From All Cricket Formats"
-description: "Indian pacer Mohit Sharma announces retirement from all formats, ending a decade-long cricketing career."
+title: Mohit Sharma Announces Retirement From All Cricket Formats
+description: Indian pacer Mohit Sharma announces retirement from all formats, ending a decade-long cricketing career.
 date: 2025-12-04
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

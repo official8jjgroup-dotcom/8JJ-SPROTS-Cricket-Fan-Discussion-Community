@@ -1,8 +1,8 @@
 ---
-title: "Champions League Shock: Two European Giants Crash Out"
-description: "A dramatic night in the Champions League saw shocking eliminations and unexpected results that reshaped the knockout stage."
+title: Champions League Shock: Two European Giants Crash Out
+description: A dramatic night in the Champions League saw shocking eliminations and unexpected results that reshaped the knockout stage.
 date: 2026-03-11
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

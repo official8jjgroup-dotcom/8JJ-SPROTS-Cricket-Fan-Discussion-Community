@@ -1,8 +1,8 @@
 ---
-title: "Bangladesh Replaced by Scotland in T20 World Cup 2026 After Security Standoff"
-description: "Scotland replaces Bangladesh in the ICC T20 World Cup 2026 following security concerns and scheduling disputes with India."
+title: Bangladesh Replaced by Scotland in T20 World Cup 2026 After Security Standoff
+description: Scotland replaces Bangladesh in the ICC T20 World Cup 2026 following security concerns and scheduling disputes with India.
 date: 2026-01-26
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

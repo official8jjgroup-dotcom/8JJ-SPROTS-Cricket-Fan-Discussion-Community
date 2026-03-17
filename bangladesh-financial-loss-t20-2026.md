@@ -1,8 +1,8 @@
 ---
-title: "Bangladesh Financial Loss Amid T20 World Cup 2026 Standoff"
-description: "Bangladesh's financial loss fears have intensified as the country’s refusal to travel to India for the T20 World Cup 2026 threatens both their participation and economic stability."
+title: Bangladesh Financial Loss Amid T20 World Cup 2026 Standoff
+description: Bangladesh's financial loss fears have intensified as the country’s refusal to travel to India for the T20 World Cup 2026 threatens both their participation and economic stability.
 date: 2026-01-23
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

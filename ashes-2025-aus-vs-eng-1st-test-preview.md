@@ -1,9 +1,9 @@
 ---
-title: "Ashes 2025/26: Australia vs England – 1st Test Preview"
-description: "Ashes 2025/26 Preview: England vs Australia 1st Test in Perth with key stats, matchups, Bazball tactics, and major factors to watch."
+title: Ashes 2025/26: Australia vs England – 1st Test Preview
+description: Ashes 2025/26 Preview: England vs Australia 1st Test in Perth with key stats, matchups, Bazball tactics, and major factors to watch.
 date: 2025-11-20
-category: "stats & analysis"
-tags: ["Ashes2025", "EnglandCricket", "AustraliaCricket", "Bazball", "SteveSmith", "JoeRoot", "CricketStats", "CricketPreview", "PerthStadium", "CricketAnalysis"]
+category: stats & analysis
+tags: [Ashes2025, EnglandCricket, AustraliaCricket, Bazball, SteveSmith, JoeRoot, CricketStats, CricketPreview, PerthStadium, CricketAnalysis]
 layout: post
 ---
 

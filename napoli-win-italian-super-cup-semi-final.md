@@ -1,9 +1,9 @@
 ---
-title: "Napoli Dominate Milan to Reach Italian Super Cup Final"
-description: "Napoli secured a commanding 2–0 win over AC Milan to book their place in the Italian Super Cup final."
+title: Napoli Dominate Milan to Reach Italian Super Cup Final
+description: Napoli secured a commanding 2–0 win over AC Milan to book their place in the Italian Super Cup final.
 date: 2025-12-19
-author: "8JJ Sports"
-layout: "post"
+author: 8JJ Sports
+layout: post
 ---
 
 # Napoli Secure Statement Win in Italian Super Cup Semi-Final

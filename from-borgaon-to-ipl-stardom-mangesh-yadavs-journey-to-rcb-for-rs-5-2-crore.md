@@ -1,8 +1,8 @@
 ---
-title: "From Borgaon to IPL Stardom: Mangesh Yadav's Journey to RCB for Rs 5.2 Crore"
-description: "Mangesh Yadav's rise from Borgaon to IPL stardom is a testament to his skill and hard work, as Royal Challengers Bangalore secured him for Rs 5.2 crore in the 2026 auction."
+title: From Borgaon to IPL Stardom: Mangesh Yadav's Journey to RCB for Rs 5.2 Crore
+description: Mangesh Yadav's rise from Borgaon to IPL stardom is a testament to his skill and hard work, as Royal Challengers Bangalore secured him for Rs 5.2 crore in the 2026 auction.
 date: 2025-12-23
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

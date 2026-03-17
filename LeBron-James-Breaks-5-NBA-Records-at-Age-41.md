@@ -1,8 +1,8 @@
 ---
-title: "LeBron James Breaks 5 NBA Records at Age 41"
-description: "NBA legend LeBron James continues to defy age by breaking multiple historic records during his 23rd season in professional basketball."
+title: LeBron James Breaks 5 NBA Records at Age 41
+description: NBA legend LeBron James continues to defy age by breaking multiple historic records during his 23rd season in professional basketball.
 date: 2025-12-13
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

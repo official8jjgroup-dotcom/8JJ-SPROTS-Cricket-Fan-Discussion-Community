@@ -1,8 +1,8 @@
 ---
-title: "India Cricket Team Awarded $14.24M After T20 World Cup Victory"
-description: "The Indian men’s cricket team was awarded a $14.24 million bonus by the BCCI following their historic 2026 ICC Men’s T20 World Cup triumph."
+title: India Cricket Team Awarded $14.24M After T20 World Cup Victory
+description: The Indian men’s cricket team was awarded a $14.24 million bonus by the BCCI following their historic 2026 ICC Men’s T20 World Cup triumph.
 date: 2026-03-14
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

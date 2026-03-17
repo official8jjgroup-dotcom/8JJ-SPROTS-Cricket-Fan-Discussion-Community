@@ -2,8 +2,8 @@
 title: IPL 2026 Auction Sees ₹215.45 Cr Spent on 77 Stars
 description: Franchises spent ₹215.45 crore to secure 77 players, reflecting bold strategies and market shifts.
 date: 2025-12-17
-author: "8JJ Sports"
-layout: "post"
+author: 8JJ Sports
+layout: post
 ---
 
 # IPL 2026 Auction: Massive Spending and Strategic Moves

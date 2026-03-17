@@ -1,8 +1,8 @@
 ---
-title: "Hardik Pandya Stars as India Crush SA in 1st T20I by 101 Runs"
-description: "Hardik Pandya leads India to a dominant 101-run victory over South Africa in the first T20I, delivering an all-round performance."
+title: Hardik Pandya Stars as India Crush SA in 1st T20I by 101 Runs
+description: Hardik Pandya leads India to a dominant 101-run victory over South Africa in the first T20I, delivering an all-round performance.
 date: 2025-12-10
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

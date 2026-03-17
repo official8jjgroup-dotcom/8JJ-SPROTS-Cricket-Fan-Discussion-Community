@@ -1,8 +1,8 @@
 ---
-title: "Babar Azam Ends Century, Mimics Kohli’s Iconic Celebration"
-description: "Pakistan skipper Babar Azam ends a century and celebrates by mimicking Virat Kohli’s trademark pose."
+title: Babar Azam Ends Century, Mimics Kohli’s Iconic Celebration
+description: Pakistan skipper Babar Azam ends a century and celebrates by mimicking Virat Kohli’s trademark pose.
 date: 2025-11-15
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

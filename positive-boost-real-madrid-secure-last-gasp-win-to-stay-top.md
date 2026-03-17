@@ -1,8 +1,8 @@
 ---
-title: "Positive Boost: Real Madrid Secure Last-Gasp Win to Stay Top"
-description: "Real Madrid snatch a dramatic last-minute victory at the Santiago Bernabéu, keeping their lead at the top of La Liga and boosting their title hopes."
+title: Positive Boost: Real Madrid Secure Last-Gasp Win to Stay Top
+description: Real Madrid snatch a dramatic last-minute victory at the Santiago Bernabéu, keeping their lead at the top of La Liga and boosting their title hopes.
 date: 2025-12-26
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

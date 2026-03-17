@@ -1,8 +1,8 @@
 ---
-title: "Top 5 Highlights: Vaibhav Suryavanshi in Asia Cup Win"
-description: "A look at the top five moments from Vaibhav Suryavanshi’s impactful performance in the Asia Cup victory."
+title: Top 5 Highlights: Vaibhav Suryavanshi in Asia Cup Win
+description: A look at the top five moments from Vaibhav Suryavanshi’s impactful performance in the Asia Cup victory.
 date: 2025-11-15
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

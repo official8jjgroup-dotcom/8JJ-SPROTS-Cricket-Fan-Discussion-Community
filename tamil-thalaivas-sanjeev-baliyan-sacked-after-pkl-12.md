@@ -1,8 +1,8 @@
 ---
-title: "Tamil Thalaivas Sack Coach Sanjeev Baliyan After PKL 12"
-description: "Sanjeev Baliyan has been removed as head coach of Tamil Thalaivas following their underwhelming PKL 12 campaign."
+title: Tamil Thalaivas Sack Coach Sanjeev Baliyan After PKL 12
+description: Sanjeev Baliyan has been removed as head coach of Tamil Thalaivas following their underwhelming PKL 12 campaign.
 date: 2025-11-13
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

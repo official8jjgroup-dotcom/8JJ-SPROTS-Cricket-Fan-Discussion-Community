@@ -1,8 +1,8 @@
 ---
-title: "Brendon McCullum Under Pressure as ECB Chief Evaluates Ashes Debacle"
-description: "Brendon McCullum's future as England coach is under scrutiny after the team’s disappointing performance in the 2025-26 Ashes series, sparking debates over his leadership and the ‘Bazball’ approach."
+title: Brendon McCullum Under Pressure as ECB Chief Evaluates Ashes Debacle
+description: Brendon McCullum's future as England coach is under scrutiny after the team’s disappointing performance in the 2025-26 Ashes series, sparking debates over his leadership and the ‘Bazball’ approach.
 date: 2026-01-03
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

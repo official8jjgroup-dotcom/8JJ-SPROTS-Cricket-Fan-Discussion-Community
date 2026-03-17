@@ -1,8 +1,8 @@
 ---
-title: "Premier League Massive Clashes Light Up the Title Race"
-description: "Key Premier League fixtures are shaping the title race as top clubs battle in crucial matches during the season’s decisive stage."
+title: Premier League Massive Clashes Light Up the Title Race
+description: Key Premier League fixtures are shaping the title race as top clubs battle in crucial matches during the season’s decisive stage.
 date: 2026-03-15
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

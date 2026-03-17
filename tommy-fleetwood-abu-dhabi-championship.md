@@ -1,8 +1,8 @@
 ---
-title: "Tommy Fleetwood – Abu Dhabi Championship Briefing"
-description: "Tommy Fleetwood finds himself in top form at the Abu Dhabi Championship, sharing the lead early and poised for a strong finish."
+title: Tommy Fleetwood – Abu Dhabi Championship Briefing
+description: Tommy Fleetwood finds himself in top form at the Abu Dhabi Championship, sharing the lead early and poised for a strong finish.
 date: 2025-11-10
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

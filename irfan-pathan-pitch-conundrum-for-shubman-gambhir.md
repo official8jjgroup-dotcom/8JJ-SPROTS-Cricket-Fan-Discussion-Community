@@ -1,8 +1,8 @@
 ---
-title: "Irfan Pathan & Pitch Conundrum for Shubman Gambhir"
-description: "Irfan Pathan weighs in on the pitch-inspection controversy involving Gautam Gambhir, and how it adds complexity for key players like Shubman Gambhir."
+title: Irfan Pathan & Pitch Conundrum for Shubman Gambhir
+description: Irfan Pathan weighs in on the pitch-inspection controversy involving Gautam Gambhir, and how it adds complexity for key players like Shubman Gambhir.
 date: 2025-11-13
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

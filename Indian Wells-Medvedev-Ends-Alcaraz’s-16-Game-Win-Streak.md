@@ -1,8 +1,8 @@
 ---
-title: "Indian Wells: Medvedev Ends Alcaraz’s 16-Game Win Streak"
-description: "Daniil Medvedev halted Carlos Alcaraz’s impressive winning streak with a strong performance at the Indian Wells tournament."
+title: Indian Wells: Medvedev Ends Alcaraz’s 16-Game Win Streak
+description: Daniil Medvedev halted Carlos Alcaraz’s impressive winning streak with a strong performance at the Indian Wells tournament.
 date: 2026-03-15
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

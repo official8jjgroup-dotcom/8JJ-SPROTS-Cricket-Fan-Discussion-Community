@@ -1,8 +1,8 @@
 ---
-title: "Quinten Timber Joins Marseille After Feyenoord Success"
-description: "Dutch midfielder Quinten Timber moves to Marseille following a strong spell at Feyenoord, aiming to make his mark in Ligue 1."
+title: Quinten Timber Joins Marseille After Feyenoord Success
+description: Dutch midfielder Quinten Timber moves to Marseille following a strong spell at Feyenoord, aiming to make his mark in Ligue 1.
 date: 2026-01-24
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

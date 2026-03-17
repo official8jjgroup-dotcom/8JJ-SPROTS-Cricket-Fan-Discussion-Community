@@ -1,8 +1,8 @@
 ---
-title: "Man City 3-0 Liverpool: Doku Shines in Guardiola’s 1,000th Game"
-description: "Manchester City delivered a dominant 3-0 win over Liverpool with Jérémy Doku starring as Pep Guardiola celebrated his 1,000th match in management."
+title: Man City 3-0 Liverpool: Doku Shines in Guardiola’s 1,000th Game
+description: Manchester City delivered a dominant 3-0 win over Liverpool with Jérémy Doku starring as Pep Guardiola celebrated his 1,000th match in management.
 date: 2025-11-10
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

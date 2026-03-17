@@ -1,8 +1,8 @@
 ---
-title: "Shubman Gill As Selection Committee Meets In Raipur"
-description: "Shubman Gill’s fitness and availability have become the focal point as India’s selection committee prepares for the T20I series against South Africa."
+title: Shubman Gill As Selection Committee Meets In Raipur
+description: Shubman Gill’s fitness and availability have become the focal point as India’s selection committee prepares for the T20I series against South Africa.
 date: 2025-12-03
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

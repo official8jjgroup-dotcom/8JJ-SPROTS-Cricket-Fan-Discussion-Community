@@ -1,8 +1,8 @@
 ---
-title: "Courtney Walsh Joins Zimbabwe as Bowling Consultant Ahead of T20 World Cup 2026"
-description: "Legendary West Indies pacer Courtney Walsh has been appointed as Zimbabwe’s bowling consultant to prepare the team for the T20 World Cup 2026."
+title: Courtney Walsh Joins Zimbabwe as Bowling Consultant Ahead of T20 World Cup 2026
+description: Legendary West Indies pacer Courtney Walsh has been appointed as Zimbabwe’s bowling consultant to prepare the team for the T20 World Cup 2026.
 date: 2026-01-18
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

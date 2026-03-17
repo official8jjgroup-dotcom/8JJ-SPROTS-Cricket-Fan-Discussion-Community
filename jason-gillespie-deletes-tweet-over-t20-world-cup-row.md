@@ -1,8 +1,8 @@
 ---
-title: "Jason Gillespie Deletes Tweet Over T20 World Cup Row"
-description: "Former Australia bowler Jason Gillespie removes a social media post questioning ICC’s T20 World Cup 2026 venue change after facing online backlash."
+title: Jason Gillespie Deletes Tweet Over T20 World Cup Row
+description: Former Australia bowler Jason Gillespie removes a social media post questioning ICC’s T20 World Cup 2026 venue change after facing online backlash.
 date: 2026-01-26
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

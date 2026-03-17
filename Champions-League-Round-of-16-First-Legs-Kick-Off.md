@@ -1,8 +1,8 @@
 ---
-title: "Champions League Round of 16 First Legs Kick Off"
-description: "Europe’s elite clubs begin their battle for the Champions League quarterfinal spots as the Round of 16 first legs get underway."
+title: Champions League Round of 16 First Legs Kick Off
+description: Europe’s elite clubs begin their battle for the Champions League quarterfinal spots as the Round of 16 first legs get underway.
 date: 2026-03-10
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "March Madness 2026: Can Florida Repeat as National Champions?"
-description: "Florida enters March Madness 2026 with hopes of defending its title, but the road to another championship will be challenging."
+title: March Madness 2026: Can Florida Repeat as National Champions?
+description: Florida enters March Madness 2026 with hopes of defending its title, but the road to another championship will be challenging.
 date: 2025-12-13
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

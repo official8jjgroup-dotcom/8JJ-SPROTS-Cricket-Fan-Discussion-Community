@@ -1,8 +1,8 @@
 ---
-title: "BPL Auction After 12 Years: A New Era Begins"
-description: "The Bangladesh Premier League holds its first major auction in 12 years, marking the start of a new era."
+title: BPL Auction After 12 Years: A New Era Begins
+description: The Bangladesh Premier League holds its first major auction in 12 years, marking the start of a new era.
 date: 2025-11-13
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

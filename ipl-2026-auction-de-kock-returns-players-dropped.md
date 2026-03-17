@@ -1,8 +1,8 @@
 ---
-title: "IPL 2026 Auction: De Kock Returns, 1,005 Players Dropped"
-description: "The IPL 2026 Auction heats up as Quinton de Kock makes a surprise return and the BCCI trims the player longlist to just 350, adding new entrants to the mix."
+title: IPL 2026 Auction: De Kock Returns, 1,005 Players Dropped
+description: The IPL 2026 Auction heats up as Quinton de Kock makes a surprise return and the BCCI trims the player longlist to just 350, adding new entrants to the mix.
 date: 2025-12-09
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

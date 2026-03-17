@@ -1,8 +1,8 @@
 ---
-title: "NBA 2026: Teams Poised for a Historic Playoff Run"
-description: "Several NBA franchises are preparing for deep playoff runs in 2026 as the race for the championship intensifies."
+title: NBA 2026: Teams Poised for a Historic Playoff Run
+description: Several NBA franchises are preparing for deep playoff runs in 2026 as the race for the championship intensifies.
 date: 2025-12-19
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

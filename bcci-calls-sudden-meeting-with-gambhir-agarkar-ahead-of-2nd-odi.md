@@ -1,8 +1,8 @@
 ---
-title: "BCCI Calls Sudden Meeting With Gambhir, Agarkar Ahead of 2nd ODI"
-description: "BCCI has called an urgent meeting with Gautam Gambhir, Ajit Agarkar, and top officials to address selection issues and planning ahead of the 2nd ODI vs South Africa."
+title: BCCI Calls Sudden Meeting With Gambhir, Agarkar Ahead of 2nd ODI
+description: BCCI has called an urgent meeting with Gautam Gambhir, Ajit Agarkar, and top officials to address selection issues and planning ahead of the 2nd ODI vs South Africa.
 date: 2025-12-01
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

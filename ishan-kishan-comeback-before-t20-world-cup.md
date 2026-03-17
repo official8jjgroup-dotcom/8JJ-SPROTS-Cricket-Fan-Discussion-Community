@@ -1,8 +1,8 @@
 ---
-title: "“Can I Do It Again?”: Ishan Kishan Comeback Before T20 World Cup"
-description: "Ishan Kishan scores a breathtaking 76 off 32 balls against New Zealand, reaffirming his place in India’s T20 World Cup plans."
+title: “Can I Do It Again?”: Ishan Kishan Comeback Before T20 World Cup
+description: Ishan Kishan scores a breathtaking 76 off 32 balls against New Zealand, reaffirming his place in India’s T20 World Cup plans.
 date: 2026-01-25
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

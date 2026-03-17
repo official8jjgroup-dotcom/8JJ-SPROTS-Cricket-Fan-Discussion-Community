@@ -1,8 +1,8 @@
 ---
-title: "IPL 2026: 7 Big Updates on RCB’s Return to Bengaluru"
-description: "Major updates surrounding Royal Challengers Bengaluru’s return home during IPL 2026."
+title: IPL 2026: 7 Big Updates on RCB’s Return to Bengaluru
+description: Major updates surrounding Royal Challengers Bengaluru’s return home during IPL 2026.
 date: 2026-03-12
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

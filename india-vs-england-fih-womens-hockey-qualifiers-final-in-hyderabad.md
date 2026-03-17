@@ -1,8 +1,8 @@
 ---
-title: "India vs England FIH Women’s Hockey Qualifiers Final in Hyderabad"
-description: "India’s women’s hockey team will take on England in the final of the FIH Women’s World Cup 2026 Qualifiers in Hyderabad with a place in the World Cup at stake."
+title: India vs England FIH Women’s Hockey Qualifiers Final in Hyderabad
+description: India’s women’s hockey team will take on England in the final of the FIH Women’s World Cup 2026 Qualifiers in Hyderabad with a place in the World Cup at stake.
 date: 2026-03-14
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

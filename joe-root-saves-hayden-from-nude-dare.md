@@ -1,9 +1,9 @@
 ---
 
-title: "Joe Root Saves Hayden From Nude Dare"
-description: "Joe Root’s century not only rescued England in the Ashes but also spared Matthew Hayden from a viral nude dare, creating a perfect mix of drama and humour."
+title: Joe Root Saves Hayden From Nude Dare
+description: Joe Root’s century not only rescued England in the Ashes but also spared Matthew Hayden from a viral nude dare, creating a perfect mix of drama and humour.
 date: 2025-12-05
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

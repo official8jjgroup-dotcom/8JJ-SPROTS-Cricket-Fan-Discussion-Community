@@ -1,8 +1,8 @@
 ---
-title: "Jason Gillespie Lifts Lid on Pakistan Cricket Board Controversy"
-description: "Jason Gillespie opens up about the circumstances surrounding his resignation from the Pakistan Test coach role, revealing backstage incidents and issues within the PCB"
+title: Jason Gillespie Lifts Lid on Pakistan Cricket Board Controversy
+description: Jason Gillespie opens up about the circumstances surrounding his resignation from the Pakistan Test coach role, revealing backstage incidents and issues within the PCB
 date: 2026-01-03
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

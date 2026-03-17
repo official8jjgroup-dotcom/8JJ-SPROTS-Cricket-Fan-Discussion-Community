@@ -1,8 +1,8 @@
 ---
-title: "Rishabh Pant Breaks Virender Sehwag’s Record"
-description: "India’s Rishabh Pant has broken legendary Virender Sehwag’s long-standing record in a recent fixture."
+title: Rishabh Pant Breaks Virender Sehwag’s Record
+description: India’s Rishabh Pant has broken legendary Virender Sehwag’s long-standing record in a recent fixture.
 date: 2025-11-15
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

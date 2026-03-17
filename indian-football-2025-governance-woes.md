@@ -1,9 +1,9 @@
 ---
-title: "Indian Football 2025: Governance Woes and On-Field Struggles"
-description: "Indian football in 2025 faces administrative chaos, poor on-field performance, and investment issues as the AIFF struggles to revive the sport domestically and internationally."
+title: Indian Football 2025: Governance Woes and On-Field Struggles
+description: Indian football in 2025 faces administrative chaos, poor on-field performance, and investment issues as the AIFF struggles to revive the sport domestically and internationally.
 date: 2025-11-24
-category: "Football"
-tags: ["Indian football", "AIFF", "Indian Super League", "2025 football", "Khalid Jamil", "Bangladesh vs India", "football governance"]
+category: Football
+tags: [Indian football, AIFF, Indian Super League, 2025 football, Khalid Jamil, Bangladesh vs India, football governance]
 layout: post
 ---
 

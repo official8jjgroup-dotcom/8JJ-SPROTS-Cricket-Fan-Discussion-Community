@@ -1,8 +1,8 @@
 ---
-title: "Amit Mishra Dowry Case: Key Allegations and Legal Developments"
-description: "A court complaint alleging dowry harassment and abuse has placed cricketer Amit Mishra in the spotlight, sparking debate across Indian cricket circles."
+title: Amit Mishra Dowry Case: Key Allegations and Legal Developments
+description: A court complaint alleging dowry harassment and abuse has placed cricketer Amit Mishra in the spotlight, sparking debate across Indian cricket circles.
 date: 2025-12-19
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

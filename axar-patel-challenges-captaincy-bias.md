@@ -1,8 +1,8 @@
 ---
-title: "Axar Patel Challenges Captaincy Bias"
-description: "All-rounder Axar Patel speaks out about biases he perceives in captaincy decisions and leadership roles."
+title: Axar Patel Challenges Captaincy Bias
+description: All-rounder Axar Patel speaks out about biases he perceives in captaincy decisions and leadership roles.
 date: 2025-11-14
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

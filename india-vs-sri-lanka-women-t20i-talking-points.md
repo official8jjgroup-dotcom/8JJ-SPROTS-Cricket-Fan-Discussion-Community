@@ -1,9 +1,9 @@
 ---
-title: "Key Talking Points Ahead of India vs Sri Lanka Women T20I Series"
-description: "The India–Sri Lanka Women T20I series serves as a strategic checkpoint in preparation for the 2026 T20 World Cup."
+title: Key Talking Points Ahead of India vs Sri Lanka Women T20I Series
+description: The India–Sri Lanka Women T20I series serves as a strategic checkpoint in preparation for the 2026 T20 World Cup.
 date: 2025-12-21
-author: "8JJ Sports"
-layout: "post"
+author: 8JJ Sports
+layout: post
 ---
 
 # Why the India vs Sri Lanka Women T20I Series Matters

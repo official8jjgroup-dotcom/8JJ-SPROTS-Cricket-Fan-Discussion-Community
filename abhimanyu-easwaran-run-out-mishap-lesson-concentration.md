@@ -1,8 +1,8 @@
 ---
-title: "Abhimanyu Easwaran Run Out Mishap: A Lesson In Concentration"
-description: "Bengal captain Abhimanyu Easwaran suffers a bizarre run out in Ranji Trophy 2025-26, emphasizing the importance of focus in cricket."
+title: Abhimanyu Easwaran Run Out Mishap: A Lesson In Concentration
+description: Bengal captain Abhimanyu Easwaran suffers a bizarre run out in Ranji Trophy 2025-26, emphasizing the importance of focus in cricket.
 date: 2026-01-25
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

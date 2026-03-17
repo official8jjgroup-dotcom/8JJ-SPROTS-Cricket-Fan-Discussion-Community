@@ -1,9 +1,9 @@
 ---
-title: "AFCON 2025: Nigeria Qualify Early as Senegal Stay in Control"
-description: "Goals from Victor Osimhen and Sadio Mane shaped AFCON 2025 as Nigeria booked early knockout qualification and Senegal maintained group dominance."
+title: AFCON 2025: Nigeria Qualify Early as Senegal Stay in Control
+description: Goals from Victor Osimhen and Sadio Mane shaped AFCON 2025 as Nigeria booked early knockout qualification and Senegal maintained group dominance.
 date: 2025-12-28
-author: "8JJ Sports"
-layout: "post"
+author: 8JJ Sports
+layout: post
 ---
 
 # AFCON 2025 Momentum Builds for Nigeria and Senegal

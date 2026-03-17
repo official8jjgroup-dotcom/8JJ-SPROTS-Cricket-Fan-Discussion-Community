@@ -1,8 +1,8 @@
 ---
-title: "Champions League Round of 16 Matches Fans Cannot Miss"
-description: "The UEFA Champions League Round of 16 features several blockbuster clashes between Europe’s top football clubs."
+title: Champions League Round of 16 Matches Fans Cannot Miss
+description: The UEFA Champions League Round of 16 features several blockbuster clashes between Europe’s top football clubs.
 date: 2025-12-13
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

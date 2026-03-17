@@ -1,8 +1,8 @@
 ---
-title: "Brendon McCullum Resolute to Stay as England Coach Despite Ashes Humiliation"
-description: "Despite a 3-0 deficit in the Ashes series, England coach Brendon McCullum remains committed to his role, acknowledging his uncertain future."
+title: Brendon McCullum Resolute to Stay as England Coach Despite Ashes Humiliation
+description: Despite a 3-0 deficit in the Ashes series, England coach Brendon McCullum remains committed to his role, acknowledging his uncertain future.
 date: 2025-12-23
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

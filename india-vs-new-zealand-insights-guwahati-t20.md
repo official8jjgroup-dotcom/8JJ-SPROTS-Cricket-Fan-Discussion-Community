@@ -1,8 +1,8 @@
 ---
-title: "India vs New Zealand Insights Ahead of Guwahati T20"
-description: "Previewing the upcoming India vs New Zealand T20 clash in Guwahati, highlighting key players and recent performances."
+title: India vs New Zealand Insights Ahead of Guwahati T20
+description: Previewing the upcoming India vs New Zealand T20 clash in Guwahati, highlighting key players and recent performances.
 date: 2026-01-25
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "Gautam Gambhir on India’s T20 World Cup Preparation"
-description: "Head coach Gautam Gambhir admits that India’s T20 World Cup preparations are still not where they wish to be, albeit confident there’s enough time to get ready."
+title: Gautam Gambhir on India’s T20 World Cup Preparation
+description: Head coach Gautam Gambhir admits that India’s T20 World Cup preparations are still not where they wish to be, albeit confident there’s enough time to get ready.
 date: 2025-11-11
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

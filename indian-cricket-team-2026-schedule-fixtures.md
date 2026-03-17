@@ -1,8 +1,8 @@
 ---
-title: "Indian Cricket Team 2026 Schedule: Ultimate Fixtures Revealed"
-description: "Team India’s 2026 cricket schedule is packed with T20 World Cup action, IPL clashes, Asian Games, and key bilateral series, promising a thrilling year for fans."
+title: Indian Cricket Team 2026 Schedule: Ultimate Fixtures Revealed
+description: Team India’s 2026 cricket schedule is packed with T20 World Cup action, IPL clashes, Asian Games, and key bilateral series, promising a thrilling year for fans.
 date: 2026-01-01
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

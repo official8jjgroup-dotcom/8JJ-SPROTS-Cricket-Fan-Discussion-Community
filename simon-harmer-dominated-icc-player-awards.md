@@ -1,8 +1,8 @@
 ---
-title: "Simon Harmer Dominated ICC Player Awards"
-description: "Simon Harmer earns ICC Player of the Month nomination after his stellar performance in South Africa’s 2-0 Test series win over India."
+title: Simon Harmer Dominated ICC Player Awards
+description: Simon Harmer earns ICC Player of the Month nomination after his stellar performance in South Africa’s 2-0 Test series win over India.
 date: 2025-12-06
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

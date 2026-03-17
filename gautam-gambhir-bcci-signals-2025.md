@@ -1,9 +1,9 @@
 ---
-title: "Gautam Gambhir Faces Mounting BCCI Pressure in 2025"
-description: "Despite white-ball success, India’s red-ball struggles have intensified scrutiny on Gautam Gambhir during the ongoing BCCI coaching review."
+title: Gautam Gambhir Faces Mounting BCCI Pressure in 2025
+description: Despite white-ball success, India’s red-ball struggles have intensified scrutiny on Gautam Gambhir during the ongoing BCCI coaching review.
 date: 2025-12-28
-author: "8JJ Sports"
-layout: "post"
+author: 8JJ Sports
+layout: post
 ---
 
 # BCCI Signals Grow Louder Around Gautam Gambhir in 2025

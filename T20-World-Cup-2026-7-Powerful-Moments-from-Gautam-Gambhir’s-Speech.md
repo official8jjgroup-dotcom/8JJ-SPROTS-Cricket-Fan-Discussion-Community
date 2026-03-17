@@ -1,8 +1,8 @@
 ---
-title: "T20 World Cup 2026: 7 Powerful Moments from Gautam Gambhir’s Speech"
-description: "Gautam Gambhir delivers an inspiring speech ahead of the T20 World Cup 2026."
+title: T20 World Cup 2026: 7 Powerful Moments from Gautam Gambhir’s Speech
+description: Gautam Gambhir delivers an inspiring speech ahead of the T20 World Cup 2026.
 date: 2026-03-12
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

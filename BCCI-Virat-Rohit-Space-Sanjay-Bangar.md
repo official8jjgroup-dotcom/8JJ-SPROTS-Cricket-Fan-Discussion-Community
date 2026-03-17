@@ -1,8 +1,8 @@
 ---
-title: "BCCI Should Give Space To Virat Kohli, Rohit Sharma: Sanjay Bangar"
-description: "Former coach Sanjay Bangar says Virat Kohli and Rohit Sharma deserve special consideration, avoiding domestic obligations before the 2027 World Cup."
+title: BCCI Should Give Space To Virat Kohli, Rohit Sharma: Sanjay Bangar
+description: Former coach Sanjay Bangar says Virat Kohli and Rohit Sharma deserve special consideration, avoiding domestic obligations before the 2027 World Cup.
 date: 2025-12-08
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

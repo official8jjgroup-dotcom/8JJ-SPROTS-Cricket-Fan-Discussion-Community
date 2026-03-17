@@ -1,8 +1,8 @@
 ---
-title: "Florian Wirtz’s Liverpool Form Defended by Germany Boss"
-description: "Germany national team boss Julian Nagelsmann steps in to defend Liverpool summer signing Florian Wirtz after a challenging start to his Premier League career."
+title: Florian Wirtz’s Liverpool Form Defended by Germany Boss
+description: Germany national team boss Julian Nagelsmann steps in to defend Liverpool summer signing Florian Wirtz after a challenging start to his Premier League career.
 date: 2025-11-11
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

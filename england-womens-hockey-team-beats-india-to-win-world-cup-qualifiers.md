@@ -1,8 +1,8 @@
 ---
-title: "England Women’s Hockey Team Beats India to Win World Cup Qualifiers"
-description: "England’s women’s hockey team defeated India 2–0 in the final of the FIH Women’s Hockey World Cup Qualifiers, capturing the title and earning momentum ahead of the 2026 World Cup."
+title: England Women’s Hockey Team Beats India to Win World Cup Qualifiers
+description: England’s women’s hockey team defeated India 2–0 in the final of the FIH Women’s Hockey World Cup Qualifiers, capturing the title and earning momentum ahead of the 2026 World Cup.
 date: 2026-03-15
-author: "8JJ"
+author: 8JJ
 layout: post
 ---
 

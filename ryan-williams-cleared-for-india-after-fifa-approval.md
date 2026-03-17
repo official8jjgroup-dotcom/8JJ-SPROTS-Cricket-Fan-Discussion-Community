@@ -1,9 +1,9 @@
 ---
-title: "Ryan Williams Cleared for India After FIFA Approval"
-description: "Ryan Williams receives FIFA approval for a change of association, officially making him eligible to represent India in international football."
+title: Ryan Williams Cleared for India After FIFA Approval
+description: Ryan Williams receives FIFA approval for a change of association, officially making him eligible to represent India in international football.
 date: 2025-11-21
-category: "Football"
-tags: ["Ryan Williams", "Indian football", "FIFA clearance", "Bengaluru FC", "Khalid Jamil", "Indian national team"]
+category: Football
+tags: [Ryan Williams, Indian football, FIFA clearance, Bengaluru FC, Khalid Jamil, Indian national team]
 layout: post
 ---
 

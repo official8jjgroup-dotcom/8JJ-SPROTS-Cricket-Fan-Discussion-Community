@@ -1,8 +1,8 @@
 ---
-title: "Vaibhav Suryavanshi India’s Most-Searched Cricketer 2025"
-description: "14-year-old Vaibhav Suryavanshi becomes India’s most-searched cricketer of 2025, rising above stars like Virat Kohli and Rohit Sharma."
+title: Vaibhav Suryavanshi India’s Most-Searched Cricketer 2025
+description: 14-year-old Vaibhav Suryavanshi becomes India’s most-searched cricketer of 2025, rising above stars like Virat Kohli and Rohit Sharma.
 date: 2025-12-06
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

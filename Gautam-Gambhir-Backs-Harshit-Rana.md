@@ -1,8 +1,8 @@
 ---
-title: "Gautam Gambhir Backs Harshit Rana as Top Bowling All-Rounder"
-description: "Gautam Gambhir supports Harshit Rana as a key bowling all-rounder for India, aiming for the No. 8 spot ahead of ODI World Cup 2027."
+title: Gautam Gambhir Backs Harshit Rana as Top Bowling All-Rounder
+description: Gautam Gambhir supports Harshit Rana as a key bowling all-rounder for India, aiming for the No. 8 spot ahead of ODI World Cup 2027.
 date: 2025-12-08
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

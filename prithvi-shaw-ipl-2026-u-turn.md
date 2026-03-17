@@ -2,8 +2,8 @@
 title: Prithvi Shaw's IPL 2026 U-Turn Shocks Fans
 description: Delhi Capitals' late bid revives Prithvi Shaw’s IPL 2026 prospects after an unpredictable auction.
 date: 2025-12-17
-author: "8JJ Sports"
-layout: "post"
+author: 8JJ Sports
+layout: post
 ---
 
 # Prithvi Shaw’s Dramatic IPL 2026 Comeback

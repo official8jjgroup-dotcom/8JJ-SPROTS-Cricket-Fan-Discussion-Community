@@ -1,9 +1,9 @@
 ---
-title: "ICC Intervenes After Alex Carey Snicko Controversy in Ashes Test"
-description: "ICC acted to correct errors in Snicko technology following the Alex Carey caught-behind review dispute."
+title: ICC Intervenes After Alex Carey Snicko Controversy in Ashes Test
+description: ICC acted to correct errors in Snicko technology following the Alex Carey caught-behind review dispute.
 date: 2025-12-18
-author: "8JJ Sports"
-layout: "post"
+author: 8JJ Sports
+layout: post
 ---
 
 # ICC Takes Action After Alex Carey Snicko Controversy

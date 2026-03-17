@@ -1,8 +1,8 @@
 ---
-title: "Virat Kohli’s Cricket Preparation at 37"
-description: "Virat Kohli continues to dominate, showcasing exceptional preparation, mental focus, and unmatched consistency in international cricket."
+title: Virat Kohli’s Cricket Preparation at 37
+description: Virat Kohli continues to dominate, showcasing exceptional preparation, mental focus, and unmatched consistency in international cricket.
 date: 2025-12-02
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

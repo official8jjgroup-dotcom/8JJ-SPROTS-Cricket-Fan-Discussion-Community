@@ -1,9 +1,9 @@
 ---
-title: "India A Collapse as Bangladesh A Win Thriller in Super Over"
-description: "India A fall to Bangladesh A in a tense Super Over after a dramatic tie in the Asia Cup Rising Stars semifinal, ending their title hopes in Doha."
+title: India A Collapse as Bangladesh A Win Thriller in Super Over
+description: India A fall to Bangladesh A in a tense Super Over after a dramatic tie in the Asia Cup Rising Stars semifinal, ending their title hopes in Doha.
 date: 2025-11-24
-category: "Cricket International"
-tags: ["India A vs Bangladesh A", "Asia Cup Rising Stars", "Super Over loss", "Rising Stars semifinal", "India A cricket"]
+category: Cricket International
+tags: [India A vs Bangladesh A, Asia Cup Rising Stars, Super Over loss, Rising Stars semifinal, India A cricket]
 layout: post
 ---
 

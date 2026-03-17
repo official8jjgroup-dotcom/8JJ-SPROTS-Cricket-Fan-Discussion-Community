@@ -1,8 +1,8 @@
 ---
-title: "PSL 2026 Auction Set for February 11"
-description: "The Pakistan Super League (PSL) 2026 auction is scheduled for February 11, introducing two new franchises and a full auction system for the 11th season."
+title: PSL 2026 Auction Set for February 11
+description: The Pakistan Super League (PSL) 2026 auction is scheduled for February 11, introducing two new franchises and a full auction system for the 11th season.
 date: 2026-01-26
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "Aryna Sabalenka Dominates at Australian Open with 6-3 6-1 Win"
-description: "Aryna Sabalenka advances to the third round of the Australian Open 2026 with a dominant 6-3, 6-1 victory over Bai Zhuoxuan, asserting herself as a tournament favorite."
+title: Aryna Sabalenka Dominates at Australian Open with 6-3 6-1 Win
+description: Aryna Sabalenka advances to the third round of the Australian Open 2026 with a dominant 6-3, 6-1 victory over Bai Zhuoxuan, asserting herself as a tournament favorite.
 date: 2026-01-22
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

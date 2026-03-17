@@ -1,8 +1,8 @@
 ---
-title: "Formula 1 2026: Major Changes Shaking Up the New Season"
-description: "Formula 1 enters a new era in 2026 with regulation changes that could reshape the competitive balance of the sport."
+title: Formula 1 2026: Major Changes Shaking Up the New Season
+description: Formula 1 enters a new era in 2026 with regulation changes that could reshape the competitive balance of the sport.
 date: 2025-12-19
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

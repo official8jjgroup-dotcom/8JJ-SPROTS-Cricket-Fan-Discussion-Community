@@ -1,8 +1,8 @@
 ---
-title: "Shardul Thakur’s Mumbai Indians Reunion Matters"
-description: "Mumbai Indians fans get excited as Shardul Thakur and Rohit Sharma reunite with the franchise ahead of IPL 2026, promising experience and depth."
+title: Shardul Thakur’s Mumbai Indians Reunion Matters
+description: Mumbai Indians fans get excited as Shardul Thakur and Rohit Sharma reunite with the franchise ahead of IPL 2026, promising experience and depth.
 date: 2025-12-09
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

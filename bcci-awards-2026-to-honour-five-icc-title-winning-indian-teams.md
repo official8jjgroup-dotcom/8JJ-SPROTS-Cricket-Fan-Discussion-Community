@@ -1,8 +1,8 @@
 ---
-title: "BCCI Awards 2026 To Honour Five ICC Title Winning Indian Teams"
-description: "BCCI will honour five Indian teams that won ICC trophies over the past year during the NAMAN awards ceremony in New Delhi."
+title: BCCI Awards 2026 To Honour Five ICC Title Winning Indian Teams
+description: BCCI will honour five Indian teams that won ICC trophies over the past year during the NAMAN awards ceremony in New Delhi.
 date: 2026-03-11
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

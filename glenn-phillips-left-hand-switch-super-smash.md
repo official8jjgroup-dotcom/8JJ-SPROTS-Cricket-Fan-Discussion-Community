@@ -1,8 +1,8 @@
 ---
-title: "Glenn Phillips’ Stunning Left-Hand Switch Stuns Super Smash Fans"
-description: "Glenn Phillips amazed Super Smash fans by switching to left-handed batting mid-match, showcasing his skill, versatility, and innovation in T20 cricket."
+title: Glenn Phillips’ Stunning Left-Hand Switch Stuns Super Smash Fans
+description: Glenn Phillips amazed Super Smash fans by switching to left-handed batting mid-match, showcasing his skill, versatility, and innovation in T20 cricket.
 date: 2026-01-01
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

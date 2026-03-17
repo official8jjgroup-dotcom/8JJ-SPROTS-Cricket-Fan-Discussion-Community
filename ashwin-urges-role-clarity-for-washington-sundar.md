@@ -1,8 +1,8 @@
 ---
-title: "R Ashwin Urges Role Clarity for Washington Sundar"
-description: "R Ashwin highlights the need for strong role clarity for young all-rounders like Nitish Reddy, drawing from Washington Sundar’s recent ODI usage."
+title: R Ashwin Urges Role Clarity for Washington Sundar
+description: R Ashwin highlights the need for strong role clarity for young all-rounders like Nitish Reddy, drawing from Washington Sundar’s recent ODI usage.
 date: 2025-12-05
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

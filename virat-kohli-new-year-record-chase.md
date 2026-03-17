@@ -1,8 +1,8 @@
 ---
-title: "Virat Kohli New Year: Amazing Record Chase Sparks Huge Buzz"
-description: "Virat Kohli kicks off 2026 with positivity and purpose, sharing a heartfelt moment that resonated with fans worldwide."
+title: Virat Kohli New Year: Amazing Record Chase Sparks Huge Buzz
+description: Virat Kohli kicks off 2026 with positivity and purpose, sharing a heartfelt moment that resonated with fans worldwide.
 date: 2026-01-01
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "Delhi Capitals Beat RCB To Climb Second In WPL 2026"
-description: "Delhi Capitals secure a seven-wicket win over RCB, moving into second place in WPL 2026 standings."
+title: Delhi Capitals Beat RCB To Climb Second In WPL 2026
+description: Delhi Capitals secure a seven-wicket win over RCB, moving into second place in WPL 2026 standings.
 date: 2026-01-25
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: "India vs South Africa: Kumble Critiques Pant's Captaincy on Day 2"
-description: "Anil Kumble criticizes Rishabh Pant for lack of aggression on Day 2 of the India vs South Africa 2nd Test, urging attacking tactics to create wicket-taking chances."
+title: India vs South Africa: Kumble Critiques Pant's Captaincy on Day 2
+description: Anil Kumble criticizes Rishabh Pant for lack of aggression on Day 2 of the India vs South Africa 2nd Test, urging attacking tactics to create wicket-taking chances.
 date: 2025-11-24
-category: "Test Cricket"
-tags: ["India vs South Africa", "Rishabh Pant", "Anil Kumble", "Guwahati Test", "Yashasvi Jaiswal", "Rishabh Pant captaincy", "Anil Kumble advice", "India vs SA 2nd Test"]
-featured_image: ""
+category: Test Cricket
+tags: [India vs South Africa, Rishabh Pant, Anil Kumble, Guwahati Test, Yashasvi Jaiswal, Rishabh Pant captaincy, Anil Kumble advice, India vs SA 2nd Test]
+featured_image: 
 draft: false
 ---
 
@@ -24,23 +24,23 @@ Kumble highlighted that India's slow start in the morning session allowed South 
 
 ### Need for Attacking Field Placements
 
-Kumble emphasized the importance of aggressive field settings. "I thought they could have been a little more aggressive at the start — a bit more attacking. We finally saw some of that in the last over before tea, when they brought in a short leg, a silly point, and packed the fielders around," he said. Kumble pointed out that on flat pitches where the ball does not naturally turn, India must force batters into mistakes through proactive tactics.
+Kumble emphasized the importance of aggressive field settings. I thought they could have been a little more aggressive at the start — a bit more attacking. We finally saw some of that in the last over before tea, when they brought in a short leg, a silly point, and packed the fielders around, he said. Kumble pointed out that on flat pitches where the ball does not naturally turn, India must force batters into mistakes through proactive tactics.
 
 #### Encouraging Wicket-Taking Chances
 
-He added, "On a pitch where nothing much is happening, you have to make things happen. You need to force the batter into a shot — that's how you create wicket-taking chances." Kumble stressed that using the depth of the crease, combining spin with aggressive fielding, and varying options are key to generating breakthroughs against resilient opponents.
+He added, On a pitch where nothing much is happening, you have to make things happen. You need to force the batter into a shot — that's how you create wicket-taking chances. Kumble stressed that using the depth of the crease, combining spin with aggressive fielding, and varying options are key to generating breakthroughs against resilient opponents.
 
 ---
 
 ## 👏 Praise for South African Batting
 
-While critiquing India, Kumble also acknowledged South Africa's excellence. He noted, "Credit to the South African batters, though. Both Muthusamy and Kyle Verreynne have batted exceptionally well. They've used their feet nicely — and by that I don't just mean stepping out; using the depth of the crease as well." Their composure on a flat pitch made India's task significantly harder.
+While critiquing India, Kumble also acknowledged South Africa's excellence. He noted, Credit to the South African batters, though. Both Muthusamy and Kyle Verreynne have batted exceptionally well. They've used their feet nicely — and by that I don't just mean stepping out; using the depth of the crease as well. Their composure on a flat pitch made India's task significantly harder.
 
 ---
 
 ## 🎯 India's Adaptation to Spin-Friendly Pitches
 
-Kumble observed that Indian teams are often accustomed to spin-friendly tracks where wickets come naturally. "If you're going to have long-off, long-on, and deep cover from the start, it becomes comfortable for the batter. India may simply be unused to situations where wickets aren't falling regularly; they're accustomed to pitches where spinners naturally dominate," he explained. On such wickets, proactive field placements and inventive tactics become essential.
+Kumble observed that Indian teams are often accustomed to spin-friendly tracks where wickets come naturally. If you're going to have long-off, long-on, and deep cover from the start, it becomes comfortable for the batter. India may simply be unused to situations where wickets aren't falling regularly; they're accustomed to pitches where spinners naturally dominate, he explained. On such wickets, proactive field placements and inventive tactics become essential.
 
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "The Ashes: A Storied Rivalry That Shaped Cricket History"
-description: "Explore the legendary Ashes rivalry between England and Australia, from the iconic urn and historic series to cultural significance and modern Test cricket legacy."
+title: The Ashes: A Storied Rivalry That Shaped Cricket History
+description: Explore the legendary Ashes rivalry between England and Australia, from the iconic urn and historic series to cultural significance and modern Test cricket legacy.
 date: 2025-11-21
-category: "History"
-tags: ["The Ashes", "Sports History", "England Cricket", "Australia Cricket", "Legendary Matches", "Cricket Rivalries", "Test Cricket", "Iconic Sports Moments", "Sports Culture"]
+category: History
+tags: [The Ashes, Sports History, England Cricket, Australia Cricket, Legendary Matches, Cricket Rivalries, Test Cricket, Iconic Sports Moments, Sports Culture]
 layout: post
 ---
 

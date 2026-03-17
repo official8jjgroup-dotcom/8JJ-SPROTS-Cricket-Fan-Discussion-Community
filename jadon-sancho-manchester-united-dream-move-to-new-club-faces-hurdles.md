@@ -1,8 +1,8 @@
 ---
-title: "Jadon Sancho Manchester United Dream Move to New Club Faces Hurdles"
-description: "Jadon Sancho’s hopes of a fresh permanent move away from Manchester United are being blocked by contract complexities, wage issues, and transfer negotiations as his future remains uncertain."
+title: Jadon Sancho Manchester United Dream Move to New Club Faces Hurdles
+description: Jadon Sancho’s hopes of a fresh permanent move away from Manchester United are being blocked by contract complexities, wage issues, and transfer negotiations as his future remains uncertain.
 date: 2026-03-15
-author: "8JJ"
+author: 8JJ
 layout: post
 ---
 

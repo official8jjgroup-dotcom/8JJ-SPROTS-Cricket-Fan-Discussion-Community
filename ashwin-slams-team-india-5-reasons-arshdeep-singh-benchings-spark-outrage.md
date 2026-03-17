@@ -1,8 +1,8 @@
 ---
-title: "R Ashwin Slams Team India: 5 Reasons Arshdeep Singh Benchings Spark Outrage"
-description: "Ravichandran Ashwin criticizes Team India over Arshdeep Singh being benched in ODIs against New Zealand, sparking debates on selection fairness and team strategy."
+title: R Ashwin Slams Team India: 5 Reasons Arshdeep Singh Benchings Spark Outrage
+description: Ravichandran Ashwin criticizes Team India over Arshdeep Singh being benched in ODIs against New Zealand, sparking debates on selection fairness and team strategy.
 date: 2026-01-18
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "Salima Tete Hits 150 Caps As India’s Hockey Captain"
-description: "India women’s hockey captain Salima Tete reached a milestone of 150 international caps during India’s FIH World Cup Qualifiers campaign, marking her as one of the team’s most experienced players."
+title: Salima Tete Hits 150 Caps As India’s Hockey Captain
+description: India women’s hockey captain Salima Tete reached a milestone of 150 international caps during India’s FIH World Cup Qualifiers campaign, marking her as one of the team’s most experienced players.
 date: 2026-03-16
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

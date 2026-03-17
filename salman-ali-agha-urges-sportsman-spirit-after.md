@@ -1,8 +1,8 @@
 ---
-title: "Salman Ali Agha Urges Sportsman Spirit After Controversial Run-Out"
-description: "Pakistan batter Salman Ali Agha called for greater sportsmanship in cricket after a controversial run-out involving Bangladesh captain Mehidy Hasan Miraz during an ODI match in Dhaka."
+title: Salman Ali Agha Urges Sportsman Spirit After Controversial Run-Out
+description: Pakistan batter Salman Ali Agha called for greater sportsmanship in cricket after a controversial run-out involving Bangladesh captain Mehidy Hasan Miraz during an ODI match in Dhaka.
 date: 2026-03-14
-author: "8JJ Cricket"
+author: 8JJ Cricket
 layout: post
 ---
 

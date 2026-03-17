@@ -1,9 +1,9 @@
 ---
-title: "PSG Dominate Fontenay With Commanding French Cup Victory"
-description: "Paris Saint-Germain cruise past Fontenay with tactical control, squad depth, and clinical finishing in the French Cup."
+title: PSG Dominate Fontenay With Commanding French Cup Victory
+description: Paris Saint-Germain cruise past Fontenay with tactical control, squad depth, and clinical finishing in the French Cup.
 date: 2025-12-21
-author: "8JJ Sports"
-layout: "post"
+author: 8JJ Sports
+layout: post
 ---
 
 # PSG Cruise Comfortably Past Fontenay in French Cup

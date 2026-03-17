@@ -1,8 +1,8 @@
 ---
-title: "Premier League Preview: Arsenal vs Manchester United Showdown"
-description: "Arsenal aims to extend home winning streak as they face Manchester United in a high-stakes Premier League clash."
+title: Premier League Preview: Arsenal vs Manchester United Showdown
+description: Arsenal aims to extend home winning streak as they face Manchester United in a high-stakes Premier League clash.
 date: 2026-01-24
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "Babar Azam & Steve Smith: 1 Major BBL Feud Settled"
-description: "A reported on-field clash between Babar Azam and Steve Smith in the Big Bash League has been resolved after internal discussions, clarifying the controversy."
+title: Babar Azam & Steve Smith: 1 Major BBL Feud Settled
+description: A reported on-field clash between Babar Azam and Steve Smith in the Big Bash League has been resolved after internal discussions, clarifying the controversy.
 date: 2026-01-22
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

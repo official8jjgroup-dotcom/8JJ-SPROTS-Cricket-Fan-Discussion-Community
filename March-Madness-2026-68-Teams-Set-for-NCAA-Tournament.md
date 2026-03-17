@@ -1,8 +1,8 @@
 ---
-title: "March Madness 2026: 68 Teams Set for NCAA Tournament"
-description: "The 2026 NCAA Tournament field is officially set as 68 teams prepare for the excitement and unpredictability of March Madness."
+title: March Madness 2026: 68 Teams Set for NCAA Tournament
+description: The 2026 NCAA Tournament field is officially set as 68 teams prepare for the excitement and unpredictability of March Madness.
 date: 2026-03-15
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

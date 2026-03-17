@@ -1,8 +1,8 @@
 ---
-title: "Rohit Sharma After Animated ODI Win Chat"
-description: "Rohit Sharma leads India’s ODI win as an animated chat with Gautam Gambhir sparks debate; inside look at strategy and performance in a gripping 17-run victory."
+title: Rohit Sharma After Animated ODI Win Chat
+description: Rohit Sharma leads India’s ODI win as an animated chat with Gautam Gambhir sparks debate; inside look at strategy and performance in a gripping 17-run victory.
 date: 2025-12-01
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

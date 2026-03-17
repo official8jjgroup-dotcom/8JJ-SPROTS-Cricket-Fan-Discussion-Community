@@ -1,8 +1,8 @@
 ---
-title: "Virat Kohli’s Future After Coach’s Bold Reply"
-description: "Virat Kohli’s future gets a major boost as India’s coach backs him strongly, saying there are “no questions about anything” after his stunning ODI century."
+title: Virat Kohli’s Future After Coach’s Bold Reply
+description: Virat Kohli’s future gets a major boost as India’s coach backs him strongly, saying there are “no questions about anything” after his stunning ODI century.
 date: 2025-12-01
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

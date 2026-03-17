@@ -1,8 +1,8 @@
 ---
-title: "Sourav Ganguly: BCCI Message to Mohammed Shami ‘Stuns’ Former Captain"
-description: "Sourav Ganguly reacts strongly to BCCI’s handling of Mohammed Shami’s situation, calling the message ‘stunning’."
+title: Sourav Ganguly: BCCI Message to Mohammed Shami ‘Stuns’ Former Captain
+description: Sourav Ganguly reacts strongly to BCCI’s handling of Mohammed Shami’s situation, calling the message ‘stunning’.
 date: 2025-11-13
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

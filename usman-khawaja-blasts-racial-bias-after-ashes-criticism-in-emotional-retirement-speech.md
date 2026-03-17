@@ -1,8 +1,8 @@
 ---
-title: "Usman Khawaja Blasts Racial Bias After Ashes Criticism in Emotional Retirement Speech"
-description: "Usman Khawaja opens up about the racial bias and discrimination he faced during his career, using his retirement speech to address deep-rooted issues in Australian cricket."
+title: Usman Khawaja Blasts Racial Bias After Ashes Criticism in Emotional Retirement Speech
+description: Usman Khawaja opens up about the racial bias and discrimination he faced during his career, using his retirement speech to address deep-rooted issues in Australian cricket.
 date: 2026-01-03
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

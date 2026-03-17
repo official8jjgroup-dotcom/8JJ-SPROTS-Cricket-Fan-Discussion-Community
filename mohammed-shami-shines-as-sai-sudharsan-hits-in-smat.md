@@ -1,8 +1,8 @@
 ---
-title: "Mohammed Shami Dominates as Sai Sudharsan Smashes a Stunning Ton in SMAT"
-description: "Mohammed Shami's stunning 4/30 in the Syed Mushtaq Ali Trophy continues to impress selectors and reaffirm his T20 credentials."
+title: Mohammed Shami Dominates as Sai Sudharsan Smashes a Stunning Ton in SMAT
+description: Mohammed Shami's stunning 4/30 in the Syed Mushtaq Ali Trophy continues to impress selectors and reaffirm his T20 credentials.
 date: 2025-12-09
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

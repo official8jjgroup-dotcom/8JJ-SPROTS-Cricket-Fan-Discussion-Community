@@ -1,8 +1,8 @@
 ---
-title: "SA20 Playoffs: Capitals’ Historic Comeback Shakes Standings"
-description: "Pretoria Capitals staged a sensational comeback against Joburg Super Kings in the SA20 Playoffs, thanks to a thrilling sixth-wicket partnership."
+title: SA20 Playoffs: Capitals’ Historic Comeback Shakes Standings
+description: Pretoria Capitals staged a sensational comeback against Joburg Super Kings in the SA20 Playoffs, thanks to a thrilling sixth-wicket partnership.
 date: 2026-01-18
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

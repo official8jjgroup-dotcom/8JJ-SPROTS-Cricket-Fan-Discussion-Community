@@ -1,8 +1,8 @@
 ---
-title: "Manchester United’s Defensive Crisis Deepens Ahead of Crucial Premier League Clash"
-description: "Manchester United defensive crisis has intensified as injuries and inconsistent performances continue to disrupt Erik ten Hag’s plans ahead of a crucial Premier League fixture."
+title: Manchester United’s Defensive Crisis Deepens Ahead of Crucial Premier League Clash
+description: Manchester United defensive crisis has intensified as injuries and inconsistent performances continue to disrupt Erik ten Hag’s plans ahead of a crucial Premier League fixture.
 date: 2026-01-23
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

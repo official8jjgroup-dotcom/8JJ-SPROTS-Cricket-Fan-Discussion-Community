@@ -1,8 +1,8 @@
 ---
-title: "Guardiola Shapes Haaland’s Rise at City: Amazing Positive Impact"
-description: "Erling Haaland credits Pep Guardiola for his incredible development at Manchester City, highlighting the coach’s role in refining his movement, decision-making, and goal-scoring maturity."
+title: Guardiola Shapes Haaland’s Rise at City: Amazing Positive Impact
+description: Erling Haaland credits Pep Guardiola for his incredible development at Manchester City, highlighting the coach’s role in refining his movement, decision-making, and goal-scoring maturity.
 date: 2025-12-26
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

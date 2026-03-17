@@ -1,8 +1,8 @@
 ---
-title: "Champions League 2026: Teams Chasing European Glory"
-description: "Europe’s biggest clubs are preparing for the 2026 Champions League as the race for continental supremacy intensifies."
+title: Champions League 2026: Teams Chasing European Glory
+description: Europe’s biggest clubs are preparing for the 2026 Champions League as the race for continental supremacy intensifies.
 date: 2025-12-19
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

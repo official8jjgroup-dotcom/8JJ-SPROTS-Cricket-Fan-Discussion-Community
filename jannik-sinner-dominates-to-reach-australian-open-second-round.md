@@ -1,8 +1,8 @@
 ---
-title: "Jannik Sinner Dominates to Reach Australian Open Second Round"
-description: "Jannik Sinner advances to the second round of the Australian Open 2026 after Hugo Gaston retires mid-match, showcasing clinical form and efficiency."
+title: Jannik Sinner Dominates to Reach Australian Open Second Round
+description: Jannik Sinner advances to the second round of the Australian Open 2026 after Hugo Gaston retires mid-match, showcasing clinical form and efficiency.
 date: 2026-01-22
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "Ranji Trophy Rethink After Triple Hundred and Eight Sixes"
-description: "A triple hundred and an eight-sixes performance spark calls for structural review in the Ranji Trophy."
+title: Ranji Trophy Rethink After Triple Hundred and Eight Sixes
+description: A triple hundred and an eight-sixes performance spark calls for structural review in the Ranji Trophy.
 date: 2025-11-13
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

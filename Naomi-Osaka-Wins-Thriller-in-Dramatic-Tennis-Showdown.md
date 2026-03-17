@@ -1,8 +1,8 @@
 ---
-title: "Naomi Osaka Wins Thriller in Dramatic Tennis Showdown"
-description: "Naomi Osaka secures a thrilling victory in a tense match, showcasing resilience and championship-level performance."
+title: Naomi Osaka Wins Thriller in Dramatic Tennis Showdown
+description: Naomi Osaka secures a thrilling victory in a tense match, showcasing resilience and championship-level performance.
 date: 2025-12-19
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

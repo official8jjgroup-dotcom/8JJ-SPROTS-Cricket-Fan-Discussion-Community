@@ -1,8 +1,8 @@
 ---
-title: "Rohit Sharma Fitness: 5 Highlights From Ranchi ODI"
-description: "Rohit Sharma’s fitness and performance in the Ranchi ODI stood out with 5 key highlights"
+title: Rohit Sharma Fitness: 5 Highlights From Ranchi ODI
+description: Rohit Sharma’s fitness and performance in the Ranchi ODI stood out with 5 key highlights
 date: 2025-12-02
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

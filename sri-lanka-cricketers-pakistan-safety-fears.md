@@ -1,8 +1,8 @@
 ---
-title: "Sri Lanka Cricketers’ Pakistan Safety Fears Increase"
-description: "Sri Lankan players raise fresh safety concerns ahead of their scheduled Pakistan tour."
+title: Sri Lanka Cricketers’ Pakistan Safety Fears Increase
+description: Sri Lankan players raise fresh safety concerns ahead of their scheduled Pakistan tour.
 date: 2025-11-13
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

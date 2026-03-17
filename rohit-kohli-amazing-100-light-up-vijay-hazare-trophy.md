@@ -1,8 +1,8 @@
 ---
-title: "Rohit Kohli Amazing 100 Light Up Vijay Hazare Trophy"
-description: "Rohit Sharma and Virat Kohli mark sensational comebacks in the Vijay Hazare Trophy, both scoring centuries and taking domestic cricket by storm."
+title: Rohit Kohli Amazing 100 Light Up Vijay Hazare Trophy
+description: Rohit Sharma and Virat Kohli mark sensational comebacks in the Vijay Hazare Trophy, both scoring centuries and taking domestic cricket by storm.
 date: 2025-12-26
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

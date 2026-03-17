@@ -1,8 +1,8 @@
 ---
-title: "Suryakumar Yadav Faces Pressure Amid Poor T20I Form"
-description: "The India T20I captain has accumulated only 227 runs since November last year, averaging 13.35."
+title: Suryakumar Yadav Faces Pressure Amid Poor T20I Form
+description: The India T20I captain has accumulated only 227 runs since November last year, averaging 13.35.
 date: 2025-12-13
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "BCCI Backs Gautam Gambhir After India’s Test Loss Controversy"
-description: "BCCI backs Gautam Gambhir amid criticism after India’s 30-run loss to South Africa in the first Test at Eden Gardens in Kolkata."
+title: BCCI Backs Gautam Gambhir After India’s Test Loss Controversy
+description: BCCI backs Gautam Gambhir amid criticism after India’s 30-run loss to South Africa in the first Test at Eden Gardens in Kolkata.
 date: 2025-11-24
-category: "Test Cricket"
-tags: ["Gautam Gambhir", "India vs South Africa Test", "BCCI statement", "Sitanshu Kotak", "Kolkata Test loss"]
+category: Test Cricket
+tags: [Gautam Gambhir, India vs South Africa Test, BCCI statement, Sitanshu Kotak, Kolkata Test loss]
 layout: post
 ---
 
@@ -18,7 +18,7 @@ The first Test ended with India being bowled out for 93 while chasing 124, spark
 ### BCCI’s Statement on Coaching Decisions
 
 Speaking to RevSportz, Saikia said:  
-*"The BCCI has full confidence in our selectors, our coaching team, including the head coach and the players. We do not distinguish anybody. We give full support and that is why they are doing well."*  
+*The BCCI has full confidence in our selectors, our coaching team, including the head coach and the players. We do not distinguish anybody. We give full support and that is why they are doing well.*  
 He noted that social media criticism is inevitable but does not reflect the team’s overall performance.
 
 #### Context Behind the Criticism
@@ -30,7 +30,7 @@ Much of the backlash focused on Gambhir’s request for a spin-friendly pitch an
 ## Support from India’s Batting Coach Sitanshu Kotak
 
 Batting coach **Sitanshu Kotak** strongly defended Gambhir, noting that much criticism comes from individuals with personal agendas.  
-*"Gautam took the blame on himself because he didn’t want the curators to take the blame. Definitely, when we play in India—just like other countries play to their strengths—we rely on spin. Fast bowlers remain in the game on Day 1 and Day 2,"* Kotak explained.
+*Gautam took the blame on himself because he didn’t want the curators to take the blame. Definitely, when we play in India—just like other countries play to their strengths—we rely on spin. Fast bowlers remain in the game on Day 1 and Day 2,* Kotak explained.
 
 ### Criticism Overshadows Team Performance
 

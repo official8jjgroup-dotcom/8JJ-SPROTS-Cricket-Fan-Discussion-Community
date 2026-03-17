@@ -1,8 +1,8 @@
 ---
-title: "Cristiano Ronaldo: World Cup Qualifier Welcomed by Boos"
-description: "Cristiano Ronaldo receives boos from opposition fans during a World Cup qualifier, but responds with trademark composure."
+title: Cristiano Ronaldo: World Cup Qualifier Welcomed by Boos
+description: Cristiano Ronaldo receives boos from opposition fans during a World Cup qualifier, but responds with trademark composure.
 date: 2025-11-13
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

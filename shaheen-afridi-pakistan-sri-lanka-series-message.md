@@ -1,8 +1,8 @@
 ---
-title: "Shaheen Afridi Sends Message Ahead of Pakistan–Sri Lanka Series"
-description: "Pakistan pacer Shaheen Afridi delivers a confident message ahead of the upcoming Pakistan vs Sri Lanka cricket series."
+title: Shaheen Afridi Sends Message Ahead of Pakistan–Sri Lanka Series
+description: Pakistan pacer Shaheen Afridi delivers a confident message ahead of the upcoming Pakistan vs Sri Lanka cricket series.
 date: 2025-11-13
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

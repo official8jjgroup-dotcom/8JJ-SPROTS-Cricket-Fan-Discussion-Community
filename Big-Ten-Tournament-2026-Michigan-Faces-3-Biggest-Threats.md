@@ -1,8 +1,8 @@
 ---
-title: "Big Ten Tournament 2026: Michigan Faces 3 Biggest Threats"
-description: "Michigan enters the Big Ten Tournament 2026 with high expectations but must overcome several strong conference rivals."
+title: Big Ten Tournament 2026: Michigan Faces 3 Biggest Threats
+description: Michigan enters the Big Ten Tournament 2026 with high expectations but must overcome several strong conference rivals.
 date: 2025-12-13
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

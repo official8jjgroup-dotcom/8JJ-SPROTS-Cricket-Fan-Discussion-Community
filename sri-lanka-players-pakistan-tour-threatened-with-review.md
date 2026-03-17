@@ -1,8 +1,8 @@
 ---
-title: "Sri Lanka Players on Pakistan Tour ‘Threatened With Review’"
-description: "Sri Lankan players reportedly warned that skipping the Pakistan tour could trigger a contractual or disciplinary review."
+title: Sri Lanka Players on Pakistan Tour ‘Threatened With Review’
+description: Sri Lankan players reportedly warned that skipping the Pakistan tour could trigger a contractual or disciplinary review.
 date: 2025-11-13
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "Australia vs England 2nd Ashes Test Live Score"
-description: "Day 3 of the 2nd Ashes Test at the Gabba sees Australia take charge before England fights back late in the evening."
+title: Australia vs England 2nd Ashes Test Live Score
+description: Day 3 of the 2nd Ashes Test at the Gabba sees Australia take charge before England fights back late in the evening.
 date: 2025-12-06
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

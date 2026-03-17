@@ -1,8 +1,8 @@
 ---
-title: "Nine-Man Bayern Munich Rescue Dramatic Draw"
-description: "Bayern Munich battled back from a goal down and finished with nine players to secure a dramatic 1-1 draw against Bayer Leverkusen in the Bundesliga."
+title: Nine-Man Bayern Munich Rescue Dramatic Draw
+description: Bayern Munich battled back from a goal down and finished with nine players to secure a dramatic 1-1 draw against Bayer Leverkusen in the Bundesliga.
 date: 2026-03-15
-author: "8JJ"
+author: 8JJ
 layout: post
 ---
 

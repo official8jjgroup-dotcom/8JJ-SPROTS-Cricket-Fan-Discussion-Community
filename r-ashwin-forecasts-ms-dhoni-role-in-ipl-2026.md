@@ -1,8 +1,8 @@
 ---
-title: "R Ashwin Predicts MS Dhoni’s IPL 2026 Batting Role"
-description: "Ravichandran Ashwin suggests that MS Dhoni may move to a top-order No. 3 role in IPL 2026, departing from his traditional finisher position."
+title: R Ashwin Predicts MS Dhoni’s IPL 2026 Batting Role
+description: Ravichandran Ashwin suggests that MS Dhoni may move to a top-order No. 3 role in IPL 2026, departing from his traditional finisher position.
 date: 2026-01-26
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

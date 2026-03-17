@@ -1,8 +1,8 @@
 ---
-title: "Virat Kohli: Dale Steyn Praises His 38-Year-Old ODI Brilliance"
-description: "Virat Kohli continues to impress at 38, with Dale Steyn highlighting his unmatched commitment, mental sharpness, and hunger for ODI cricket"
+title: Virat Kohli: Dale Steyn Praises His 38-Year-Old ODI Brilliance
+description: Virat Kohli continues to impress at 38, with Dale Steyn highlighting his unmatched commitment, mental sharpness, and hunger for ODI cricket
 date: 2025-12-02
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

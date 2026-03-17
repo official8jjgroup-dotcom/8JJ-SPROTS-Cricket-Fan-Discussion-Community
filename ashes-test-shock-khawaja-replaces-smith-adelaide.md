@@ -2,8 +2,8 @@
 title: Ashes Test Shock as Khawaja Replaces Smith at Adelaide
 description: Usman Khawaja was a last-minute inclusion for Steve Smith, altering Australia’s lineup in the Adelaide Ashes Test.
 date: 2025-12-17
-author: "8JJ Sports"
-layout: "post"
+author: 8JJ Sports
+layout: post
 ---
 
 # Ashes Test Shake-Up: Khawaja In for Smith at Adelaide

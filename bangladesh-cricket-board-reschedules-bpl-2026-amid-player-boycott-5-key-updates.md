@@ -1,8 +1,8 @@
 ---
-title: "Bangladesh Cricket Board Reschedules BPL 2026 Amid Player Boycott: 5 Key Updates"
-description: "The Bangladesh Cricket Board (BCB) was compelled to issue a revised schedule following an emergency meeting that also resulted in the removal of senior board official M Nazmul Islam."
+title: Bangladesh Cricket Board Reschedules BPL 2026 Amid Player Boycott: 5 Key Updates
+description: The Bangladesh Cricket Board (BCB) was compelled to issue a revised schedule following an emergency meeting that also resulted in the removal of senior board official M Nazmul Islam.
 date: 2026-01-16
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

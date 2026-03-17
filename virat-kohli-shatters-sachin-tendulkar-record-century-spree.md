@@ -1,8 +1,8 @@
 ---
-title: "Virat Kohli Shatters Sachin Tendulkar’s Record as Century Scoring Spree Continues"
-description: "Virat Kohli broke Sachin Tendulkar’s record with another brilliant century against South Africa in the 2nd ODI."
+title: Virat Kohli Shatters Sachin Tendulkar’s Record as Century Scoring Spree Continues
+description: Virat Kohli broke Sachin Tendulkar’s record with another brilliant century against South Africa in the 2nd ODI.
 date: 2025-12-04
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

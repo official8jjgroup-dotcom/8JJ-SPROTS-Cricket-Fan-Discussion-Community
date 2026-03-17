@@ -1,8 +1,8 @@
 ---
-title: "Abhishek Sharma: 5 Hours With Cricket Legend Brian Lara"
-description: "Abhishek Sharma has emerged as one of India’s most sensational cricketers"
+title: Abhishek Sharma: 5 Hours With Cricket Legend Brian Lara
+description: Abhishek Sharma has emerged as one of India’s most sensational cricketers
 date: 2025-12-13
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "Delhi Ranji Trophy Crisis: Selector Leaves Mid-Season"
-description: "Delhi cricket faces internal turmoil as a selector exits mid-season during the Ranji Trophy campaign."
+title: Delhi Ranji Trophy Crisis: Selector Leaves Mid-Season
+description: Delhi cricket faces internal turmoil as a selector exits mid-season during the Ranji Trophy campaign.
 date: 2025-11-13
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

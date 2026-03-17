@@ -1,9 +1,9 @@
 ---
-title: "Aakash Chopra Troll Story With Moeen Ali"
-description: "Aakash Chopra recalls being trolled by Moeen Ali in 2016 after pointing out a batting flaw; Moeen later apologized, calling his reaction wrong."
+title: Aakash Chopra Troll Story With Moeen Ali
+description: Aakash Chopra recalls being trolled by Moeen Ali in 2016 after pointing out a batting flaw; Moeen later apologized, calling his reaction wrong.
 date: 2025-11-22
-category: "Test Cricket"
-tags: ["Aakash Chopra", "Moeen Ali", "India vs England", "Chennai Test 2016", "Cricket Analysis", "Cricket Trolling", "Player Analysis", "Stats vs Tactics"]
+category: Test Cricket
+tags: [Aakash Chopra, Moeen Ali, India vs England, Chennai Test 2016, Cricket Analysis, Cricket Trolling, Player Analysis, Stats vs Tactics]
 layout: post
 ---
 

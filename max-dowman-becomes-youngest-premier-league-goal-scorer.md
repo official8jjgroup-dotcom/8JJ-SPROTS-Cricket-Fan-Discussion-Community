@@ -1,8 +1,8 @@
 ---
-title: "Max Dowman Becomes Youngest Premier League Goal Scorer"
-description: "Arsenal teen Max Dowman made history by becoming the youngest-ever goal scorer in Premier League history at just 16 years and 73 days old with a dramatic late goal against Everton."
+title: Max Dowman Becomes Youngest Premier League Goal Scorer
+description: Arsenal teen Max Dowman made history by becoming the youngest-ever goal scorer in Premier League history at just 16 years and 73 days old with a dramatic late goal against Everton.
 date: 2026-03-15
-author: "8JJ"
+author: 8JJ
 layout: post
 ---
 

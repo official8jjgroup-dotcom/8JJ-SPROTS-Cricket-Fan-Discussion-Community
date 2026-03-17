@@ -1,8 +1,8 @@
 ---
-title: "Abhishek Sharma Must Use to Counter South Africa"
-description: "Abhishek Sharma's rising importance in India’s T20I setup as the team prepares for the 2026 T20 World Cup, with insights from Irfan Pathan on South Africa’s strategy."
+title: Abhishek Sharma Must Use to Counter South Africa
+description: Abhishek Sharma's rising importance in India’s T20I setup as the team prepares for the 2026 T20 World Cup, with insights from Irfan Pathan on South Africa’s strategy.
 date: 2025-12-09
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "Indian Wells: 7 Powerful Moments in Sabalenka’s Win Over Osaka"
-description: "Seven powerful highlights from Aryna Sabalenka’s impressive performance against Naomi Osaka at Indian Wells."
+title: Indian Wells: 7 Powerful Moments in Sabalenka’s Win Over Osaka
+description: Seven powerful highlights from Aryna Sabalenka’s impressive performance against Naomi Osaka at Indian Wells.
 date: 2026-03-12
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "Big Bash League Introduces Designated Player Rule for 2026-27 Season"
-description: "The BBL will implement the Designated Player Rule in 2026-27, giving teams more tactical flexibility and adding excitement to matches."
+title: Big Bash League Introduces Designated Player Rule for 2026-27 Season
+description: The BBL will implement the Designated Player Rule in 2026-27, giving teams more tactical flexibility and adding excitement to matches.
 date: 2026-01-18
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

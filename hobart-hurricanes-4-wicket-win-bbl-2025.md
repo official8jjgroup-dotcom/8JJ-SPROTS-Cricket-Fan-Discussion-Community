@@ -1,9 +1,9 @@
 ---
-title: "Hobart Hurricanes Edge Thunder in Thrilling BBL 2025 Opener"
-description: "Hobart Hurricanes defend their BBL 2025 title with a tense four-wicket win over Sydney Thunder."
+title: Hobart Hurricanes Edge Thunder in Thrilling BBL 2025 Opener
+description: Hobart Hurricanes defend their BBL 2025 title with a tense four-wicket win over Sydney Thunder.
 date: 2025-12-17
-author: "8JJ Sports"
-layout: "post"
+author: 8JJ Sports
+layout: post
 ---
 
 # Hobart Hurricanes Secure Dramatic Four-Wicket Win in BBL 2025 Opener

@@ -1,8 +1,8 @@
 ---
-title: "Yashasvi Jaiswal Names Shubman Gill Most Hard-Working Player"
-description: ""
+title: Yashasvi Jaiswal Names Shubman Gill Most Hard-Working Player
+description: 
 date: 2025-12-11
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "IPL 2026 Auction: Complete Player List & Base Prices"
-description: "The IPL 2026 auction will feature 359 players, including top T20 stars and emerging talents, vying for spots across 10 franchises."
+title: IPL 2026 Auction: Complete Player List & Base Prices
+description: The IPL 2026 auction will feature 359 players, including top T20 stars and emerging talents, vying for spots across 10 franchises.
 date: 2025-12-10
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

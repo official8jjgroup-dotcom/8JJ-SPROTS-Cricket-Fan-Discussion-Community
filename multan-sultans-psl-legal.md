@@ -1,9 +1,9 @@
 ---
-title: "Multan Sultans Owner Threatens Legal Action Over PSL Renewal"
-description: "Multan Sultans owner Ali Khan Tareen threatens legal action against PSL due to delays in franchise renewal and lack of communication from league officials."
+title: Multan Sultans Owner Threatens Legal Action Over PSL Renewal
+description: Multan Sultans owner Ali Khan Tareen threatens legal action against PSL due to delays in franchise renewal and lack of communication from league officials.
 date: 2025-11-20
-category: "Cricket International"
-tags: ["Multan Sultans", "PSL Renewal", "Ali Khan Tareen", "Pakistan Super League", "PSL Legal Dispute", "PSL Expansion"]
+category: Cricket International
+tags: [Multan Sultans, PSL Renewal, Ali Khan Tareen, Pakistan Super League, PSL Legal Dispute, PSL Expansion]
 layout: post
 ---
 
@@ -16,7 +16,7 @@ layout: post
 ## Tareen Raises Concerns Over PSL Management
 
 Tareen publicly criticized the PSL and **Pakistan Cricket Board (PCB)** management for unprofessional handling of the franchise renewal process. In a social media post on **November 19**, he stated:  
-*"If this ghosting continues we will have no choice but to take legal action… fragile egos make simple things difficult."*
+*If this ghosting continues we will have no choice but to take legal action… fragile egos make simple things difficult.*
 
 The controversy follows a prior incident where Tareen publicly rejected a PCB notice requesting a public apology, highlighting ongoing tensions with the league authorities.
 

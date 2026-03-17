@@ -1,9 +1,9 @@
 ---
-title: "Joe Root Reaches 22,000 Runs During Ashes 2025"
-description: "Joe Root joined an elite club by crossing 22,000 international runs, marking a historic milestone during a challenging Ashes 2025 series."
+title: Joe Root Reaches 22,000 Runs During Ashes 2025
+description: Joe Root joined an elite club by crossing 22,000 international runs, marking a historic milestone during a challenging Ashes 2025 series.
 date: 2025-12-28
-author: "8JJ Sports"
-layout: "post"
+author: 8JJ Sports
+layout: post
 ---
 
 # Joe Root’s 22,000-Run Landmark Defines Ashes 2025

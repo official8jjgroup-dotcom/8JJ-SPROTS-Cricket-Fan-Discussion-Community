@@ -1,8 +1,8 @@
 ---
-title: "Eden Gardens Pink-Ball Test: Kohli’s 136 & India’s Dominance"
-description: "A look back at Virat Kohli’s iconic 136 in the Eden Gardens pink-ball Test and India’s dominant performance."
+title: Eden Gardens Pink-Ball Test: Kohli’s 136 & India’s Dominance
+description: A look back at Virat Kohli’s iconic 136 in the Eden Gardens pink-ball Test and India’s dominant performance.
 date: 2025-11-13
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

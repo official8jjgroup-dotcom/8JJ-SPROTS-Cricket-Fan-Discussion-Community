@@ -1,9 +1,9 @@
 ---
-title: "India vs South Africa 2nd Test Day 1 Live Updates: Playing XI & Toss Details"
-description: "Follow India vs South Africa 2nd Test live updates, playing XI changes, toss details, and early-day action from Barsapara Cricket Stadium in Guwahati."
+title: India vs South Africa 2nd Test Day 1 Live Updates: Playing XI & Toss Details
+description: Follow India vs South Africa 2nd Test live updates, playing XI changes, toss details, and early-day action from Barsapara Cricket Stadium in Guwahati.
 date: 2025-11-24
-category: "Test Cricket"
-tags: ["India vs South Africa", "2nd Test Live", "Rishabh Pant", "Shubman Gill", "Barsapara Stadium", "Playing XI", "Toss"]
+category: Test Cricket
+tags: [India vs South Africa, 2nd Test Live, Rishabh Pant, Shubman Gill, Barsapara Stadium, Playing XI, Toss]
 layout: post
 ---
 

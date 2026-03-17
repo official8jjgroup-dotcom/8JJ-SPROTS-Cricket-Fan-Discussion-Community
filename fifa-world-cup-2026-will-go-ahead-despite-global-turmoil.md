@@ -1,8 +1,8 @@
 ---
-title: "FIFA World Cup 2026 Will Go Ahead Despite Global Turmoil"
-description: "FIFA confirms the 2026 World Cup will proceed as scheduled despite global geopolitical tensions, with officials saying the tournament is too big to postpone."
+title: FIFA World Cup 2026 Will Go Ahead Despite Global Turmoil
+description: FIFA confirms the 2026 World Cup will proceed as scheduled despite global geopolitical tensions, with officials saying the tournament is too big to postpone.
 date: 2026-03-10
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

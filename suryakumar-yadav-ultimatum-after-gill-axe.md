@@ -1,9 +1,9 @@
 ---
-title: "Suryakumar Yadav Faces Ultimatum After Shubman Gill Omission"
-description: "India’s T20 World Cup 2026 selections underline a hard shift toward form-based accountability, placing Suryakumar Yadav under direct scrutiny."
+title: Suryakumar Yadav Faces Ultimatum After Shubman Gill Omission
+description: India’s T20 World Cup 2026 selections underline a hard shift toward form-based accountability, placing Suryakumar Yadav under direct scrutiny.
 date: 2025-12-21
-author: "8JJ Sports"
-layout: "post"
+author: 8JJ Sports
+layout: post
 ---
 
 # Suryakumar Yadav Under Pressure After Gill’s Exclusion

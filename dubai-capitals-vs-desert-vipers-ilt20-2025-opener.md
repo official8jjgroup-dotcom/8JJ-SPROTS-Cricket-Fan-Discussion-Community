@@ -1,8 +1,8 @@
 ---
-title: "Dubai Capitals Face Desert Vipers in ILT20 2025 Opener"
-description: "Defending champions Dubai Capitals kick off ILT20 2025 with a high-stakes rematch against Desert Vipers, emphasizing mindset, preparation, and team balance."
+title: Dubai Capitals Face Desert Vipers in ILT20 2025 Opener
+description: Defending champions Dubai Capitals kick off ILT20 2025 with a high-stakes rematch against Desert Vipers, emphasizing mindset, preparation, and team balance.
 date: 2025-12-02
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "Mandhana WPL Heroics Guide RCB To 4th Straight Win"
-description: "Smriti Mandhana starred with 96 off 61 balls as RCB secured their fourth consecutive WPL victory, defeating Delhi Capitals by eight wickets."
+title: Mandhana WPL Heroics Guide RCB To 4th Straight Win
+description: Smriti Mandhana starred with 96 off 61 balls as RCB secured their fourth consecutive WPL victory, defeating Delhi Capitals by eight wickets.
 date: 2026-01-18
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

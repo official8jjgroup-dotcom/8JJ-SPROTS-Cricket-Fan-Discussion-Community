@@ -1,8 +1,8 @@
 ---
-title: "Jasprit Bumrah Stuns With 3 Wickets in Third T20I Heroics"
-description: "Jasprit Bumrah takes 3/17 in the third T20I against New Zealand, reinforcing his status as one of the world’s top T20 bowlers."
+title: Jasprit Bumrah Stuns With 3 Wickets in Third T20I Heroics
+description: Jasprit Bumrah takes 3/17 in the third T20I against New Zealand, reinforcing his status as one of the world’s top T20 bowlers.
 date: 2026-01-26
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

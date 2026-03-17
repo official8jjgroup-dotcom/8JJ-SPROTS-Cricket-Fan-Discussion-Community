@@ -1,8 +1,8 @@
 ---
-title: "David Miller Back and Fit: Ready for India T20I Clash"
-description: "David Miller's return to the South African squad for the first T20I against India brings much-needed experience and match-winning ability."
+title: David Miller Back and Fit: Ready for India T20I Clash
+description: David Miller's return to the South African squad for the first T20I against India brings much-needed experience and match-winning ability.
 date: 2025-12-09
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "India vs New Zealand: T20 World Cup Final Match Report"
-description: "India defeated New Zealand by 96 runs in the ICC Men’s T20 World Cup final in Ahmedabad, sealing their third title with a dominant all-round performance."
+title: India vs New Zealand: T20 World Cup Final Match Report
+description: India defeated New Zealand by 96 runs in the ICC Men’s T20 World Cup final in Ahmedabad, sealing their third title with a dominant all-round performance.
 date: 2026-03-09
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

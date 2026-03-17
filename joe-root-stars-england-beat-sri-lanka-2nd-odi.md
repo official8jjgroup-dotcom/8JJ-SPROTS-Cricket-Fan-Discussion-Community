@@ -1,8 +1,8 @@
 ---
-title: "Joe Root Stars As England Beat Sri Lanka In 2nd ODI"
-description: "Joe Root’s all-round brilliance leads England to a five-wicket win over Sri Lanka, leveling the ODI series."
+title: Joe Root Stars As England Beat Sri Lanka In 2nd ODI
+description: Joe Root’s all-round brilliance leads England to a five-wicket win over Sri Lanka, leveling the ODI series.
 date: 2026-01-25
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

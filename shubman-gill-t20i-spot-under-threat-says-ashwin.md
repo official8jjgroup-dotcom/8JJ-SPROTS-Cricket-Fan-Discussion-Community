@@ -1,8 +1,8 @@
 ---
-title: "Shubman Gill’s T20I Spot ‘Under Threat’, Says Ashwin"
-description: "Ravichandran Ashwin comments that Shubman Gill’s T20I position may be under threat ahead of India's upcoming series."
+title: Shubman Gill’s T20I Spot ‘Under Threat’, Says Ashwin
+description: Ravichandran Ashwin comments that Shubman Gill’s T20I position may be under threat ahead of India's upcoming series.
 date: 2025-11-13
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

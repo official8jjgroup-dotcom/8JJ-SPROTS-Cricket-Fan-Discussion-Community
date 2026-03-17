@@ -1,8 +1,8 @@
 ---
-title: "Ravi Shastri Defends Gautam Gambhir After India’s South Africa Whitewash"
-description: "Ravi Shastri says team, not Gautam Gambhir alone, is responsible for India’s recent Test struggles against South Africa."
+title: Ravi Shastri Defends Gautam Gambhir After India’s South Africa Whitewash
+description: Ravi Shastri says team, not Gautam Gambhir alone, is responsible for India’s recent Test struggles against South Africa.
 date: 2025-12-08
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

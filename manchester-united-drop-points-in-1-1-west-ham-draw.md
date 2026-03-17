@@ -1,9 +1,9 @@
 ---
 
-title: "Manchester United Drop Points in 1-1 West Ham Draw"
-description: "Manchester United miss a key chance to move into the Premier League’s top five after a 1-1 draw with West Ham at Old Trafford."
+title: Manchester United Drop Points in 1-1 West Ham Draw
+description: Manchester United miss a key chance to move into the Premier League’s top five after a 1-1 draw with West Ham at Old Trafford.
 date: 2025-12-05
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

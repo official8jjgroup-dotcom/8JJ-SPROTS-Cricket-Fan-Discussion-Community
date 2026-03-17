@@ -1,8 +1,8 @@
 ---
-title: "Virat Kohli Stuns With Massive Sixes Ahead of IND vs SA 2nd ODI"
-description: "Virat Kohli showcased his power-hitting in an intense practice session ahead of the 2nd ODI against South Africa, staying focused despite external debates about his future."
+title: Virat Kohli Stuns With Massive Sixes Ahead of IND vs SA 2nd ODI
+description: Virat Kohli showcased his power-hitting in an intense practice session ahead of the 2nd ODI against South Africa, staying focused despite external debates about his future.
 date: 2025-12-03
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

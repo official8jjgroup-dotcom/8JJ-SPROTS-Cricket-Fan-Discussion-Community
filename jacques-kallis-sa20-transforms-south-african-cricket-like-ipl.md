@@ -1,8 +1,8 @@
 ---
-title: "Jacques Kallis Says SA20 Has Transformed South African Cricket Like IPL Did For India"
-description: "SA20 has emerged as a transformative force in South African cricket"
+title: Jacques Kallis Says SA20 Has Transformed South African Cricket Like IPL Did For India
+description: SA20 has emerged as a transformative force in South African cricket
 date: 2025-12-03
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

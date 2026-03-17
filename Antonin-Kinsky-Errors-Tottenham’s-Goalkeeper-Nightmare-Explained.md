@@ -1,8 +1,8 @@
 ---
-title: "Antonin Kinsky Errors: Tottenham’s Goalkeeper Nightmare Explained"
-description: "Tottenham goalkeeper Antonin Kinsky endured a disastrous start in the Champions League after multiple early mistakes led to goals and an early substitution."
+title: Antonin Kinsky Errors: Tottenham’s Goalkeeper Nightmare Explained
+description: Tottenham goalkeeper Antonin Kinsky endured a disastrous start in the Champions League after multiple early mistakes led to goals and an early substitution.
 date: 2026-03-11
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

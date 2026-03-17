@@ -1,8 +1,8 @@
 ---
-title: "Zimbabwe T20I Tri-Series Squad: Newman Nyamhuri Included"
-description: "Zimbabwe announce their squad for the upcoming T20I tri-series, with youngster Newman Nyamhuri earning a surprise call-up."
+title: Zimbabwe T20I Tri-Series Squad: Newman Nyamhuri Included
+description: Zimbabwe announce their squad for the upcoming T20I tri-series, with youngster Newman Nyamhuri earning a surprise call-up.
 date: 2025-11-13
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

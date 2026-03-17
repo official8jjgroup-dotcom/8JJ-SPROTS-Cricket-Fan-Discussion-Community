@@ -1,8 +1,8 @@
 ---
-title: "Cayman Island Cricket Team In 2028 T20 World Cup Qualification Spotlight"
-description: "The Cayman Islands national cricket team has been competing in the ICC Men’s T20 World Cup Americas Sub-regional Qualifier B as part of the pathway to 2028 T20 World Cup qualification."
+title: Cayman Island Cricket Team In 2028 T20 World Cup Qualification Spotlight
+description: The Cayman Islands national cricket team has been competing in the ICC Men’s T20 World Cup Americas Sub-regional Qualifier B as part of the pathway to 2028 T20 World Cup qualification.
 date: 2026-03-16
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

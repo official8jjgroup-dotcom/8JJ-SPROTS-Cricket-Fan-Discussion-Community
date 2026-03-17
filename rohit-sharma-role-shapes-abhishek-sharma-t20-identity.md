@@ -1,8 +1,8 @@
 ---
-title: "Rohit Sharma Role Shapes Abhishek Sharma’s T20 Identity"
-description: "Young Indian opener Abhishek Sharma credits Rohit Sharma’s style, guidance from Gautam Gambhir and Suryakumar Yadav for his explosive T20 rise."
+title: Rohit Sharma Role Shapes Abhishek Sharma’s T20 Identity
+description: Young Indian opener Abhishek Sharma credits Rohit Sharma’s style, guidance from Gautam Gambhir and Suryakumar Yadav for his explosive T20 rise.
 date: 2026-01-24
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

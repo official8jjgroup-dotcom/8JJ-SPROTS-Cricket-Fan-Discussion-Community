@@ -1,8 +1,8 @@
 ---
-title: "Marco Penge: DP World Tour Comeback Eyes Race to Dubai Glory"
-description: "Marco Penge is making a sensational comeback on the DP World Tour, targeting the top spot in the Race to Dubai after overcoming a past suspension."
+title: Marco Penge: DP World Tour Comeback Eyes Race to Dubai Glory
+description: Marco Penge is making a sensational comeback on the DP World Tour, targeting the top spot in the Race to Dubai after overcoming a past suspension.
 date: 2025-11-10
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

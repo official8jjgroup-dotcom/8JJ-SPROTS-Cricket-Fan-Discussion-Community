@@ -1,8 +1,8 @@
 ---
-title: "Abhishek Sharma Draws High Praise From Kris Srikkanth After Match-Winning T20 Knock"
-description: "Abhishek Sharma praise reached new heights after the young Indian batter delivered a sensational performance that impressed former India captain Kris Srikkanth."
+title: Abhishek Sharma Draws High Praise From Kris Srikkanth After Match-Winning T20 Knock
+description: Abhishek Sharma praise reached new heights after the young Indian batter delivered a sensational performance that impressed former India captain Kris Srikkanth.
 date: 2026-01-23
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

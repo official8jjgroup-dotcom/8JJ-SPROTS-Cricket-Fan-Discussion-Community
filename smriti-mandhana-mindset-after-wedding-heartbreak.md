@@ -1,8 +1,8 @@
 ---
-title: "Smriti Mandhana: Mindset After Wedding Heartbreak"
-description: "Smriti Mandhana opened up about her mindset and focus on cricket just days after her wedding with Palash Muchhal was called off"
+title: Smriti Mandhana: Mindset After Wedding Heartbreak
+description: Smriti Mandhana opened up about her mindset and focus on cricket just days after her wedding with Palash Muchhal was called off
 date: 2025-12-11
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "Josh Inglis’ IPL 2026 U-Turn After ₹8.6 Crore Auction Shock"
-description: "Josh Inglis became a central IPL 2026 talking point after a ₹8.6 crore bid changed his availability narrative."
+title: Josh Inglis’ IPL 2026 U-Turn After ₹8.6 Crore Auction Shock
+description: Josh Inglis became a central IPL 2026 talking point after a ₹8.6 crore bid changed his availability narrative.
 date: 2025-12-19
-author: "8JJ Sports"
-layout: "post"
+author: 8JJ Sports
+layout: post
 ---
 
 # Josh Inglis’ IPL Availability Takes Dramatic Turn in 2026 Auction

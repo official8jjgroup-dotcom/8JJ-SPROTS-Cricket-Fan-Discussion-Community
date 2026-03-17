@@ -1,9 +1,9 @@
 ---
-title: "India U19 World Cup 2026: USA Clash Highlights"
-description: "India U19 will kick off their 2026 World Cup campaign against the USA in Zimbabwe and Namibia, featuring global debuts and a packed schedule of exciting fixtures."
+title: India U19 World Cup 2026: USA Clash Highlights
+description: India U19 will kick off their 2026 World Cup campaign against the USA in Zimbabwe and Namibia, featuring global debuts and a packed schedule of exciting fixtures.
 date: 2025-11-20
-category: "ICC"
-tags: ["India U19", "U19 World Cup 2026", "ICC U19", "Zimbabwe Cricket", "Namibia Cricket", "Tanzania Debut", "Cricket Fixtures"]
+category: ICC
+tags: [India U19, U19 World Cup 2026, ICC U19, Zimbabwe Cricket, Namibia Cricket, Tanzania Debut, Cricket Fixtures]
 layout: post
 ---
 
@@ -40,7 +40,7 @@ The U19 World Cup 2026 follows four groups, a **Super Six stage**, two semi-fina
 #### ICC Chairman on U19 World Cup Impact
 
 **ICC Chairman Jay Shah** emphasized:  
-*"The ICC U19 Men's Cricket World Cup has long been the cradle of greatness, revealing not just the next generation of cricketers, but the next generation of icons. From Brian Lara to Virat Kohli and Shubman Gill, this tournament consistently shapes the future of our sport."*
+*The ICC U19 Men's Cricket World Cup has long been the cradle of greatness, revealing not just the next generation of cricketers, but the next generation of icons. From Brian Lara to Virat Kohli and Shubman Gill, this tournament consistently shapes the future of our sport.*
 
 ---
 

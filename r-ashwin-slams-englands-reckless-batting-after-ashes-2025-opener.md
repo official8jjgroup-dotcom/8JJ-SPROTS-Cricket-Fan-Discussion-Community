@@ -1,14 +1,14 @@
 ---
-title: "R Ashwin Slams England's Reckless Batting After Ashes 2025 Opener"
-description: "R Ashwin criticizes England's 'reckless' batting in Ashes 2025 opener against Australia, highlighting collapses under Bazball strategy and poor support for bowlers."
+title: R Ashwin Slams England's Reckless Batting After Ashes 2025 Opener
+description: R Ashwin criticizes England's 'reckless' batting in Ashes 2025 opener against Australia, highlighting collapses under Bazball strategy and poor support for bowlers.
 date: 2025-11-24
-category: "Cricket International"
-tags: ["R Ashwin", "England Cricket", "Ashes 2025", "Bazball Strategy", "Australia vs England", "R Ashwin critique", "England Ashes collapse", "Bazball strategy failure", "Australia vs England Test"]
-featured_image: ""
+category: Cricket International
+tags: [R Ashwin, England Cricket, Ashes 2025, Bazball Strategy, Australia vs England, R Ashwin critique, England Ashes collapse, Bazball strategy failure, Australia vs England Test]
+featured_image: 
 draft: false
 ---
 
-R Ashwin delivered a scathing critique of England's performance in the first Ashes 2025 Test against Australia in Perth, describing their batting approach as "reckless." England's much-hyped Bazball strategy failed to deliver as the team collapsed twice for under 200 runs, with no batter lasting more than 61 deliveries. Australia capitalized on the poor batting, registering an eight-wicket victory inside two days.
+R Ashwin delivered a scathing critique of England's performance in the first Ashes 2025 Test against Australia in Perth, describing their batting approach as reckless. England's much-hyped Bazball strategy failed to deliver as the team collapsed twice for under 200 runs, with no batter lasting more than 61 deliveries. Australia capitalized on the poor batting, registering an eight-wicket victory inside two days.
 
 ---
 
@@ -18,17 +18,17 @@ England's batting lineup faltered dramatically on Day 1 and Day 2 of the Ashes 2
 
 ### Ashwin Critiques Bazball Strategy
 
-Speaking on his YouTube channel, Ashwin questioned the effectiveness of England's Bazball style. "But how reckless will reckless suffice? I am actually thinking, where will the bandwidth of the word 'reckless' remain?" he asked, criticizing England for not showing restraint and failing to protect the team's position. According to Ashwin, even younger teams must balance aggression with responsibility, especially in Test cricket.
+Speaking on his YouTube channel, Ashwin questioned the effectiveness of England's Bazball style. But how reckless will reckless suffice? I am actually thinking, where will the bandwidth of the word 'reckless' remain? he asked, criticizing England for not showing restraint and failing to protect the team's position. According to Ashwin, even younger teams must balance aggression with responsibility, especially in Test cricket.
 
 ---
 
 ## 💥 England Failed to Support Their Bowlers
 
-Ashwin stressed the importance of batting to allow bowlers rest and recovery. "Your first job as a batting unit is to give your bowlers overnight rest and see how your bowlers respond," he said. England's inability to do so left their bowlers under pressure, further compounding the team's troubles. The result highlighted a lack of tactical awareness and discipline in crucial moments.
+Ashwin stressed the importance of batting to allow bowlers rest and recovery. Your first job as a batting unit is to give your bowlers overnight rest and see how your bowlers respond, he said. England's inability to do so left their bowlers under pressure, further compounding the team's troubles. The result highlighted a lack of tactical awareness and discipline in crucial moments.
 
 ### England's Batters Under Scrutiny
 
-No England batter lasted more than 61 balls, showing a worrying pattern of rash shot-making. Ashwin remarked on the absence of patience and the excessive reliance on lofted shots, which resulted in quick wickets. The former Indian spinner suggested that this kind of recklessness, if continued, could make the Ashes tour "very, very, very long" for England.
+No England batter lasted more than 61 balls, showing a worrying pattern of rash shot-making. Ashwin remarked on the absence of patience and the excessive reliance on lofted shots, which resulted in quick wickets. The former Indian spinner suggested that this kind of recklessness, if continued, could make the Ashes tour very, very, very long for England.
 
 ---
 

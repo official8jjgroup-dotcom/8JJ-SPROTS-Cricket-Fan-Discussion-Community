@@ -1,8 +1,8 @@
 ---
-title: "Shubman Gill Fitness Test Updates Ahead of T20I"
-description: "Shubman Gill to undergo mandatory fitness assessment ahead of India’s T20I series against South Africa, determining his readiness after injury"
+title: Shubman Gill Fitness Test Updates Ahead of T20I
+description: Shubman Gill to undergo mandatory fitness assessment ahead of India’s T20I series against South Africa, determining his readiness after injury
 date: 2025-12-02
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

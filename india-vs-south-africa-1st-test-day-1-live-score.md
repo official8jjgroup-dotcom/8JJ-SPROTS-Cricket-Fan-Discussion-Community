@@ -1,8 +1,8 @@
 ---
-title: "India vs South Africa 1st Test – Day 1 Live Score"
-description: "Live coverage and key moments from Day 1 of the 1st Test between India and South Africa."
+title: India vs South Africa 1st Test – Day 1 Live Score
+description: Live coverage and key moments from Day 1 of the 1st Test between India and South Africa.
 date: 2025-11-14
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

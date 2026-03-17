@@ -1,9 +1,9 @@
 ---
-title: "Diksha Dagar Wins Deaflympics Golf Gold"
-description: "Indian golfer Diksha Dagar defends her gold medal at Deaflympics 2025 with an outstanding 11-under finish, dominating the women’s individual strokeplay competition."
+title: Diksha Dagar Wins Deaflympics Golf Gold
+description: Indian golfer Diksha Dagar defends her gold medal at Deaflympics 2025 with an outstanding 11-under finish, dominating the women’s individual strokeplay competition.
 date: 2025-11-21
-category: "Golf"
-tags: ["Diksha Dagar", "Deaflympics 2025", "Indian golfer", "Ladies European Tour", "Harsh Singh", "Vibhu Tyagi"]
+category: Golf
+tags: [Diksha Dagar, Deaflympics 2025, Indian golfer, Ladies European Tour, Harsh Singh, Vibhu Tyagi]
 layout: post
 ---
 

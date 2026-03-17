@@ -1,8 +1,8 @@
 ---
-title: "Rishabh Pant Replaces KL Rahul in India’s Predicted XI vs New Zealand"
-description: "Rishabh Pant comes in for KL Rahul in India’s predicted XI for the first ODI against New Zealand, signaling a tactical shift ahead of the three-match series."
+title: Rishabh Pant Replaces KL Rahul in India’s Predicted XI vs New Zealand
+description: Rishabh Pant comes in for KL Rahul in India’s predicted XI for the first ODI against New Zealand, signaling a tactical shift ahead of the three-match series.
 date: 2026-01-12
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

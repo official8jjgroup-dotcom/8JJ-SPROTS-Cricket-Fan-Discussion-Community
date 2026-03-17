@@ -1,8 +1,8 @@
 ---
-title: "Real Madrid Injury Crisis Threatens Title Push Ahead of Crucial Fixtures"
-description: "Real Madrid injury crisis has emerged as a major concern as the Spanish giants navigate a demanding phase of the season with several key players sidelined."
+title: Real Madrid Injury Crisis Threatens Title Push Ahead of Crucial Fixtures
+description: Real Madrid injury crisis has emerged as a major concern as the Spanish giants navigate a demanding phase of the season with several key players sidelined.
 date: 2026-01-23
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "Alcaraz Targets Third Indian Wells Title in 2026"
-description: "Carlos Alcaraz aims to secure his third Indian Wells championship as he prepares for another strong run in the tournament."
+title: Alcaraz Targets Third Indian Wells Title in 2026
+description: Carlos Alcaraz aims to secure his third Indian Wells championship as he prepares for another strong run in the tournament.
 date: 2026-03-10
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "India Women Hockey Team Hold Scotland To 2-2 Draw In World Cup Qualifier"
-description: "India women hockey team hold Scotland to a tense 2-2 draw in the FIH Hockey World Cup Qualifiers while maintaining the top position in Pool B."
+title: India Women Hockey Team Hold Scotland To 2-2 Draw In World Cup Qualifier
+description: India women hockey team hold Scotland to a tense 2-2 draw in the FIH Hockey World Cup Qualifiers while maintaining the top position in Pool B.
 date: 2026-03-10
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

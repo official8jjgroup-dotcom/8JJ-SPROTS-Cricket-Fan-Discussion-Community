@@ -1,9 +1,9 @@
 ---
 
-title: "Rohit Sharma’s 2027 World Cup Wish Revealed"
-description: "Rohit Sharma shares a playful moment with Rishabh Pant during India’s ODI against South Africa, hinting at a heartfelt 2027 World Cup wish."
+title: Rohit Sharma’s 2027 World Cup Wish Revealed
+description: Rohit Sharma shares a playful moment with Rishabh Pant during India’s ODI against South Africa, hinting at a heartfelt 2027 World Cup wish.
 date: 2025-12-05
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

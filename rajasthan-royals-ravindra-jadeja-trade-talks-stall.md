@@ -1,8 +1,8 @@
 ---
-title: "Rajasthan Royals–Ravindra Jadeja Trade Talks Stall"
-description: "The potential blockbuster trade involving Ravindra Jadeja and Rajasthan Royals has stalled amid disagreements."
+title: Rajasthan Royals–Ravindra Jadeja Trade Talks Stall
+description: The potential blockbuster trade involving Ravindra Jadeja and Rajasthan Royals has stalled amid disagreements.
 date: 2025-11-13
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

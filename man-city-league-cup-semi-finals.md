@@ -1,9 +1,9 @@
 ---
-title: "Man City Reach League Cup Semi-Finals After 2–0 Win Over Brentford"
-description: "Man City advance to the League Cup semi-finals, showcasing squad depth, rotation, and key moments of brilliance."
+title: Man City Reach League Cup Semi-Finals After 2–0 Win Over Brentford
+description: Man City advance to the League Cup semi-finals, showcasing squad depth, rotation, and key moments of brilliance.
 date: 2025-12-18
-author: "8JJ Sports"
-layout: "post"
+author: 8JJ Sports
+layout: post
 ---
 
 # Man City Secures League Cup Semi-Final Spot

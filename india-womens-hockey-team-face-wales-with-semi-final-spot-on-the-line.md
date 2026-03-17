@@ -1,8 +1,8 @@
 ---
-title: "India Women Hockey Team Face Wales With Semi Final Spot On The Line"
-description: "India women hockey team face Wales in a decisive FIH Hockey World Cup Qualifier match with a semi-final place at stake."
+title: India Women Hockey Team Face Wales With Semi Final Spot On The Line
+description: India women hockey team face Wales in a decisive FIH Hockey World Cup Qualifier match with a semi-final place at stake.
 date: 2026-03-11
-author: "8JJ Sports"
+author: 8JJ Sports
 layout: post
 ---
 

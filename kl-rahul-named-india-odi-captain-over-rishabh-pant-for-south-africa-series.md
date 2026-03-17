@@ -1,10 +1,10 @@
 ---
-title: "KL Rahul Named India ODI Captain Over Rishabh Pant for South Africa Series"
-description: "KL Rahul named India ODI captain over Rishabh Pant for South Africa series as Shubman Gill recovers from injury, with Jadeja returning and Yashasvi Jaiswal included."
+title: KL Rahul Named India ODI Captain Over Rishabh Pant for South Africa Series
+description: KL Rahul named India ODI captain over Rishabh Pant for South Africa series as Shubman Gill recovers from injury, with Jadeja returning and Yashasvi Jaiswal included.
 date: 2025-11-24
-category: "Cricket International"
-tags: ["KL Rahul", "Rishabh Pant", "India ODI Captain", "South Africa ODI Series", "Shubman Gill", "India ODI captain", "Ravindra Jadeja"]
-featured_image: ""
+category: Cricket International
+tags: [KL Rahul, Rishabh Pant, India ODI Captain, South Africa ODI Series, Shubman Gill, India ODI captain, Ravindra Jadeja]
+featured_image: 
 draft: false
 ---
 

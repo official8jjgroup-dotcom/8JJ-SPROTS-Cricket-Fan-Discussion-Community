@@ -1,10 +1,10 @@
 ---
-title: "Ryan Williams Switches to India: 32-Year-Old Football Star's Bold Move"
-description: "Ryan Williams renounces Australian citizenship to play for India, joining Bengaluru FC and the Indian national team in a bold move that marks a new era for Indian football."
+title: Ryan Williams Switches to India: 32-Year-Old Football Star's Bold Move
+description: Ryan Williams renounces Australian citizenship to play for India, joining Bengaluru FC and the Indian national team in a bold move that marks a new era for Indian football.
 date: 2025-11-24
-category: "History"
-tags: ["Ryan Williams", "Bengaluru FC", "Indian football", "AIFF", "Overseas Citizens of India", "Indian national team", "ISL 2025", "Sunil Chhetri"]
-featured_image: ""
+category: History
+tags: [Ryan Williams, Bengaluru FC, Indian football, AIFF, Overseas Citizens of India, Indian national team, ISL 2025, Sunil Chhetri]
+featured_image: 
 draft: false
 ---
 
@@ -20,7 +20,7 @@ Williams' transition to Indian citizenship was celebrated at Bengaluru FC's trai
 
 ## ⚽ Football Roots and Early Life
 
-Williams has deep ties to India. His mother hails from an Anglo-Indian family in Mumbai, while his father is from Kent, England. Football runs in his blood: his maternal grandfather, Lincoln "Linky" Grostate, played in the Santosh Trophy for Bombay during the 1950s, cementing a family legacy in the sport.
+Williams has deep ties to India. His mother hails from an Anglo-Indian family in Mumbai, while his father is from Kent, England. Football runs in his blood: his maternal grandfather, Lincoln Linky Grostate, played in the Santosh Trophy for Bombay during the 1950s, cementing a family legacy in the sport.
 
 Raised in Australia, Williams later moved to England, joining Portsmouth's academy in 2010. He made his professional debut for Portsmouth against Middlesbrough and played for several English clubs including Fulham, Gillingham, Oxford United, Barnsley, Rotherham United, and Perth Glory, gaining valuable international experience before moving to India.
 
@@ -40,7 +40,7 @@ Williams' ambition to represent India began when Sunil Chhetri first notified th
 
 ## ✅ FIFA Approval and Official Clearance
 
-On November 20, 2025, FIFA's Players' Status Chamber (PSC) approved Williams' switch to the Indian national team. According to AIFF, "FIFA reviewed the request under RGAS standards and confirmed all eligibility criteria were met. Ryan Williams is now officially eligible for India." This clearance allows India to utilize Williams' experience in international matches and qualifiers.
+On November 20, 2025, FIFA's Players' Status Chamber (PSC) approved Williams' switch to the Indian national team. According to AIFF, FIFA reviewed the request under RGAS standards and confirmed all eligibility criteria were met. Ryan Williams is now officially eligible for India. This clearance allows India to utilize Williams' experience in international matches and qualifiers.
 
 ---
 
