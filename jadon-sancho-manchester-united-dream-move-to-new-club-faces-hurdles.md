@@ -12,7 +12,7 @@ England winger **Jadon Sancho’s dream of securing a fresh permanent move away 
 
 Financial and contractual issues are among the main obstacles delaying a move. United have substantial **wage and transfer fee demands** they want resolved before sanctioning any exit, while potential suitors often balk at Sancho’s hefty earnings and uncertain consistency. Sancho is currently on loan at, where his performances have been mixed — and recalling him early would trigger complex contractual complications due to the loan agreement lacking a break clause.
 
-Interest has reportedly come from clubs including Serie A sides and other European teams, but **salary expectations, valuation gaps, and contract details continue to stall negotiations**. Meanwhile, United are considering releasing him for free once his contract expires to remove his significant wages from their books, though Sancho has yet to agree on a new long‑term destination.
+Interest has reportedly come from clubs including Serie A sides and other European teams, but **salary expectations, valuation gaps, and contract details continue to stall negotiations**. Meanwhile, United are considering releasing him for free once his contract expires to remove his significant wages from their books, though Sancho has yet to agree on a new long-term destination.
 
 ---
 
