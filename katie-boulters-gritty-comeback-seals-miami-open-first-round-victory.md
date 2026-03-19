@@ -1,7 +1,7 @@
 ---
 title: "Katie Boulter’s Gritty Comeback Seals Miami Open First‑Round Victory"
 description: "Katie Boulter battles back to earn a hard‑fought first‑round win at the 2026 Miami Open, showcasing resilience and tactical poise."
-date: 2026‑03‑18
+date: 2026-03-18
 author: "8JJ Sports"
 layout: post
 ---

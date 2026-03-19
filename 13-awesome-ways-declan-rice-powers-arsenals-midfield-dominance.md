@@ -1,7 +1,7 @@
 ---
 title: "13 Awesome Ways Declan Rice Powers Arsenal’s Midfield Dominance"
 description: "An in‑depth look at Declan Rice’s 13 key qualities that make him a relentless presence in midfield for Arsenal."
-date: 2026‑03‑18
+date: 2026-03-18
 author: "8JJ Sports"
 layout: post
 ---
