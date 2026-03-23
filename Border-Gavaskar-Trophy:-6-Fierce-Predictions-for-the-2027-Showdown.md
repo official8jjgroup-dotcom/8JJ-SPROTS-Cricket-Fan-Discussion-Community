@@ -12,7 +12,7 @@ layout: post
 
 The Border-Gavaskar Trophy 2027 is already shaping up to be one of the most intense Test series in modern cricket. With Australia set to tour India for a five-match series, the stakes couldn’t be higher in what is widely considered one of cricket’s greatest rivalries.
 
-This edition comes at a time of transition, with both teams expected to feature new faces alongside experienced match-winners. Australia’s demanding schedule leading into the tour and India’s strong home advantage could play decisive roles in determining the outcome. :contentReference[oaicite:1]{index=1}  
+This edition comes at a time of transition, with both teams expected to feature new faces alongside experienced match-winners. Australia’s demanding schedule leading into the tour and India’s strong home advantage could play decisive roles in determining the outcome.
 
 ---
 
