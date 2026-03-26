@@ -1,7 +1,7 @@
 ---
 title: "Prithvi Shaw Comeback: 5 Strong Reasons Behind His Return"
 description: "Breaking down the key factors behind Prithvi Shaw’s resurgence and return to form in competitive cricket."
-date: 2026‑03‑26
+date: 2026-03-26
 author: "8JJ.com"
 layout: post
 ---
