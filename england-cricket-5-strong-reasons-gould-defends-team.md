@@ -1,7 +1,7 @@
 ---
 title: "England Cricket: 5 Strong Reasons Gould Defends the Team"
 description: "A breakdown of the key points backing England’s cricket team as explained by coach Keaton Gould, highlighting resilience and future promise."
-date: 2026‑04‑01
+date: 2026-04-01
 author: "8JJ Sports"
 layout: post
 ---
