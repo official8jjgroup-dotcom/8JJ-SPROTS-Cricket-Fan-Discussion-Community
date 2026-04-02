@@ -1,7 +1,7 @@
 ---
 title: "Sahibzada Farhan Century: Explosive Highlights From PSL Win"
 description: "A breakdown of the key highlights from Sahibzada Farhan’s powerful century that powered Multan Sultans to a commanding PSL 2026 victory."
-date: 2026‑04‑02
+date: 2026-04-02
 author: "8JJ Sports"
 layout: post
 ---
