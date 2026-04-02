@@ -1,7 +1,7 @@
 ---
 title: "Sameer Rizvi IPL: 5 Match‑Winning Moments in DC Victory"
 description: "A breakdown of the five key moments from Sameer Rizvi’s match‑winning performance that powered the Delhi Capitals to a stunning IPL 2026 win."
-date: 2026‑04‑02
+date: 2026-04-02
 author: "8JJ Sports"
 layout: post
 ---
