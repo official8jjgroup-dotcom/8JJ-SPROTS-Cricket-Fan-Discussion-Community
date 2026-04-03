@@ -1,7 +1,7 @@
 ---
 title: "Alana King Dominates With 5‑Wicket Masterclass"
 description: "A summary of Alana King’s outstanding 5‑wicket performance that helped Australia Women seal a commanding series victory over West Indies."
-date: 2026‑04‑03
+date: 2026-04-03
 author: "8JJ Sports"
 layout: post
 ---
